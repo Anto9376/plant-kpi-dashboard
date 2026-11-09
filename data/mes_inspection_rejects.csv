@@ -1,0 +1,4015 @@
+batch_id,defect_code,defect_description,units_rejected
+B1-0401,PART,Particles,183
+B1-0401,COSM,Cosmetic container defect,136
+B1-0401,FILL,Fill level out of range,64
+B1-0401,SEAL,Crimp/seal defect,64
+B1-0401,STOP,Stopper defect,47
+B1-0401,CRACK,Crack or breakage,43
+B1-0402,PART,Particles,212
+B1-0402,COSM,Cosmetic container defect,142
+B1-0402,FILL,Fill level out of range,65
+B1-0402,SEAL,Crimp/seal defect,71
+B1-0402,STOP,Stopper defect,61
+B1-0402,CRACK,Crack or breakage,17
+B1-0403,PART,Particles,139
+B1-0403,COSM,Cosmetic container defect,106
+B1-0403,FILL,Fill level out of range,45
+B1-0403,SEAL,Crimp/seal defect,39
+B1-0403,STOP,Stopper defect,43
+B1-0403,CRACK,Crack or breakage,11
+B1-0404,PART,Particles,145
+B1-0404,COSM,Cosmetic container defect,124
+B1-0404,FILL,Fill level out of range,60
+B1-0404,SEAL,Crimp/seal defect,48
+B1-0404,STOP,Stopper defect,39
+B1-0404,CRACK,Crack or breakage,25
+B1-0405,PART,Particles,171
+B1-0405,COSM,Cosmetic container defect,172
+B1-0405,FILL,Fill level out of range,76
+B1-0405,SEAL,Crimp/seal defect,74
+B1-0405,STOP,Stopper defect,45
+B1-0405,CRACK,Crack or breakage,23
+B1-0406,PART,Particles,192
+B1-0406,COSM,Cosmetic container defect,160
+B1-0406,FILL,Fill level out of range,69
+B1-0406,SEAL,Crimp/seal defect,49
+B1-0406,STOP,Stopper defect,39
+B1-0406,CRACK,Crack or breakage,18
+B1-0407,PART,Particles,102
+B1-0407,COSM,Cosmetic container defect,78
+B1-0407,FILL,Fill level out of range,35
+B1-0407,SEAL,Crimp/seal defect,22
+B1-0407,STOP,Stopper defect,28
+B1-0407,CRACK,Crack or breakage,14
+B1-0408,PART,Particles,83
+B1-0408,COSM,Cosmetic container defect,86
+B1-0408,FILL,Fill level out of range,49
+B1-0408,SEAL,Crimp/seal defect,22
+B1-0408,STOP,Stopper defect,31
+B1-0408,CRACK,Crack or breakage,16
+B1-0409,PART,Particles,149
+B1-0409,COSM,Cosmetic container defect,109
+B1-0409,FILL,Fill level out of range,58
+B1-0409,SEAL,Crimp/seal defect,44
+B1-0409,STOP,Stopper defect,34
+B1-0409,CRACK,Crack or breakage,11
+B1-0410,PART,Particles,244
+B1-0410,COSM,Cosmetic container defect,201
+B1-0410,FILL,Fill level out of range,65
+B1-0410,SEAL,Crimp/seal defect,65
+B1-0410,STOP,Stopper defect,52
+B1-0410,CRACK,Crack or breakage,22
+B1-0411,PART,Particles,300
+B1-0411,COSM,Cosmetic container defect,161
+B1-0411,FILL,Fill level out of range,84
+B1-0411,SEAL,Crimp/seal defect,64
+B1-0411,STOP,Stopper defect,52
+B1-0411,CRACK,Crack or breakage,31
+B1-0412,PART,Particles,265
+B1-0412,COSM,Cosmetic container defect,204
+B1-0412,FILL,Fill level out of range,97
+B1-0412,SEAL,Crimp/seal defect,77
+B1-0412,STOP,Stopper defect,43
+B1-0412,CRACK,Crack or breakage,25
+B1-0413,PART,Particles,157
+B1-0413,COSM,Cosmetic container defect,92
+B1-0413,FILL,Fill level out of range,62
+B1-0413,SEAL,Crimp/seal defect,60
+B1-0413,STOP,Stopper defect,36
+B1-0413,CRACK,Crack or breakage,29
+B1-0414,PART,Particles,329
+B1-0414,COSM,Cosmetic container defect,170
+B1-0414,FILL,Fill level out of range,93
+B1-0414,SEAL,Crimp/seal defect,92
+B1-0414,STOP,Stopper defect,57
+B1-0414,CRACK,Crack or breakage,21
+B1-0415,PART,Particles,361
+B1-0415,COSM,Cosmetic container defect,197
+B1-0415,FILL,Fill level out of range,68
+B1-0415,SEAL,Crimp/seal defect,87
+B1-0415,STOP,Stopper defect,69
+B1-0415,CRACK,Crack or breakage,48
+B1-0416,PART,Particles,104
+B1-0416,COSM,Cosmetic container defect,105
+B1-0416,FILL,Fill level out of range,44
+B1-0416,SEAL,Crimp/seal defect,19
+B1-0416,STOP,Stopper defect,36
+B1-0416,CRACK,Crack or breakage,15
+B1-0417,PART,Particles,128
+B1-0417,COSM,Cosmetic container defect,98
+B1-0417,FILL,Fill level out of range,51
+B1-0417,SEAL,Crimp/seal defect,24
+B1-0417,STOP,Stopper defect,23
+B1-0417,CRACK,Crack or breakage,8
+B1-0418,PART,Particles,182
+B1-0418,COSM,Cosmetic container defect,147
+B1-0418,FILL,Fill level out of range,69
+B1-0418,SEAL,Crimp/seal defect,53
+B1-0418,STOP,Stopper defect,53
+B1-0418,CRACK,Crack or breakage,19
+B1-0419,PART,Particles,194
+B1-0419,COSM,Cosmetic container defect,131
+B1-0419,FILL,Fill level out of range,52
+B1-0419,SEAL,Crimp/seal defect,44
+B1-0419,STOP,Stopper defect,32
+B1-0419,CRACK,Crack or breakage,21
+B1-0420,PART,Particles,430
+B1-0420,COSM,Cosmetic container defect,477
+B1-0420,FILL,Fill level out of range,99
+B1-0420,SEAL,Crimp/seal defect,86
+B1-0420,STOP,Stopper defect,74
+B1-0420,CRACK,Crack or breakage,28
+B1-0421,PART,Particles,271
+B1-0421,COSM,Cosmetic container defect,209
+B1-0421,FILL,Fill level out of range,123
+B1-0421,SEAL,Crimp/seal defect,72
+B1-0421,STOP,Stopper defect,54
+B1-0421,CRACK,Crack or breakage,31
+B1-0422,PART,Particles,236
+B1-0422,COSM,Cosmetic container defect,195
+B1-0422,FILL,Fill level out of range,78
+B1-0422,SEAL,Crimp/seal defect,57
+B1-0422,STOP,Stopper defect,58
+B1-0422,CRACK,Crack or breakage,23
+B1-0423,PART,Particles,119
+B1-0423,COSM,Cosmetic container defect,105
+B1-0423,FILL,Fill level out of range,40
+B1-0423,SEAL,Crimp/seal defect,41
+B1-0423,STOP,Stopper defect,24
+B1-0423,CRACK,Crack or breakage,12
+B1-0424,PART,Particles,152
+B1-0424,COSM,Cosmetic container defect,168
+B1-0424,FILL,Fill level out of range,45
+B1-0424,SEAL,Crimp/seal defect,45
+B1-0424,STOP,Stopper defect,26
+B1-0424,CRACK,Crack or breakage,11
+B1-0425,PART,Particles,114
+B1-0425,COSM,Cosmetic container defect,69
+B1-0425,FILL,Fill level out of range,39
+B1-0425,SEAL,Crimp/seal defect,29
+B1-0425,STOP,Stopper defect,28
+B1-0425,CRACK,Crack or breakage,16
+B1-0426,PART,Particles,280
+B1-0426,COSM,Cosmetic container defect,209
+B1-0426,FILL,Fill level out of range,122
+B1-0426,SEAL,Crimp/seal defect,92
+B1-0426,STOP,Stopper defect,75
+B1-0426,CRACK,Crack or breakage,39
+B1-0427,PART,Particles,302
+B1-0427,COSM,Cosmetic container defect,218
+B1-0427,FILL,Fill level out of range,103
+B1-0427,SEAL,Crimp/seal defect,67
+B1-0427,STOP,Stopper defect,62
+B1-0427,CRACK,Crack or breakage,24
+B1-0428,PART,Particles,270
+B1-0428,COSM,Cosmetic container defect,217
+B1-0428,FILL,Fill level out of range,96
+B1-0428,SEAL,Crimp/seal defect,62
+B1-0428,STOP,Stopper defect,50
+B1-0428,CRACK,Crack or breakage,27
+B1-0429,PART,Particles,163
+B1-0429,COSM,Cosmetic container defect,127
+B1-0429,FILL,Fill level out of range,37
+B1-0429,SEAL,Crimp/seal defect,42
+B1-0429,STOP,Stopper defect,34
+B1-0429,CRACK,Crack or breakage,25
+B1-0430,PART,Particles,116
+B1-0430,COSM,Cosmetic container defect,78
+B1-0430,FILL,Fill level out of range,46
+B1-0430,SEAL,Crimp/seal defect,25
+B1-0430,STOP,Stopper defect,17
+B1-0430,CRACK,Crack or breakage,9
+B1-0431,PART,Particles,147
+B1-0431,COSM,Cosmetic container defect,89
+B1-0431,FILL,Fill level out of range,35
+B1-0431,SEAL,Crimp/seal defect,27
+B1-0431,STOP,Stopper defect,26
+B1-0431,CRACK,Crack or breakage,11
+B1-0433,PART,Particles,208
+B1-0433,COSM,Cosmetic container defect,141
+B1-0433,FILL,Fill level out of range,61
+B1-0433,SEAL,Crimp/seal defect,46
+B1-0433,STOP,Stopper defect,43
+B1-0433,CRACK,Crack or breakage,23
+B1-0434,PART,Particles,278
+B1-0434,COSM,Cosmetic container defect,224
+B1-0434,FILL,Fill level out of range,96
+B1-0434,SEAL,Crimp/seal defect,68
+B1-0434,STOP,Stopper defect,71
+B1-0434,CRACK,Crack or breakage,27
+B1-0435,PART,Particles,128
+B1-0435,COSM,Cosmetic container defect,75
+B1-0435,FILL,Fill level out of range,48
+B1-0435,SEAL,Crimp/seal defect,36
+B1-0435,STOP,Stopper defect,31
+B1-0435,CRACK,Crack or breakage,16
+B1-0436,PART,Particles,290
+B1-0436,COSM,Cosmetic container defect,218
+B1-0436,FILL,Fill level out of range,100
+B1-0436,SEAL,Crimp/seal defect,98
+B1-0436,STOP,Stopper defect,83
+B1-0436,CRACK,Crack or breakage,37
+B1-0437,PART,Particles,200
+B1-0437,COSM,Cosmetic container defect,172
+B1-0437,FILL,Fill level out of range,79
+B1-0437,SEAL,Crimp/seal defect,71
+B1-0437,STOP,Stopper defect,50
+B1-0437,CRACK,Crack or breakage,15
+B1-0438,PART,Particles,147
+B1-0438,COSM,Cosmetic container defect,95
+B1-0438,FILL,Fill level out of range,56
+B1-0438,SEAL,Crimp/seal defect,38
+B1-0438,STOP,Stopper defect,40
+B1-0438,CRACK,Crack or breakage,19
+B1-0439,PART,Particles,279
+B1-0439,COSM,Cosmetic container defect,142
+B1-0439,FILL,Fill level out of range,56
+B1-0439,SEAL,Crimp/seal defect,82
+B1-0439,STOP,Stopper defect,62
+B1-0439,CRACK,Crack or breakage,24
+B1-0440,PART,Particles,294
+B1-0440,COSM,Cosmetic container defect,182
+B1-0440,FILL,Fill level out of range,100
+B1-0440,SEAL,Crimp/seal defect,70
+B1-0440,STOP,Stopper defect,53
+B1-0440,CRACK,Crack or breakage,28
+B1-0441,PART,Particles,208
+B1-0441,COSM,Cosmetic container defect,131
+B1-0441,FILL,Fill level out of range,89
+B1-0441,SEAL,Crimp/seal defect,50
+B1-0441,STOP,Stopper defect,56
+B1-0441,CRACK,Crack or breakage,21
+B1-0442,PART,Particles,273
+B1-0442,COSM,Cosmetic container defect,240
+B1-0442,FILL,Fill level out of range,105
+B1-0442,SEAL,Crimp/seal defect,97
+B1-0442,STOP,Stopper defect,56
+B1-0442,CRACK,Crack or breakage,36
+B1-0443,PART,Particles,112
+B1-0443,COSM,Cosmetic container defect,76
+B1-0443,FILL,Fill level out of range,38
+B1-0443,SEAL,Crimp/seal defect,26
+B1-0443,STOP,Stopper defect,23
+B1-0443,CRACK,Crack or breakage,12
+B1-0444,PART,Particles,266
+B1-0444,COSM,Cosmetic container defect,160
+B1-0444,FILL,Fill level out of range,92
+B1-0444,SEAL,Crimp/seal defect,40
+B1-0444,STOP,Stopper defect,58
+B1-0444,CRACK,Crack or breakage,18
+B1-0445,PART,Particles,220
+B1-0445,COSM,Cosmetic container defect,143
+B1-0445,FILL,Fill level out of range,65
+B1-0445,SEAL,Crimp/seal defect,39
+B1-0445,STOP,Stopper defect,37
+B1-0445,CRACK,Crack or breakage,21
+B1-0446,PART,Particles,248
+B1-0446,COSM,Cosmetic container defect,159
+B1-0446,FILL,Fill level out of range,61
+B1-0446,SEAL,Crimp/seal defect,66
+B1-0446,STOP,Stopper defect,53
+B1-0446,CRACK,Crack or breakage,24
+B1-0447,PART,Particles,174
+B1-0447,COSM,Cosmetic container defect,224
+B1-0447,FILL,Fill level out of range,94
+B1-0447,SEAL,Crimp/seal defect,54
+B1-0447,STOP,Stopper defect,54
+B1-0447,CRACK,Crack or breakage,21
+B1-0448,PART,Particles,291
+B1-0448,COSM,Cosmetic container defect,217
+B1-0448,FILL,Fill level out of range,71
+B1-0448,SEAL,Crimp/seal defect,106
+B1-0448,STOP,Stopper defect,58
+B1-0448,CRACK,Crack or breakage,28
+B1-0449,PART,Particles,208
+B1-0449,COSM,Cosmetic container defect,172
+B1-0449,FILL,Fill level out of range,73
+B1-0449,SEAL,Crimp/seal defect,72
+B1-0449,STOP,Stopper defect,60
+B1-0449,CRACK,Crack or breakage,24
+B1-0450,PART,Particles,146
+B1-0450,COSM,Cosmetic container defect,126
+B1-0450,FILL,Fill level out of range,31
+B1-0450,SEAL,Crimp/seal defect,37
+B1-0450,STOP,Stopper defect,28
+B1-0450,CRACK,Crack or breakage,13
+B1-0451,PART,Particles,209
+B1-0451,COSM,Cosmetic container defect,153
+B1-0451,FILL,Fill level out of range,86
+B1-0451,SEAL,Crimp/seal defect,46
+B1-0451,STOP,Stopper defect,35
+B1-0451,CRACK,Crack or breakage,21
+B1-0452,PART,Particles,148
+B1-0452,COSM,Cosmetic container defect,101
+B1-0452,FILL,Fill level out of range,64
+B1-0452,SEAL,Crimp/seal defect,41
+B1-0452,STOP,Stopper defect,28
+B1-0452,CRACK,Crack or breakage,13
+B1-0453,PART,Particles,322
+B1-0453,COSM,Cosmetic container defect,184
+B1-0453,FILL,Fill level out of range,120
+B1-0453,SEAL,Crimp/seal defect,89
+B1-0453,STOP,Stopper defect,59
+B1-0453,CRACK,Crack or breakage,23
+B1-0454,PART,Particles,201
+B1-0454,COSM,Cosmetic container defect,117
+B1-0454,FILL,Fill level out of range,61
+B1-0454,SEAL,Crimp/seal defect,57
+B1-0454,STOP,Stopper defect,51
+B1-0454,CRACK,Crack or breakage,19
+B1-0455,PART,Particles,190
+B1-0455,COSM,Cosmetic container defect,94
+B1-0455,FILL,Fill level out of range,49
+B1-0455,SEAL,Crimp/seal defect,47
+B1-0455,STOP,Stopper defect,25
+B1-0455,CRACK,Crack or breakage,10
+B1-0456,PART,Particles,171
+B1-0456,COSM,Cosmetic container defect,174
+B1-0456,FILL,Fill level out of range,54
+B1-0456,SEAL,Crimp/seal defect,48
+B1-0456,STOP,Stopper defect,43
+B1-0456,CRACK,Crack or breakage,22
+B1-0457,PART,Particles,197
+B1-0457,COSM,Cosmetic container defect,113
+B1-0457,FILL,Fill level out of range,96
+B1-0457,SEAL,Crimp/seal defect,70
+B1-0457,STOP,Stopper defect,48
+B1-0457,CRACK,Crack or breakage,19
+B1-0458,PART,Particles,116
+B1-0458,COSM,Cosmetic container defect,119
+B1-0458,FILL,Fill level out of range,33
+B1-0458,SEAL,Crimp/seal defect,42
+B1-0458,STOP,Stopper defect,31
+B1-0458,CRACK,Crack or breakage,20
+B1-0459,PART,Particles,151
+B1-0459,COSM,Cosmetic container defect,132
+B1-0459,FILL,Fill level out of range,27
+B1-0459,SEAL,Crimp/seal defect,28
+B1-0459,STOP,Stopper defect,23
+B1-0459,CRACK,Crack or breakage,11
+B1-0460,PART,Particles,146
+B1-0460,COSM,Cosmetic container defect,117
+B1-0460,FILL,Fill level out of range,28
+B1-0460,SEAL,Crimp/seal defect,51
+B1-0460,STOP,Stopper defect,40
+B1-0460,CRACK,Crack or breakage,20
+B1-0461,PART,Particles,277
+B1-0461,COSM,Cosmetic container defect,375
+B1-0461,FILL,Fill level out of range,98
+B1-0461,SEAL,Crimp/seal defect,73
+B1-0461,STOP,Stopper defect,105
+B1-0461,CRACK,Crack or breakage,40
+B1-0462,PART,Particles,347
+B1-0462,COSM,Cosmetic container defect,281
+B1-0462,FILL,Fill level out of range,134
+B1-0462,SEAL,Crimp/seal defect,107
+B1-0462,STOP,Stopper defect,64
+B1-0462,CRACK,Crack or breakage,49
+B1-0463,PART,Particles,322
+B1-0463,COSM,Cosmetic container defect,224
+B1-0463,FILL,Fill level out of range,92
+B1-0463,SEAL,Crimp/seal defect,77
+B1-0463,STOP,Stopper defect,43
+B1-0463,CRACK,Crack or breakage,26
+B1-0464,PART,Particles,249
+B1-0464,COSM,Cosmetic container defect,230
+B1-0464,FILL,Fill level out of range,68
+B1-0464,SEAL,Crimp/seal defect,81
+B1-0464,STOP,Stopper defect,47
+B1-0464,CRACK,Crack or breakage,17
+B1-0465,PART,Particles,212
+B1-0465,COSM,Cosmetic container defect,138
+B1-0465,FILL,Fill level out of range,65
+B1-0465,SEAL,Crimp/seal defect,63
+B1-0465,STOP,Stopper defect,54
+B1-0465,CRACK,Crack or breakage,31
+B1-0466,PART,Particles,237
+B1-0466,COSM,Cosmetic container defect,105
+B1-0466,FILL,Fill level out of range,54
+B1-0466,SEAL,Crimp/seal defect,55
+B1-0466,STOP,Stopper defect,39
+B1-0466,CRACK,Crack or breakage,25
+B1-0467,PART,Particles,183
+B1-0467,COSM,Cosmetic container defect,167
+B1-0467,FILL,Fill level out of range,63
+B1-0467,SEAL,Crimp/seal defect,57
+B1-0467,STOP,Stopper defect,56
+B1-0467,CRACK,Crack or breakage,35
+B1-0468,PART,Particles,261
+B1-0468,COSM,Cosmetic container defect,201
+B1-0468,FILL,Fill level out of range,92
+B1-0468,SEAL,Crimp/seal defect,80
+B1-0468,STOP,Stopper defect,39
+B1-0468,CRACK,Crack or breakage,28
+B1-0469,PART,Particles,161
+B1-0469,COSM,Cosmetic container defect,154
+B1-0469,FILL,Fill level out of range,63
+B1-0469,SEAL,Crimp/seal defect,50
+B1-0469,STOP,Stopper defect,37
+B1-0469,CRACK,Crack or breakage,19
+B1-0470,PART,Particles,227
+B1-0470,COSM,Cosmetic container defect,127
+B1-0470,FILL,Fill level out of range,76
+B1-0470,SEAL,Crimp/seal defect,72
+B1-0470,STOP,Stopper defect,49
+B1-0470,CRACK,Crack or breakage,22
+B1-0471,PART,Particles,152
+B1-0471,COSM,Cosmetic container defect,158
+B1-0471,FILL,Fill level out of range,64
+B1-0471,SEAL,Crimp/seal defect,58
+B1-0471,STOP,Stopper defect,69
+B1-0471,CRACK,Crack or breakage,19
+B1-0472,PART,Particles,196
+B1-0472,COSM,Cosmetic container defect,163
+B1-0472,FILL,Fill level out of range,60
+B1-0472,SEAL,Crimp/seal defect,47
+B1-0472,STOP,Stopper defect,34
+B1-0472,CRACK,Crack or breakage,20
+B1-0473,PART,Particles,236
+B1-0473,COSM,Cosmetic container defect,210
+B1-0473,FILL,Fill level out of range,84
+B1-0473,SEAL,Crimp/seal defect,79
+B1-0473,STOP,Stopper defect,64
+B1-0473,CRACK,Crack or breakage,30
+B1-0474,PART,Particles,215
+B1-0474,COSM,Cosmetic container defect,113
+B1-0474,FILL,Fill level out of range,73
+B1-0474,SEAL,Crimp/seal defect,45
+B1-0474,STOP,Stopper defect,38
+B1-0474,CRACK,Crack or breakage,23
+B1-0475,PART,Particles,202
+B1-0475,COSM,Cosmetic container defect,208
+B1-0475,FILL,Fill level out of range,53
+B1-0475,SEAL,Crimp/seal defect,73
+B1-0475,STOP,Stopper defect,49
+B1-0475,CRACK,Crack or breakage,29
+B1-0476,PART,Particles,255
+B1-0476,COSM,Cosmetic container defect,211
+B1-0476,FILL,Fill level out of range,120
+B1-0476,SEAL,Crimp/seal defect,80
+B1-0476,STOP,Stopper defect,55
+B1-0476,CRACK,Crack or breakage,30
+B1-0477,PART,Particles,246
+B1-0477,COSM,Cosmetic container defect,213
+B1-0477,FILL,Fill level out of range,79
+B1-0477,SEAL,Crimp/seal defect,51
+B1-0477,STOP,Stopper defect,54
+B1-0477,CRACK,Crack or breakage,23
+B1-0478,PART,Particles,207
+B1-0478,COSM,Cosmetic container defect,132
+B1-0478,FILL,Fill level out of range,44
+B1-0478,SEAL,Crimp/seal defect,49
+B1-0478,STOP,Stopper defect,36
+B1-0478,CRACK,Crack or breakage,26
+B1-0479,PART,Particles,232
+B1-0479,COSM,Cosmetic container defect,229
+B1-0479,FILL,Fill level out of range,61
+B1-0479,SEAL,Crimp/seal defect,56
+B1-0479,STOP,Stopper defect,39
+B1-0479,CRACK,Crack or breakage,30
+B1-0480,PART,Particles,217
+B1-0480,COSM,Cosmetic container defect,201
+B1-0480,FILL,Fill level out of range,87
+B1-0480,SEAL,Crimp/seal defect,77
+B1-0480,STOP,Stopper defect,37
+B1-0480,CRACK,Crack or breakage,16
+B1-0481,PART,Particles,316
+B1-0481,COSM,Cosmetic container defect,212
+B1-0481,FILL,Fill level out of range,90
+B1-0481,SEAL,Crimp/seal defect,62
+B1-0481,STOP,Stopper defect,50
+B1-0481,CRACK,Crack or breakage,29
+B1-0482,PART,Particles,252
+B1-0482,COSM,Cosmetic container defect,143
+B1-0482,FILL,Fill level out of range,63
+B1-0482,SEAL,Crimp/seal defect,71
+B1-0482,STOP,Stopper defect,39
+B1-0482,CRACK,Crack or breakage,26
+B1-0483,PART,Particles,211
+B1-0483,COSM,Cosmetic container defect,183
+B1-0483,FILL,Fill level out of range,87
+B1-0483,SEAL,Crimp/seal defect,64
+B1-0483,STOP,Stopper defect,38
+B1-0483,CRACK,Crack or breakage,17
+B1-0484,PART,Particles,140
+B1-0484,COSM,Cosmetic container defect,128
+B1-0484,FILL,Fill level out of range,58
+B1-0484,SEAL,Crimp/seal defect,46
+B1-0484,STOP,Stopper defect,37
+B1-0484,CRACK,Crack or breakage,29
+B1-0485,PART,Particles,195
+B1-0485,COSM,Cosmetic container defect,238
+B1-0485,FILL,Fill level out of range,78
+B1-0485,SEAL,Crimp/seal defect,84
+B1-0485,STOP,Stopper defect,35
+B1-0485,CRACK,Crack or breakage,28
+B1-0486,PART,Particles,154
+B1-0486,COSM,Cosmetic container defect,158
+B1-0486,FILL,Fill level out of range,49
+B1-0486,SEAL,Crimp/seal defect,63
+B1-0486,STOP,Stopper defect,40
+B1-0486,CRACK,Crack or breakage,23
+B1-0487,PART,Particles,362
+B1-0487,COSM,Cosmetic container defect,185
+B1-0487,FILL,Fill level out of range,86
+B1-0487,SEAL,Crimp/seal defect,49
+B1-0487,STOP,Stopper defect,42
+B1-0487,CRACK,Crack or breakage,22
+B1-0488,PART,Particles,209
+B1-0488,COSM,Cosmetic container defect,148
+B1-0488,FILL,Fill level out of range,105
+B1-0488,SEAL,Crimp/seal defect,74
+B1-0488,STOP,Stopper defect,68
+B1-0488,CRACK,Crack or breakage,22
+B1-0489,PART,Particles,303
+B1-0489,COSM,Cosmetic container defect,220
+B1-0489,FILL,Fill level out of range,92
+B1-0489,SEAL,Crimp/seal defect,106
+B1-0489,STOP,Stopper defect,80
+B1-0489,CRACK,Crack or breakage,38
+B1-0490,PART,Particles,338
+B1-0490,COSM,Cosmetic container defect,350
+B1-0490,FILL,Fill level out of range,104
+B1-0490,SEAL,Crimp/seal defect,110
+B1-0490,STOP,Stopper defect,67
+B1-0490,CRACK,Crack or breakage,28
+B1-0491,PART,Particles,150
+B1-0491,COSM,Cosmetic container defect,90
+B1-0491,FILL,Fill level out of range,37
+B1-0491,SEAL,Crimp/seal defect,49
+B1-0491,STOP,Stopper defect,40
+B1-0491,CRACK,Crack or breakage,12
+B1-0492,PART,Particles,114
+B1-0492,COSM,Cosmetic container defect,120
+B1-0492,FILL,Fill level out of range,28
+B1-0492,SEAL,Crimp/seal defect,16
+B1-0492,STOP,Stopper defect,20
+B1-0492,CRACK,Crack or breakage,19
+B1-0493,PART,Particles,140
+B1-0493,COSM,Cosmetic container defect,125
+B1-0493,FILL,Fill level out of range,59
+B1-0493,SEAL,Crimp/seal defect,30
+B1-0493,STOP,Stopper defect,28
+B1-0493,CRACK,Crack or breakage,8
+B1-0494,PART,Particles,119
+B1-0494,COSM,Cosmetic container defect,89
+B1-0494,FILL,Fill level out of range,41
+B1-0494,SEAL,Crimp/seal defect,43
+B1-0494,STOP,Stopper defect,24
+B1-0494,CRACK,Crack or breakage,5
+B1-0495,PART,Particles,310
+B1-0495,COSM,Cosmetic container defect,299
+B1-0495,FILL,Fill level out of range,111
+B1-0495,SEAL,Crimp/seal defect,81
+B1-0495,STOP,Stopper defect,58
+B1-0495,CRACK,Crack or breakage,32
+B1-0496,PART,Particles,204
+B1-0496,COSM,Cosmetic container defect,174
+B1-0496,FILL,Fill level out of range,55
+B1-0496,SEAL,Crimp/seal defect,56
+B1-0496,STOP,Stopper defect,61
+B1-0496,CRACK,Crack or breakage,14
+B1-0497,PART,Particles,130
+B1-0497,COSM,Cosmetic container defect,168
+B1-0497,FILL,Fill level out of range,53
+B1-0497,SEAL,Crimp/seal defect,53
+B1-0497,STOP,Stopper defect,31
+B1-0497,CRACK,Crack or breakage,15
+B1-0498,PART,Particles,297
+B1-0498,COSM,Cosmetic container defect,157
+B1-0498,FILL,Fill level out of range,74
+B1-0498,SEAL,Crimp/seal defect,66
+B1-0498,STOP,Stopper defect,60
+B1-0498,CRACK,Crack or breakage,39
+B1-0499,PART,Particles,184
+B1-0499,COSM,Cosmetic container defect,99
+B1-0499,FILL,Fill level out of range,32
+B1-0499,SEAL,Crimp/seal defect,51
+B1-0499,STOP,Stopper defect,35
+B1-0499,CRACK,Crack or breakage,16
+B1-0500,PART,Particles,318
+B1-0500,COSM,Cosmetic container defect,261
+B1-0500,FILL,Fill level out of range,83
+B1-0500,SEAL,Crimp/seal defect,86
+B1-0500,STOP,Stopper defect,52
+B1-0500,CRACK,Crack or breakage,32
+B1-0501,PART,Particles,281
+B1-0501,COSM,Cosmetic container defect,191
+B1-0501,FILL,Fill level out of range,71
+B1-0501,SEAL,Crimp/seal defect,65
+B1-0501,STOP,Stopper defect,31
+B1-0501,CRACK,Crack or breakage,32
+B1-0502,PART,Particles,144
+B1-0502,COSM,Cosmetic container defect,82
+B1-0502,FILL,Fill level out of range,30
+B1-0502,SEAL,Crimp/seal defect,45
+B1-0502,STOP,Stopper defect,15
+B1-0502,CRACK,Crack or breakage,11
+B1-0503,PART,Particles,141
+B1-0503,COSM,Cosmetic container defect,96
+B1-0503,FILL,Fill level out of range,54
+B1-0503,SEAL,Crimp/seal defect,37
+B1-0503,STOP,Stopper defect,26
+B1-0503,CRACK,Crack or breakage,10
+B1-0504,PART,Particles,328
+B1-0504,COSM,Cosmetic container defect,168
+B1-0504,FILL,Fill level out of range,79
+B1-0504,SEAL,Crimp/seal defect,55
+B1-0504,STOP,Stopper defect,50
+B1-0504,CRACK,Crack or breakage,44
+B1-0505,PART,Particles,230
+B1-0505,COSM,Cosmetic container defect,194
+B1-0505,FILL,Fill level out of range,120
+B1-0505,SEAL,Crimp/seal defect,70
+B1-0505,STOP,Stopper defect,33
+B1-0505,CRACK,Crack or breakage,39
+B1-0506,PART,Particles,191
+B1-0506,COSM,Cosmetic container defect,141
+B1-0506,FILL,Fill level out of range,45
+B1-0506,SEAL,Crimp/seal defect,64
+B1-0506,STOP,Stopper defect,37
+B1-0506,CRACK,Crack or breakage,23
+B1-0507,PART,Particles,262
+B1-0507,COSM,Cosmetic container defect,174
+B1-0507,FILL,Fill level out of range,52
+B1-0507,SEAL,Crimp/seal defect,52
+B1-0507,STOP,Stopper defect,46
+B1-0507,CRACK,Crack or breakage,16
+B1-0508,PART,Particles,237
+B1-0508,COSM,Cosmetic container defect,215
+B1-0508,FILL,Fill level out of range,138
+B1-0508,SEAL,Crimp/seal defect,88
+B1-0508,STOP,Stopper defect,70
+B1-0508,CRACK,Crack or breakage,31
+B1-0509,PART,Particles,232
+B1-0509,COSM,Cosmetic container defect,176
+B1-0509,FILL,Fill level out of range,89
+B1-0509,SEAL,Crimp/seal defect,62
+B1-0509,STOP,Stopper defect,45
+B1-0509,CRACK,Crack or breakage,22
+B1-0510,PART,Particles,275
+B1-0510,COSM,Cosmetic container defect,141
+B1-0510,FILL,Fill level out of range,84
+B1-0510,SEAL,Crimp/seal defect,58
+B1-0510,STOP,Stopper defect,72
+B1-0510,CRACK,Crack or breakage,37
+B1-0511,PART,Particles,106
+B1-0511,COSM,Cosmetic container defect,78
+B1-0511,FILL,Fill level out of range,45
+B1-0511,SEAL,Crimp/seal defect,36
+B1-0511,STOP,Stopper defect,17
+B1-0511,CRACK,Crack or breakage,9
+B1-0512,PART,Particles,181
+B1-0512,COSM,Cosmetic container defect,189
+B1-0512,FILL,Fill level out of range,55
+B1-0512,SEAL,Crimp/seal defect,51
+B1-0512,STOP,Stopper defect,32
+B1-0512,CRACK,Crack or breakage,20
+B1-0513,PART,Particles,231
+B1-0513,COSM,Cosmetic container defect,182
+B1-0513,FILL,Fill level out of range,105
+B1-0513,SEAL,Crimp/seal defect,53
+B1-0513,STOP,Stopper defect,61
+B1-0513,CRACK,Crack or breakage,21
+B1-0514,PART,Particles,145
+B1-0514,COSM,Cosmetic container defect,105
+B1-0514,FILL,Fill level out of range,53
+B1-0514,SEAL,Crimp/seal defect,32
+B1-0514,STOP,Stopper defect,35
+B1-0514,CRACK,Crack or breakage,14
+B1-0515,PART,Particles,219
+B1-0515,COSM,Cosmetic container defect,152
+B1-0515,FILL,Fill level out of range,55
+B1-0515,SEAL,Crimp/seal defect,73
+B1-0515,STOP,Stopper defect,40
+B1-0515,CRACK,Crack or breakage,25
+B1-0516,PART,Particles,199
+B1-0516,COSM,Cosmetic container defect,148
+B1-0516,FILL,Fill level out of range,81
+B1-0516,SEAL,Crimp/seal defect,47
+B1-0516,STOP,Stopper defect,47
+B1-0516,CRACK,Crack or breakage,28
+B1-0517,PART,Particles,356
+B1-0517,COSM,Cosmetic container defect,269
+B1-0517,FILL,Fill level out of range,91
+B1-0517,SEAL,Crimp/seal defect,69
+B1-0517,STOP,Stopper defect,50
+B1-0517,CRACK,Crack or breakage,30
+B1-0518,PART,Particles,157
+B1-0518,COSM,Cosmetic container defect,119
+B1-0518,FILL,Fill level out of range,52
+B1-0518,SEAL,Crimp/seal defect,49
+B1-0518,STOP,Stopper defect,39
+B1-0518,CRACK,Crack or breakage,16
+B1-0519,PART,Particles,237
+B1-0519,COSM,Cosmetic container defect,164
+B1-0519,FILL,Fill level out of range,68
+B1-0519,SEAL,Crimp/seal defect,42
+B1-0519,STOP,Stopper defect,54
+B1-0519,CRACK,Crack or breakage,32
+B1-0520,PART,Particles,267
+B1-0520,COSM,Cosmetic container defect,256
+B1-0520,FILL,Fill level out of range,102
+B1-0520,SEAL,Crimp/seal defect,118
+B1-0520,STOP,Stopper defect,71
+B1-0520,CRACK,Crack or breakage,34
+B1-0521,PART,Particles,156
+B1-0521,COSM,Cosmetic container defect,149
+B1-0521,FILL,Fill level out of range,46
+B1-0521,SEAL,Crimp/seal defect,36
+B1-0521,STOP,Stopper defect,39
+B1-0521,CRACK,Crack or breakage,12
+B1-0522,PART,Particles,251
+B1-0522,COSM,Cosmetic container defect,154
+B1-0522,FILL,Fill level out of range,94
+B1-0522,SEAL,Crimp/seal defect,51
+B1-0522,STOP,Stopper defect,66
+B1-0522,CRACK,Crack or breakage,44
+B1-0523,PART,Particles,325
+B1-0523,COSM,Cosmetic container defect,140
+B1-0523,FILL,Fill level out of range,110
+B1-0523,SEAL,Crimp/seal defect,109
+B1-0523,STOP,Stopper defect,71
+B1-0523,CRACK,Crack or breakage,37
+B1-0524,PART,Particles,241
+B1-0524,COSM,Cosmetic container defect,214
+B1-0524,FILL,Fill level out of range,95
+B1-0524,SEAL,Crimp/seal defect,61
+B1-0524,STOP,Stopper defect,65
+B1-0524,CRACK,Crack or breakage,25
+B1-0525,PART,Particles,160
+B1-0525,COSM,Cosmetic container defect,152
+B1-0525,FILL,Fill level out of range,53
+B1-0525,SEAL,Crimp/seal defect,45
+B1-0525,STOP,Stopper defect,36
+B1-0525,CRACK,Crack or breakage,29
+B1-0526,PART,Particles,309
+B1-0526,COSM,Cosmetic container defect,336
+B1-0526,FILL,Fill level out of range,108
+B1-0526,SEAL,Crimp/seal defect,80
+B1-0526,STOP,Stopper defect,89
+B1-0526,CRACK,Crack or breakage,36
+B1-0527,PART,Particles,224
+B1-0527,COSM,Cosmetic container defect,114
+B1-0527,FILL,Fill level out of range,66
+B1-0527,SEAL,Crimp/seal defect,52
+B1-0527,STOP,Stopper defect,37
+B1-0527,CRACK,Crack or breakage,21
+B1-0528,PART,Particles,158
+B1-0528,COSM,Cosmetic container defect,146
+B1-0528,FILL,Fill level out of range,71
+B1-0528,SEAL,Crimp/seal defect,52
+B1-0528,STOP,Stopper defect,36
+B1-0528,CRACK,Crack or breakage,15
+B1-0529,PART,Particles,271
+B1-0529,COSM,Cosmetic container defect,189
+B1-0529,FILL,Fill level out of range,83
+B1-0529,SEAL,Crimp/seal defect,72
+B1-0529,STOP,Stopper defect,43
+B1-0529,CRACK,Crack or breakage,44
+B1-0530,PART,Particles,152
+B1-0530,COSM,Cosmetic container defect,181
+B1-0530,FILL,Fill level out of range,52
+B1-0530,SEAL,Crimp/seal defect,45
+B1-0530,STOP,Stopper defect,46
+B1-0530,CRACK,Crack or breakage,22
+B1-0531,PART,Particles,254
+B1-0531,COSM,Cosmetic container defect,133
+B1-0531,FILL,Fill level out of range,57
+B1-0531,SEAL,Crimp/seal defect,55
+B1-0531,STOP,Stopper defect,39
+B1-0531,CRACK,Crack or breakage,27
+B1-0532,PART,Particles,232
+B1-0532,COSM,Cosmetic container defect,228
+B1-0532,FILL,Fill level out of range,82
+B1-0532,SEAL,Crimp/seal defect,78
+B1-0532,STOP,Stopper defect,60
+B1-0532,CRACK,Crack or breakage,22
+B1-0533,PART,Particles,248
+B1-0533,COSM,Cosmetic container defect,200
+B1-0533,FILL,Fill level out of range,104
+B1-0533,SEAL,Crimp/seal defect,55
+B1-0533,STOP,Stopper defect,45
+B1-0533,CRACK,Crack or breakage,36
+B1-0534,PART,Particles,179
+B1-0534,COSM,Cosmetic container defect,135
+B1-0534,FILL,Fill level out of range,50
+B1-0534,SEAL,Crimp/seal defect,48
+B1-0534,STOP,Stopper defect,44
+B1-0534,CRACK,Crack or breakage,15
+B1-0535,PART,Particles,167
+B1-0535,COSM,Cosmetic container defect,135
+B1-0535,FILL,Fill level out of range,47
+B1-0535,SEAL,Crimp/seal defect,52
+B1-0535,STOP,Stopper defect,38
+B1-0535,CRACK,Crack or breakage,9
+B1-0536,PART,Particles,308
+B1-0536,COSM,Cosmetic container defect,198
+B1-0536,FILL,Fill level out of range,69
+B1-0536,SEAL,Crimp/seal defect,67
+B1-0536,STOP,Stopper defect,55
+B1-0536,CRACK,Crack or breakage,37
+B1-0537,PART,Particles,248
+B1-0537,COSM,Cosmetic container defect,121
+B1-0537,FILL,Fill level out of range,84
+B1-0537,SEAL,Crimp/seal defect,88
+B1-0537,STOP,Stopper defect,53
+B1-0537,CRACK,Crack or breakage,23
+B1-0538,PART,Particles,290
+B1-0538,COSM,Cosmetic container defect,204
+B1-0538,FILL,Fill level out of range,122
+B1-0538,SEAL,Crimp/seal defect,103
+B1-0538,STOP,Stopper defect,84
+B1-0538,CRACK,Crack or breakage,40
+B1-0539,PART,Particles,404
+B1-0539,COSM,Cosmetic container defect,215
+B1-0539,FILL,Fill level out of range,120
+B1-0539,SEAL,Crimp/seal defect,73
+B1-0539,STOP,Stopper defect,81
+B1-0539,CRACK,Crack or breakage,39
+B1-0541,PART,Particles,203
+B1-0541,COSM,Cosmetic container defect,141
+B1-0541,FILL,Fill level out of range,63
+B1-0541,SEAL,Crimp/seal defect,58
+B1-0541,STOP,Stopper defect,60
+B1-0541,CRACK,Crack or breakage,30
+B1-0542,PART,Particles,230
+B1-0542,COSM,Cosmetic container defect,178
+B1-0542,FILL,Fill level out of range,77
+B1-0542,SEAL,Crimp/seal defect,59
+B1-0542,STOP,Stopper defect,52
+B1-0542,CRACK,Crack or breakage,29
+B1-0543,PART,Particles,192
+B1-0543,COSM,Cosmetic container defect,132
+B1-0543,FILL,Fill level out of range,62
+B1-0543,SEAL,Crimp/seal defect,58
+B1-0543,STOP,Stopper defect,54
+B1-0543,CRACK,Crack or breakage,25
+B1-0544,PART,Particles,287
+B1-0544,COSM,Cosmetic container defect,233
+B1-0544,FILL,Fill level out of range,111
+B1-0544,SEAL,Crimp/seal defect,83
+B1-0544,STOP,Stopper defect,47
+B1-0544,CRACK,Crack or breakage,32
+B1-0545,PART,Particles,129
+B1-0545,COSM,Cosmetic container defect,122
+B1-0545,FILL,Fill level out of range,54
+B1-0545,SEAL,Crimp/seal defect,27
+B1-0545,STOP,Stopper defect,30
+B1-0545,CRACK,Crack or breakage,16
+B1-0546,PART,Particles,228
+B1-0546,COSM,Cosmetic container defect,256
+B1-0546,FILL,Fill level out of range,62
+B1-0546,SEAL,Crimp/seal defect,74
+B1-0546,STOP,Stopper defect,37
+B1-0546,CRACK,Crack or breakage,29
+B1-0547,PART,Particles,274
+B1-0547,COSM,Cosmetic container defect,231
+B1-0547,FILL,Fill level out of range,76
+B1-0547,SEAL,Crimp/seal defect,59
+B1-0547,STOP,Stopper defect,46
+B1-0547,CRACK,Crack or breakage,34
+B1-0548,PART,Particles,362
+B1-0548,COSM,Cosmetic container defect,264
+B1-0548,FILL,Fill level out of range,68
+B1-0548,SEAL,Crimp/seal defect,71
+B1-0548,STOP,Stopper defect,52
+B1-0548,CRACK,Crack or breakage,27
+B1-0549,PART,Particles,335
+B1-0549,COSM,Cosmetic container defect,266
+B1-0549,FILL,Fill level out of range,99
+B1-0549,SEAL,Crimp/seal defect,107
+B1-0549,STOP,Stopper defect,53
+B1-0549,CRACK,Crack or breakage,20
+B1-0550,PART,Particles,242
+B1-0550,COSM,Cosmetic container defect,213
+B1-0550,FILL,Fill level out of range,67
+B1-0550,SEAL,Crimp/seal defect,70
+B1-0550,STOP,Stopper defect,47
+B1-0550,CRACK,Crack or breakage,23
+B1-0551,PART,Particles,223
+B1-0551,COSM,Cosmetic container defect,188
+B1-0551,FILL,Fill level out of range,62
+B1-0551,SEAL,Crimp/seal defect,86
+B1-0551,STOP,Stopper defect,48
+B1-0551,CRACK,Crack or breakage,18
+B1-0552,PART,Particles,158
+B1-0552,COSM,Cosmetic container defect,116
+B1-0552,FILL,Fill level out of range,52
+B1-0552,SEAL,Crimp/seal defect,25
+B1-0552,STOP,Stopper defect,21
+B1-0552,CRACK,Crack or breakage,8
+B1-0553,PART,Particles,169
+B1-0553,COSM,Cosmetic container defect,95
+B1-0553,FILL,Fill level out of range,44
+B1-0553,SEAL,Crimp/seal defect,39
+B1-0553,STOP,Stopper defect,34
+B1-0553,CRACK,Crack or breakage,23
+B1-0554,PART,Particles,266
+B1-0554,COSM,Cosmetic container defect,192
+B1-0554,FILL,Fill level out of range,107
+B1-0554,SEAL,Crimp/seal defect,58
+B1-0554,STOP,Stopper defect,49
+B1-0554,CRACK,Crack or breakage,24
+B1-0555,PART,Particles,379
+B1-0555,COSM,Cosmetic container defect,201
+B1-0555,FILL,Fill level out of range,113
+B1-0555,SEAL,Crimp/seal defect,90
+B1-0555,STOP,Stopper defect,71
+B1-0555,CRACK,Crack or breakage,36
+B1-0556,PART,Particles,302
+B1-0556,COSM,Cosmetic container defect,187
+B1-0556,FILL,Fill level out of range,121
+B1-0556,SEAL,Crimp/seal defect,66
+B1-0556,STOP,Stopper defect,62
+B1-0556,CRACK,Crack or breakage,40
+B1-0557,PART,Particles,189
+B1-0557,COSM,Cosmetic container defect,171
+B1-0557,FILL,Fill level out of range,103
+B1-0557,SEAL,Crimp/seal defect,60
+B1-0557,STOP,Stopper defect,43
+B1-0557,CRACK,Crack or breakage,22
+B1-0558,PART,Particles,153
+B1-0558,COSM,Cosmetic container defect,82
+B1-0558,FILL,Fill level out of range,30
+B1-0558,SEAL,Crimp/seal defect,38
+B1-0558,STOP,Stopper defect,37
+B1-0558,CRACK,Crack or breakage,15
+B1-0559,PART,Particles,73
+B1-0559,COSM,Cosmetic container defect,66
+B1-0559,FILL,Fill level out of range,34
+B1-0559,SEAL,Crimp/seal defect,23
+B1-0559,STOP,Stopper defect,23
+B1-0559,CRACK,Crack or breakage,5
+B1-0560,PART,Particles,167
+B1-0560,COSM,Cosmetic container defect,159
+B1-0560,FILL,Fill level out of range,76
+B1-0560,SEAL,Crimp/seal defect,54
+B1-0560,STOP,Stopper defect,31
+B1-0560,CRACK,Crack or breakage,18
+B1-0561,PART,Particles,176
+B1-0561,COSM,Cosmetic container defect,106
+B1-0561,FILL,Fill level out of range,60
+B1-0561,SEAL,Crimp/seal defect,48
+B1-0561,STOP,Stopper defect,33
+B1-0561,CRACK,Crack or breakage,17
+B1-0562,PART,Particles,233
+B1-0562,COSM,Cosmetic container defect,168
+B1-0562,FILL,Fill level out of range,62
+B1-0562,SEAL,Crimp/seal defect,51
+B1-0562,STOP,Stopper defect,43
+B1-0562,CRACK,Crack or breakage,23
+B1-0563,PART,Particles,319
+B1-0563,COSM,Cosmetic container defect,188
+B1-0563,FILL,Fill level out of range,74
+B1-0563,SEAL,Crimp/seal defect,65
+B1-0563,STOP,Stopper defect,55
+B1-0563,CRACK,Crack or breakage,36
+B1-0564,PART,Particles,272
+B1-0564,COSM,Cosmetic container defect,254
+B1-0564,FILL,Fill level out of range,124
+B1-0564,SEAL,Crimp/seal defect,82
+B1-0564,STOP,Stopper defect,53
+B1-0564,CRACK,Crack or breakage,30
+B1-0565,PART,Particles,152
+B1-0565,COSM,Cosmetic container defect,194
+B1-0565,FILL,Fill level out of range,67
+B1-0565,SEAL,Crimp/seal defect,44
+B1-0565,STOP,Stopper defect,43
+B1-0565,CRACK,Crack or breakage,25
+B1-0566,PART,Particles,315
+B1-0566,COSM,Cosmetic container defect,209
+B1-0566,FILL,Fill level out of range,103
+B1-0566,SEAL,Crimp/seal defect,82
+B1-0566,STOP,Stopper defect,84
+B1-0566,CRACK,Crack or breakage,46
+B1-0567,PART,Particles,301
+B1-0567,COSM,Cosmetic container defect,218
+B1-0567,FILL,Fill level out of range,131
+B1-0567,SEAL,Crimp/seal defect,114
+B1-0567,STOP,Stopper defect,69
+B1-0567,CRACK,Crack or breakage,41
+B1-0568,PART,Particles,132
+B1-0568,COSM,Cosmetic container defect,132
+B1-0568,FILL,Fill level out of range,78
+B1-0568,SEAL,Crimp/seal defect,44
+B1-0568,STOP,Stopper defect,37
+B1-0568,CRACK,Crack or breakage,21
+B1-0569,PART,Particles,286
+B1-0569,COSM,Cosmetic container defect,213
+B1-0569,FILL,Fill level out of range,77
+B1-0569,SEAL,Crimp/seal defect,51
+B1-0569,STOP,Stopper defect,44
+B1-0569,CRACK,Crack or breakage,30
+B1-0570,PART,Particles,186
+B1-0570,COSM,Cosmetic container defect,140
+B1-0570,FILL,Fill level out of range,83
+B1-0570,SEAL,Crimp/seal defect,39
+B1-0570,STOP,Stopper defect,46
+B1-0570,CRACK,Crack or breakage,22
+B1-0571,PART,Particles,247
+B1-0571,COSM,Cosmetic container defect,128
+B1-0571,FILL,Fill level out of range,52
+B1-0571,SEAL,Crimp/seal defect,59
+B1-0571,STOP,Stopper defect,44
+B1-0571,CRACK,Crack or breakage,25
+B1-0572,PART,Particles,217
+B1-0572,COSM,Cosmetic container defect,139
+B1-0572,FILL,Fill level out of range,82
+B1-0572,SEAL,Crimp/seal defect,55
+B1-0572,STOP,Stopper defect,47
+B1-0572,CRACK,Crack or breakage,25
+B1-0573,PART,Particles,264
+B1-0573,COSM,Cosmetic container defect,139
+B1-0573,FILL,Fill level out of range,75
+B1-0573,SEAL,Crimp/seal defect,85
+B1-0573,STOP,Stopper defect,56
+B1-0573,CRACK,Crack or breakage,22
+B1-0574,PART,Particles,197
+B1-0574,COSM,Cosmetic container defect,143
+B1-0574,FILL,Fill level out of range,54
+B1-0574,SEAL,Crimp/seal defect,49
+B1-0574,STOP,Stopper defect,33
+B1-0574,CRACK,Crack or breakage,27
+B1-0575,PART,Particles,305
+B1-0575,COSM,Cosmetic container defect,199
+B1-0575,FILL,Fill level out of range,137
+B1-0575,SEAL,Crimp/seal defect,49
+B1-0575,STOP,Stopper defect,81
+B1-0575,CRACK,Crack or breakage,37
+B1-0576,PART,Particles,324
+B1-0576,COSM,Cosmetic container defect,235
+B1-0576,FILL,Fill level out of range,85
+B1-0576,SEAL,Crimp/seal defect,70
+B1-0576,STOP,Stopper defect,70
+B1-0576,CRACK,Crack or breakage,28
+B1-0577,PART,Particles,241
+B1-0577,COSM,Cosmetic container defect,145
+B1-0577,FILL,Fill level out of range,62
+B1-0577,SEAL,Crimp/seal defect,62
+B1-0577,STOP,Stopper defect,30
+B1-0577,CRACK,Crack or breakage,25
+B1-0578,PART,Particles,113
+B1-0578,COSM,Cosmetic container defect,75
+B1-0578,FILL,Fill level out of range,21
+B1-0578,SEAL,Crimp/seal defect,30
+B1-0578,STOP,Stopper defect,24
+B1-0578,CRACK,Crack or breakage,13
+B1-0579,PART,Particles,218
+B1-0579,COSM,Cosmetic container defect,177
+B1-0579,FILL,Fill level out of range,69
+B1-0579,SEAL,Crimp/seal defect,43
+B1-0579,STOP,Stopper defect,69
+B1-0579,CRACK,Crack or breakage,27
+B1-0580,PART,Particles,158
+B1-0580,COSM,Cosmetic container defect,175
+B1-0580,FILL,Fill level out of range,72
+B1-0580,SEAL,Crimp/seal defect,41
+B1-0580,STOP,Stopper defect,44
+B1-0580,CRACK,Crack or breakage,17
+B1-0581,PART,Particles,150
+B1-0581,COSM,Cosmetic container defect,214
+B1-0581,FILL,Fill level out of range,88
+B1-0581,SEAL,Crimp/seal defect,72
+B1-0581,STOP,Stopper defect,37
+B1-0581,CRACK,Crack or breakage,30
+B1-0582,PART,Particles,136
+B1-0582,COSM,Cosmetic container defect,109
+B1-0582,FILL,Fill level out of range,28
+B1-0582,SEAL,Crimp/seal defect,41
+B1-0582,STOP,Stopper defect,30
+B1-0582,CRACK,Crack or breakage,20
+B1-0583,PART,Particles,107
+B1-0583,COSM,Cosmetic container defect,88
+B1-0583,FILL,Fill level out of range,37
+B1-0583,SEAL,Crimp/seal defect,44
+B1-0583,STOP,Stopper defect,28
+B1-0583,CRACK,Crack or breakage,16
+B1-0584,PART,Particles,181
+B1-0584,COSM,Cosmetic container defect,159
+B1-0584,FILL,Fill level out of range,55
+B1-0584,SEAL,Crimp/seal defect,22
+B1-0584,STOP,Stopper defect,47
+B1-0584,CRACK,Crack or breakage,11
+B1-0585,PART,Particles,214
+B1-0585,COSM,Cosmetic container defect,168
+B1-0585,FILL,Fill level out of range,64
+B1-0585,SEAL,Crimp/seal defect,51
+B1-0585,STOP,Stopper defect,49
+B1-0585,CRACK,Crack or breakage,33
+B1-0586,PART,Particles,345
+B1-0586,COSM,Cosmetic container defect,266
+B1-0586,FILL,Fill level out of range,129
+B1-0586,SEAL,Crimp/seal defect,120
+B1-0586,STOP,Stopper defect,87
+B1-0586,CRACK,Crack or breakage,58
+B1-0587,PART,Particles,216
+B1-0587,COSM,Cosmetic container defect,193
+B1-0587,FILL,Fill level out of range,69
+B1-0587,SEAL,Crimp/seal defect,36
+B1-0587,STOP,Stopper defect,36
+B1-0587,CRACK,Crack or breakage,33
+B1-0588,PART,Particles,177
+B1-0588,COSM,Cosmetic container defect,111
+B1-0588,FILL,Fill level out of range,60
+B1-0588,SEAL,Crimp/seal defect,32
+B1-0588,STOP,Stopper defect,32
+B1-0588,CRACK,Crack or breakage,12
+B1-0589,PART,Particles,187
+B1-0589,COSM,Cosmetic container defect,142
+B1-0589,FILL,Fill level out of range,82
+B1-0589,SEAL,Crimp/seal defect,66
+B1-0589,STOP,Stopper defect,38
+B1-0589,CRACK,Crack or breakage,23
+B1-0590,PART,Particles,199
+B1-0590,COSM,Cosmetic container defect,153
+B1-0590,FILL,Fill level out of range,80
+B1-0590,SEAL,Crimp/seal defect,63
+B1-0590,STOP,Stopper defect,51
+B1-0590,CRACK,Crack or breakage,19
+B1-0591,PART,Particles,138
+B1-0591,COSM,Cosmetic container defect,230
+B1-0591,FILL,Fill level out of range,65
+B1-0591,SEAL,Crimp/seal defect,43
+B1-0591,STOP,Stopper defect,46
+B1-0591,CRACK,Crack or breakage,17
+B1-0592,PART,Particles,198
+B1-0592,COSM,Cosmetic container defect,224
+B1-0592,FILL,Fill level out of range,64
+B1-0592,SEAL,Crimp/seal defect,45
+B1-0592,STOP,Stopper defect,49
+B1-0592,CRACK,Crack or breakage,22
+B1-0593,PART,Particles,277
+B1-0593,COSM,Cosmetic container defect,238
+B1-0593,FILL,Fill level out of range,68
+B1-0593,SEAL,Crimp/seal defect,60
+B1-0593,STOP,Stopper defect,46
+B1-0593,CRACK,Crack or breakage,34
+B1-0594,PART,Particles,178
+B1-0594,COSM,Cosmetic container defect,165
+B1-0594,FILL,Fill level out of range,80
+B1-0594,SEAL,Crimp/seal defect,51
+B1-0594,STOP,Stopper defect,47
+B1-0594,CRACK,Crack or breakage,16
+B1-0595,PART,Particles,278
+B1-0595,COSM,Cosmetic container defect,245
+B1-0595,FILL,Fill level out of range,110
+B1-0595,SEAL,Crimp/seal defect,83
+B1-0595,STOP,Stopper defect,110
+B1-0595,CRACK,Crack or breakage,32
+B1-0596,PART,Particles,364
+B1-0596,COSM,Cosmetic container defect,231
+B1-0596,FILL,Fill level out of range,119
+B1-0596,SEAL,Crimp/seal defect,79
+B1-0596,STOP,Stopper defect,64
+B1-0596,CRACK,Crack or breakage,37
+B1-0597,PART,Particles,256
+B1-0597,COSM,Cosmetic container defect,117
+B1-0597,FILL,Fill level out of range,72
+B1-0597,SEAL,Crimp/seal defect,64
+B1-0597,STOP,Stopper defect,40
+B1-0597,CRACK,Crack or breakage,16
+B1-0598,PART,Particles,450
+B1-0598,COSM,Cosmetic container defect,289
+B1-0598,FILL,Fill level out of range,156
+B1-0598,SEAL,Crimp/seal defect,99
+B1-0598,STOP,Stopper defect,100
+B1-0598,CRACK,Crack or breakage,28
+B1-0599,PART,Particles,289
+B1-0599,COSM,Cosmetic container defect,215
+B1-0599,FILL,Fill level out of range,69
+B1-0599,SEAL,Crimp/seal defect,102
+B1-0599,STOP,Stopper defect,42
+B1-0599,CRACK,Crack or breakage,35
+B1-0600,PART,Particles,233
+B1-0600,COSM,Cosmetic container defect,184
+B1-0600,FILL,Fill level out of range,85
+B1-0600,SEAL,Crimp/seal defect,84
+B1-0600,STOP,Stopper defect,36
+B1-0600,CRACK,Crack or breakage,25
+B1-0601,PART,Particles,173
+B1-0601,COSM,Cosmetic container defect,121
+B1-0601,FILL,Fill level out of range,88
+B1-0601,SEAL,Crimp/seal defect,35
+B1-0601,STOP,Stopper defect,32
+B1-0601,CRACK,Crack or breakage,29
+B1-0602,PART,Particles,497
+B1-0602,COSM,Cosmetic container defect,252
+B1-0602,FILL,Fill level out of range,148
+B1-0602,SEAL,Crimp/seal defect,79
+B1-0602,STOP,Stopper defect,78
+B1-0602,CRACK,Crack or breakage,36
+B1-0603,PART,Particles,342
+B1-0603,COSM,Cosmetic container defect,238
+B1-0603,FILL,Fill level out of range,102
+B1-0603,SEAL,Crimp/seal defect,89
+B1-0603,STOP,Stopper defect,67
+B1-0603,CRACK,Crack or breakage,25
+B1-0604,PART,Particles,260
+B1-0604,COSM,Cosmetic container defect,183
+B1-0604,FILL,Fill level out of range,104
+B1-0604,SEAL,Crimp/seal defect,65
+B1-0604,STOP,Stopper defect,48
+B1-0604,CRACK,Crack or breakage,29
+B1-0605,PART,Particles,188
+B1-0605,COSM,Cosmetic container defect,154
+B1-0605,FILL,Fill level out of range,79
+B1-0605,SEAL,Crimp/seal defect,60
+B1-0605,STOP,Stopper defect,57
+B1-0605,CRACK,Crack or breakage,18
+B1-0606,PART,Particles,159
+B1-0606,COSM,Cosmetic container defect,145
+B1-0606,FILL,Fill level out of range,62
+B1-0606,SEAL,Crimp/seal defect,51
+B1-0606,STOP,Stopper defect,43
+B1-0606,CRACK,Crack or breakage,23
+B1-0607,PART,Particles,136
+B1-0607,COSM,Cosmetic container defect,112
+B1-0607,FILL,Fill level out of range,45
+B1-0607,SEAL,Crimp/seal defect,38
+B1-0607,STOP,Stopper defect,30
+B1-0607,CRACK,Crack or breakage,14
+B1-0608,PART,Particles,165
+B1-0608,COSM,Cosmetic container defect,91
+B1-0608,FILL,Fill level out of range,51
+B1-0608,SEAL,Crimp/seal defect,30
+B1-0608,STOP,Stopper defect,38
+B1-0608,CRACK,Crack or breakage,18
+B1-0609,PART,Particles,161
+B1-0609,COSM,Cosmetic container defect,120
+B1-0609,FILL,Fill level out of range,44
+B1-0609,SEAL,Crimp/seal defect,43
+B1-0609,STOP,Stopper defect,20
+B1-0609,CRACK,Crack or breakage,8
+B1-0610,PART,Particles,124
+B1-0610,COSM,Cosmetic container defect,132
+B1-0610,FILL,Fill level out of range,58
+B1-0610,SEAL,Crimp/seal defect,31
+B1-0610,STOP,Stopper defect,36
+B1-0610,CRACK,Crack or breakage,22
+B1-0611,PART,Particles,210
+B1-0611,COSM,Cosmetic container defect,200
+B1-0611,FILL,Fill level out of range,81
+B1-0611,SEAL,Crimp/seal defect,48
+B1-0611,STOP,Stopper defect,55
+B1-0611,CRACK,Crack or breakage,23
+B1-0612,PART,Particles,182
+B1-0612,COSM,Cosmetic container defect,105
+B1-0612,FILL,Fill level out of range,52
+B1-0612,SEAL,Crimp/seal defect,53
+B1-0612,STOP,Stopper defect,38
+B1-0612,CRACK,Crack or breakage,23
+B1-0613,PART,Particles,363
+B1-0613,COSM,Cosmetic container defect,270
+B1-0613,FILL,Fill level out of range,106
+B1-0613,SEAL,Crimp/seal defect,115
+B1-0613,STOP,Stopper defect,58
+B1-0613,CRACK,Crack or breakage,37
+B1-0614,PART,Particles,307
+B1-0614,COSM,Cosmetic container defect,206
+B1-0614,FILL,Fill level out of range,124
+B1-0614,SEAL,Crimp/seal defect,74
+B1-0614,STOP,Stopper defect,70
+B1-0614,CRACK,Crack or breakage,20
+B1-0615,PART,Particles,266
+B1-0615,COSM,Cosmetic container defect,212
+B1-0615,FILL,Fill level out of range,103
+B1-0615,SEAL,Crimp/seal defect,88
+B1-0615,STOP,Stopper defect,47
+B1-0615,CRACK,Crack or breakage,22
+B1-0616,PART,Particles,180
+B1-0616,COSM,Cosmetic container defect,117
+B1-0616,FILL,Fill level out of range,89
+B1-0616,SEAL,Crimp/seal defect,49
+B1-0616,STOP,Stopper defect,34
+B1-0616,CRACK,Crack or breakage,27
+B1-0617,PART,Particles,138
+B1-0617,COSM,Cosmetic container defect,113
+B1-0617,FILL,Fill level out of range,55
+B1-0617,SEAL,Crimp/seal defect,50
+B1-0617,STOP,Stopper defect,46
+B1-0617,CRACK,Crack or breakage,15
+B1-0618,PART,Particles,286
+B1-0618,COSM,Cosmetic container defect,313
+B1-0618,FILL,Fill level out of range,91
+B1-0618,SEAL,Crimp/seal defect,89
+B1-0618,STOP,Stopper defect,77
+B1-0618,CRACK,Crack or breakage,34
+B1-0619,PART,Particles,276
+B1-0619,COSM,Cosmetic container defect,181
+B1-0619,FILL,Fill level out of range,113
+B1-0619,SEAL,Crimp/seal defect,100
+B1-0619,STOP,Stopper defect,83
+B1-0619,CRACK,Crack or breakage,47
+B1-0620,PART,Particles,203
+B1-0620,COSM,Cosmetic container defect,143
+B1-0620,FILL,Fill level out of range,54
+B1-0620,SEAL,Crimp/seal defect,31
+B1-0620,STOP,Stopper defect,54
+B1-0620,CRACK,Crack or breakage,36
+B1-0621,PART,Particles,185
+B1-0621,COSM,Cosmetic container defect,184
+B1-0621,FILL,Fill level out of range,108
+B1-0621,SEAL,Crimp/seal defect,64
+B1-0621,STOP,Stopper defect,53
+B1-0621,CRACK,Crack or breakage,29
+B1-0622,PART,Particles,114
+B1-0622,COSM,Cosmetic container defect,104
+B1-0622,FILL,Fill level out of range,52
+B1-0622,SEAL,Crimp/seal defect,42
+B1-0622,STOP,Stopper defect,45
+B1-0622,CRACK,Crack or breakage,11
+B1-0623,PART,Particles,218
+B1-0623,COSM,Cosmetic container defect,241
+B1-0623,FILL,Fill level out of range,75
+B1-0623,SEAL,Crimp/seal defect,57
+B1-0623,STOP,Stopper defect,66
+B1-0623,CRACK,Crack or breakage,30
+B1-0624,PART,Particles,128
+B1-0624,COSM,Cosmetic container defect,101
+B1-0624,FILL,Fill level out of range,56
+B1-0624,SEAL,Crimp/seal defect,36
+B1-0624,STOP,Stopper defect,29
+B1-0624,CRACK,Crack or breakage,13
+B1-0625,PART,Particles,120
+B1-0625,COSM,Cosmetic container defect,105
+B1-0625,FILL,Fill level out of range,54
+B1-0625,SEAL,Crimp/seal defect,20
+B1-0625,STOP,Stopper defect,26
+B1-0625,CRACK,Crack or breakage,17
+B1-0626,PART,Particles,184
+B1-0626,COSM,Cosmetic container defect,109
+B1-0626,FILL,Fill level out of range,55
+B1-0626,SEAL,Crimp/seal defect,49
+B1-0626,STOP,Stopper defect,37
+B1-0626,CRACK,Crack or breakage,20
+B1-0627,PART,Particles,99
+B1-0627,COSM,Cosmetic container defect,103
+B1-0627,FILL,Fill level out of range,37
+B1-0627,SEAL,Crimp/seal defect,38
+B1-0627,STOP,Stopper defect,24
+B1-0627,CRACK,Crack or breakage,12
+B1-0628,PART,Particles,177
+B1-0628,COSM,Cosmetic container defect,143
+B1-0628,FILL,Fill level out of range,51
+B1-0628,SEAL,Crimp/seal defect,63
+B1-0628,STOP,Stopper defect,47
+B1-0628,CRACK,Crack or breakage,39
+B1-0629,PART,Particles,313
+B1-0629,COSM,Cosmetic container defect,217
+B1-0629,FILL,Fill level out of range,94
+B1-0629,SEAL,Crimp/seal defect,66
+B1-0629,STOP,Stopper defect,59
+B1-0629,CRACK,Crack or breakage,41
+B2-0287,PART,Particles,177
+B2-0287,COSM,Cosmetic container defect,125
+B2-0287,FILL,Fill level out of range,54
+B2-0287,SEAL,Crimp/seal defect,52
+B2-0287,STOP,Stopper defect,33
+B2-0287,CRACK,Crack or breakage,21
+B2-0288,PART,Particles,224
+B2-0288,COSM,Cosmetic container defect,165
+B2-0288,FILL,Fill level out of range,56
+B2-0288,SEAL,Crimp/seal defect,34
+B2-0288,STOP,Stopper defect,54
+B2-0288,CRACK,Crack or breakage,19
+B2-0289,PART,Particles,139
+B2-0289,COSM,Cosmetic container defect,128
+B2-0289,FILL,Fill level out of range,24
+B2-0289,SEAL,Crimp/seal defect,25
+B2-0289,STOP,Stopper defect,28
+B2-0289,CRACK,Crack or breakage,15
+B2-0290,PART,Particles,216
+B2-0290,COSM,Cosmetic container defect,135
+B2-0290,FILL,Fill level out of range,55
+B2-0290,SEAL,Crimp/seal defect,21
+B2-0290,STOP,Stopper defect,44
+B2-0290,CRACK,Crack or breakage,12
+B2-0291,PART,Particles,211
+B2-0291,COSM,Cosmetic container defect,111
+B2-0291,FILL,Fill level out of range,56
+B2-0291,SEAL,Crimp/seal defect,33
+B2-0291,STOP,Stopper defect,32
+B2-0291,CRACK,Crack or breakage,22
+B2-0292,PART,Particles,228
+B2-0292,COSM,Cosmetic container defect,98
+B2-0292,FILL,Fill level out of range,52
+B2-0292,SEAL,Crimp/seal defect,37
+B2-0292,STOP,Stopper defect,33
+B2-0292,CRACK,Crack or breakage,21
+B2-0293,PART,Particles,263
+B2-0293,COSM,Cosmetic container defect,180
+B2-0293,FILL,Fill level out of range,66
+B2-0293,SEAL,Crimp/seal defect,67
+B2-0293,STOP,Stopper defect,37
+B2-0293,CRACK,Crack or breakage,18
+B2-0294,PART,Particles,108
+B2-0294,COSM,Cosmetic container defect,133
+B2-0294,FILL,Fill level out of range,42
+B2-0294,SEAL,Crimp/seal defect,32
+B2-0294,STOP,Stopper defect,28
+B2-0294,CRACK,Crack or breakage,10
+B2-0295,PART,Particles,174
+B2-0295,COSM,Cosmetic container defect,117
+B2-0295,FILL,Fill level out of range,60
+B2-0295,SEAL,Crimp/seal defect,48
+B2-0295,STOP,Stopper defect,44
+B2-0295,CRACK,Crack or breakage,18
+B2-0296,PART,Particles,133
+B2-0296,COSM,Cosmetic container defect,144
+B2-0296,FILL,Fill level out of range,35
+B2-0296,SEAL,Crimp/seal defect,27
+B2-0296,STOP,Stopper defect,28
+B2-0296,CRACK,Crack or breakage,6
+B2-0297,PART,Particles,319
+B2-0297,COSM,Cosmetic container defect,133
+B2-0297,FILL,Fill level out of range,69
+B2-0297,SEAL,Crimp/seal defect,58
+B2-0297,STOP,Stopper defect,72
+B2-0297,CRACK,Crack or breakage,22
+B2-0298,PART,Particles,187
+B2-0298,COSM,Cosmetic container defect,103
+B2-0298,FILL,Fill level out of range,35
+B2-0298,SEAL,Crimp/seal defect,36
+B2-0298,STOP,Stopper defect,46
+B2-0298,CRACK,Crack or breakage,9
+B2-0299,PART,Particles,162
+B2-0299,COSM,Cosmetic container defect,135
+B2-0299,FILL,Fill level out of range,44
+B2-0299,SEAL,Crimp/seal defect,24
+B2-0299,STOP,Stopper defect,32
+B2-0299,CRACK,Crack or breakage,13
+B2-0300,PART,Particles,156
+B2-0300,COSM,Cosmetic container defect,143
+B2-0300,FILL,Fill level out of range,45
+B2-0300,SEAL,Crimp/seal defect,36
+B2-0300,STOP,Stopper defect,35
+B2-0300,CRACK,Crack or breakage,16
+B2-0301,PART,Particles,195
+B2-0301,COSM,Cosmetic container defect,108
+B2-0301,FILL,Fill level out of range,51
+B2-0301,SEAL,Crimp/seal defect,33
+B2-0301,STOP,Stopper defect,40
+B2-0301,CRACK,Crack or breakage,16
+B2-0302,PART,Particles,184
+B2-0302,COSM,Cosmetic container defect,113
+B2-0302,FILL,Fill level out of range,51
+B2-0302,SEAL,Crimp/seal defect,32
+B2-0302,STOP,Stopper defect,27
+B2-0302,CRACK,Crack or breakage,13
+B2-0303,PART,Particles,200
+B2-0303,COSM,Cosmetic container defect,162
+B2-0303,FILL,Fill level out of range,32
+B2-0303,SEAL,Crimp/seal defect,40
+B2-0303,STOP,Stopper defect,35
+B2-0303,CRACK,Crack or breakage,26
+B2-0304,PART,Particles,193
+B2-0304,COSM,Cosmetic container defect,212
+B2-0304,FILL,Fill level out of range,86
+B2-0304,SEAL,Crimp/seal defect,53
+B2-0304,STOP,Stopper defect,41
+B2-0304,CRACK,Crack or breakage,18
+B2-0305,PART,Particles,223
+B2-0305,COSM,Cosmetic container defect,170
+B2-0305,FILL,Fill level out of range,63
+B2-0305,SEAL,Crimp/seal defect,37
+B2-0305,STOP,Stopper defect,43
+B2-0305,CRACK,Crack or breakage,18
+B2-0306,PART,Particles,192
+B2-0306,COSM,Cosmetic container defect,132
+B2-0306,FILL,Fill level out of range,38
+B2-0306,SEAL,Crimp/seal defect,29
+B2-0306,STOP,Stopper defect,25
+B2-0306,CRACK,Crack or breakage,15
+B2-0307,PART,Particles,266
+B2-0307,COSM,Cosmetic container defect,276
+B2-0307,FILL,Fill level out of range,77
+B2-0307,SEAL,Crimp/seal defect,61
+B2-0307,STOP,Stopper defect,43
+B2-0307,CRACK,Crack or breakage,31
+B2-0308,PART,Particles,261
+B2-0308,COSM,Cosmetic container defect,178
+B2-0308,FILL,Fill level out of range,45
+B2-0308,SEAL,Crimp/seal defect,60
+B2-0308,STOP,Stopper defect,46
+B2-0308,CRACK,Crack or breakage,17
+B2-0309,PART,Particles,255
+B2-0309,COSM,Cosmetic container defect,156
+B2-0309,FILL,Fill level out of range,62
+B2-0309,SEAL,Crimp/seal defect,67
+B2-0309,STOP,Stopper defect,47
+B2-0309,CRACK,Crack or breakage,18
+B2-0310,PART,Particles,205
+B2-0310,COSM,Cosmetic container defect,164
+B2-0310,FILL,Fill level out of range,67
+B2-0310,SEAL,Crimp/seal defect,47
+B2-0310,STOP,Stopper defect,35
+B2-0310,CRACK,Crack or breakage,24
+B2-0311,PART,Particles,212
+B2-0311,COSM,Cosmetic container defect,172
+B2-0311,FILL,Fill level out of range,38
+B2-0311,SEAL,Crimp/seal defect,34
+B2-0311,STOP,Stopper defect,28
+B2-0311,CRACK,Crack or breakage,16
+B2-0312,PART,Particles,330
+B2-0312,COSM,Cosmetic container defect,276
+B2-0312,FILL,Fill level out of range,77
+B2-0312,SEAL,Crimp/seal defect,91
+B2-0312,STOP,Stopper defect,69
+B2-0312,CRACK,Crack or breakage,20
+B2-0313,PART,Particles,172
+B2-0313,COSM,Cosmetic container defect,207
+B2-0313,FILL,Fill level out of range,69
+B2-0313,SEAL,Crimp/seal defect,53
+B2-0313,STOP,Stopper defect,34
+B2-0313,CRACK,Crack or breakage,17
+B2-0314,PART,Particles,280
+B2-0314,COSM,Cosmetic container defect,128
+B2-0314,FILL,Fill level out of range,43
+B2-0314,SEAL,Crimp/seal defect,41
+B2-0314,STOP,Stopper defect,34
+B2-0314,CRACK,Crack or breakage,18
+B2-0315,PART,Particles,137
+B2-0315,COSM,Cosmetic container defect,117
+B2-0315,FILL,Fill level out of range,33
+B2-0315,SEAL,Crimp/seal defect,42
+B2-0315,STOP,Stopper defect,37
+B2-0315,CRACK,Crack or breakage,22
+B2-0317,PART,Particles,424
+B2-0317,COSM,Cosmetic container defect,221
+B2-0317,FILL,Fill level out of range,76
+B2-0317,SEAL,Crimp/seal defect,65
+B2-0317,STOP,Stopper defect,94
+B2-0317,CRACK,Crack or breakage,38
+B2-0318,PART,Particles,282
+B2-0318,COSM,Cosmetic container defect,264
+B2-0318,FILL,Fill level out of range,81
+B2-0318,SEAL,Crimp/seal defect,43
+B2-0318,STOP,Stopper defect,50
+B2-0318,CRACK,Crack or breakage,29
+B2-0319,PART,Particles,219
+B2-0319,COSM,Cosmetic container defect,224
+B2-0319,FILL,Fill level out of range,67
+B2-0319,SEAL,Crimp/seal defect,56
+B2-0319,STOP,Stopper defect,37
+B2-0319,CRACK,Crack or breakage,20
+B2-0320,PART,Particles,164
+B2-0320,COSM,Cosmetic container defect,130
+B2-0320,FILL,Fill level out of range,27
+B2-0320,SEAL,Crimp/seal defect,45
+B2-0320,STOP,Stopper defect,14
+B2-0320,CRACK,Crack or breakage,11
+B2-0321,PART,Particles,211
+B2-0321,COSM,Cosmetic container defect,138
+B2-0321,FILL,Fill level out of range,38
+B2-0321,SEAL,Crimp/seal defect,43
+B2-0321,STOP,Stopper defect,23
+B2-0321,CRACK,Crack or breakage,11
+B2-0322,PART,Particles,117
+B2-0322,COSM,Cosmetic container defect,109
+B2-0322,FILL,Fill level out of range,38
+B2-0322,SEAL,Crimp/seal defect,24
+B2-0322,STOP,Stopper defect,34
+B2-0322,CRACK,Crack or breakage,11
+B2-0323,PART,Particles,113
+B2-0323,COSM,Cosmetic container defect,88
+B2-0323,FILL,Fill level out of range,20
+B2-0323,SEAL,Crimp/seal defect,22
+B2-0323,STOP,Stopper defect,26
+B2-0323,CRACK,Crack or breakage,14
+B2-0324,PART,Particles,168
+B2-0324,COSM,Cosmetic container defect,130
+B2-0324,FILL,Fill level out of range,57
+B2-0324,SEAL,Crimp/seal defect,37
+B2-0324,STOP,Stopper defect,27
+B2-0324,CRACK,Crack or breakage,15
+B2-0325,PART,Particles,212
+B2-0325,COSM,Cosmetic container defect,213
+B2-0325,FILL,Fill level out of range,57
+B2-0325,SEAL,Crimp/seal defect,45
+B2-0325,STOP,Stopper defect,46
+B2-0325,CRACK,Crack or breakage,13
+B2-0326,PART,Particles,184
+B2-0326,COSM,Cosmetic container defect,168
+B2-0326,FILL,Fill level out of range,56
+B2-0326,SEAL,Crimp/seal defect,32
+B2-0326,STOP,Stopper defect,32
+B2-0326,CRACK,Crack or breakage,20
+B2-0327,PART,Particles,174
+B2-0327,COSM,Cosmetic container defect,139
+B2-0327,FILL,Fill level out of range,52
+B2-0327,SEAL,Crimp/seal defect,46
+B2-0327,STOP,Stopper defect,44
+B2-0327,CRACK,Crack or breakage,30
+B2-0328,PART,Particles,170
+B2-0328,COSM,Cosmetic container defect,160
+B2-0328,FILL,Fill level out of range,38
+B2-0328,SEAL,Crimp/seal defect,37
+B2-0328,STOP,Stopper defect,29
+B2-0328,CRACK,Crack or breakage,8
+B2-0329,PART,Particles,147
+B2-0329,COSM,Cosmetic container defect,152
+B2-0329,FILL,Fill level out of range,59
+B2-0329,SEAL,Crimp/seal defect,29
+B2-0329,STOP,Stopper defect,30
+B2-0329,CRACK,Crack or breakage,17
+B2-0330,PART,Particles,156
+B2-0330,COSM,Cosmetic container defect,132
+B2-0330,FILL,Fill level out of range,32
+B2-0330,SEAL,Crimp/seal defect,43
+B2-0330,STOP,Stopper defect,14
+B2-0330,CRACK,Crack or breakage,10
+B2-0331,PART,Particles,221
+B2-0331,COSM,Cosmetic container defect,231
+B2-0331,FILL,Fill level out of range,74
+B2-0331,SEAL,Crimp/seal defect,39
+B2-0331,STOP,Stopper defect,55
+B2-0331,CRACK,Crack or breakage,26
+B2-0332,PART,Particles,179
+B2-0332,COSM,Cosmetic container defect,142
+B2-0332,FILL,Fill level out of range,47
+B2-0332,SEAL,Crimp/seal defect,37
+B2-0332,STOP,Stopper defect,27
+B2-0332,CRACK,Crack or breakage,15
+B2-0333,PART,Particles,254
+B2-0333,COSM,Cosmetic container defect,218
+B2-0333,FILL,Fill level out of range,66
+B2-0333,SEAL,Crimp/seal defect,72
+B2-0333,STOP,Stopper defect,50
+B2-0333,CRACK,Crack or breakage,24
+B2-0334,PART,Particles,247
+B2-0334,COSM,Cosmetic container defect,236
+B2-0334,FILL,Fill level out of range,57
+B2-0334,SEAL,Crimp/seal defect,66
+B2-0334,STOP,Stopper defect,48
+B2-0334,CRACK,Crack or breakage,19
+B2-0335,PART,Particles,305
+B2-0335,COSM,Cosmetic container defect,197
+B2-0335,FILL,Fill level out of range,60
+B2-0335,SEAL,Crimp/seal defect,58
+B2-0335,STOP,Stopper defect,74
+B2-0335,CRACK,Crack or breakage,26
+B2-0336,PART,Particles,254
+B2-0336,COSM,Cosmetic container defect,110
+B2-0336,FILL,Fill level out of range,58
+B2-0336,SEAL,Crimp/seal defect,55
+B2-0336,STOP,Stopper defect,29
+B2-0336,CRACK,Crack or breakage,18
+B2-0337,PART,Particles,251
+B2-0337,COSM,Cosmetic container defect,243
+B2-0337,FILL,Fill level out of range,75
+B2-0337,SEAL,Crimp/seal defect,47
+B2-0337,STOP,Stopper defect,38
+B2-0337,CRACK,Crack or breakage,18
+B2-0338,PART,Particles,160
+B2-0338,COSM,Cosmetic container defect,186
+B2-0338,FILL,Fill level out of range,55
+B2-0338,SEAL,Crimp/seal defect,50
+B2-0338,STOP,Stopper defect,35
+B2-0338,CRACK,Crack or breakage,21
+B2-0339,PART,Particles,214
+B2-0339,COSM,Cosmetic container defect,169
+B2-0339,FILL,Fill level out of range,66
+B2-0339,SEAL,Crimp/seal defect,52
+B2-0339,STOP,Stopper defect,34
+B2-0339,CRACK,Crack or breakage,25
+B2-0340,PART,Particles,227
+B2-0340,COSM,Cosmetic container defect,167
+B2-0340,FILL,Fill level out of range,52
+B2-0340,SEAL,Crimp/seal defect,38
+B2-0340,STOP,Stopper defect,32
+B2-0340,CRACK,Crack or breakage,14
+B2-0341,PART,Particles,203
+B2-0341,COSM,Cosmetic container defect,151
+B2-0341,FILL,Fill level out of range,54
+B2-0341,SEAL,Crimp/seal defect,32
+B2-0341,STOP,Stopper defect,41
+B2-0341,CRACK,Crack or breakage,24
+B2-0342,PART,Particles,143
+B2-0342,COSM,Cosmetic container defect,111
+B2-0342,FILL,Fill level out of range,53
+B2-0342,SEAL,Crimp/seal defect,65
+B2-0342,STOP,Stopper defect,42
+B2-0342,CRACK,Crack or breakage,13
+B2-0343,PART,Particles,243
+B2-0343,COSM,Cosmetic container defect,201
+B2-0343,FILL,Fill level out of range,78
+B2-0343,SEAL,Crimp/seal defect,43
+B2-0343,STOP,Stopper defect,42
+B2-0343,CRACK,Crack or breakage,25
+B2-0344,PART,Particles,193
+B2-0344,COSM,Cosmetic container defect,124
+B2-0344,FILL,Fill level out of range,55
+B2-0344,SEAL,Crimp/seal defect,36
+B2-0344,STOP,Stopper defect,43
+B2-0344,CRACK,Crack or breakage,12
+B2-0345,PART,Particles,230
+B2-0345,COSM,Cosmetic container defect,265
+B2-0345,FILL,Fill level out of range,48
+B2-0345,SEAL,Crimp/seal defect,68
+B2-0345,STOP,Stopper defect,44
+B2-0345,CRACK,Crack or breakage,37
+B2-0346,PART,Particles,282
+B2-0346,COSM,Cosmetic container defect,167
+B2-0346,FILL,Fill level out of range,32
+B2-0346,SEAL,Crimp/seal defect,27
+B2-0346,STOP,Stopper defect,28
+B2-0346,CRACK,Crack or breakage,21
+B2-0347,PART,Particles,169
+B2-0347,COSM,Cosmetic container defect,136
+B2-0347,FILL,Fill level out of range,55
+B2-0347,SEAL,Crimp/seal defect,33
+B2-0347,STOP,Stopper defect,21
+B2-0347,CRACK,Crack or breakage,23
+B2-0348,PART,Particles,256
+B2-0348,COSM,Cosmetic container defect,136
+B2-0348,FILL,Fill level out of range,60
+B2-0348,SEAL,Crimp/seal defect,51
+B2-0348,STOP,Stopper defect,43
+B2-0348,CRACK,Crack or breakage,24
+B2-0349,PART,Particles,265
+B2-0349,COSM,Cosmetic container defect,167
+B2-0349,FILL,Fill level out of range,68
+B2-0349,SEAL,Crimp/seal defect,76
+B2-0349,STOP,Stopper defect,56
+B2-0349,CRACK,Crack or breakage,30
+B2-0350,PART,Particles,230
+B2-0350,COSM,Cosmetic container defect,215
+B2-0350,FILL,Fill level out of range,67
+B2-0350,SEAL,Crimp/seal defect,56
+B2-0350,STOP,Stopper defect,62
+B2-0350,CRACK,Crack or breakage,28
+B2-0351,PART,Particles,187
+B2-0351,COSM,Cosmetic container defect,175
+B2-0351,FILL,Fill level out of range,60
+B2-0351,SEAL,Crimp/seal defect,37
+B2-0351,STOP,Stopper defect,47
+B2-0351,CRACK,Crack or breakage,13
+B2-0352,PART,Particles,171
+B2-0352,COSM,Cosmetic container defect,164
+B2-0352,FILL,Fill level out of range,57
+B2-0352,SEAL,Crimp/seal defect,43
+B2-0352,STOP,Stopper defect,36
+B2-0352,CRACK,Crack or breakage,16
+B2-0353,PART,Particles,153
+B2-0353,COSM,Cosmetic container defect,147
+B2-0353,FILL,Fill level out of range,42
+B2-0353,SEAL,Crimp/seal defect,43
+B2-0353,STOP,Stopper defect,44
+B2-0353,CRACK,Crack or breakage,10
+B2-0354,PART,Particles,208
+B2-0354,COSM,Cosmetic container defect,171
+B2-0354,FILL,Fill level out of range,59
+B2-0354,SEAL,Crimp/seal defect,60
+B2-0354,STOP,Stopper defect,57
+B2-0354,CRACK,Crack or breakage,17
+B2-0355,PART,Particles,161
+B2-0355,COSM,Cosmetic container defect,133
+B2-0355,FILL,Fill level out of range,41
+B2-0355,SEAL,Crimp/seal defect,30
+B2-0355,STOP,Stopper defect,23
+B2-0355,CRACK,Crack or breakage,19
+B2-0356,PART,Particles,165
+B2-0356,COSM,Cosmetic container defect,158
+B2-0356,FILL,Fill level out of range,38
+B2-0356,SEAL,Crimp/seal defect,40
+B2-0356,STOP,Stopper defect,32
+B2-0356,CRACK,Crack or breakage,19
+B2-0357,PART,Particles,190
+B2-0357,COSM,Cosmetic container defect,162
+B2-0357,FILL,Fill level out of range,61
+B2-0357,SEAL,Crimp/seal defect,64
+B2-0357,STOP,Stopper defect,47
+B2-0357,CRACK,Crack or breakage,21
+B2-0358,PART,Particles,149
+B2-0358,COSM,Cosmetic container defect,134
+B2-0358,FILL,Fill level out of range,22
+B2-0358,SEAL,Crimp/seal defect,48
+B2-0358,STOP,Stopper defect,33
+B2-0358,CRACK,Crack or breakage,21
+B2-0359,PART,Particles,243
+B2-0359,COSM,Cosmetic container defect,163
+B2-0359,FILL,Fill level out of range,66
+B2-0359,SEAL,Crimp/seal defect,44
+B2-0359,STOP,Stopper defect,56
+B2-0359,CRACK,Crack or breakage,13
+B2-0360,PART,Particles,122
+B2-0360,COSM,Cosmetic container defect,121
+B2-0360,FILL,Fill level out of range,35
+B2-0360,SEAL,Crimp/seal defect,28
+B2-0360,STOP,Stopper defect,16
+B2-0360,CRACK,Crack or breakage,8
+B2-0361,PART,Particles,158
+B2-0361,COSM,Cosmetic container defect,123
+B2-0361,FILL,Fill level out of range,51
+B2-0361,SEAL,Crimp/seal defect,24
+B2-0361,STOP,Stopper defect,19
+B2-0361,CRACK,Crack or breakage,10
+B2-0362,PART,Particles,140
+B2-0362,COSM,Cosmetic container defect,115
+B2-0362,FILL,Fill level out of range,35
+B2-0362,SEAL,Crimp/seal defect,50
+B2-0362,STOP,Stopper defect,15
+B2-0362,CRACK,Crack or breakage,9
+B2-0363,PART,Particles,179
+B2-0363,COSM,Cosmetic container defect,170
+B2-0363,FILL,Fill level out of range,70
+B2-0363,SEAL,Crimp/seal defect,43
+B2-0363,STOP,Stopper defect,35
+B2-0363,CRACK,Crack or breakage,22
+B2-0364,PART,Particles,196
+B2-0364,COSM,Cosmetic container defect,118
+B2-0364,FILL,Fill level out of range,46
+B2-0364,SEAL,Crimp/seal defect,39
+B2-0364,STOP,Stopper defect,24
+B2-0364,CRACK,Crack or breakage,9
+B2-0365,PART,Particles,259
+B2-0365,COSM,Cosmetic container defect,124
+B2-0365,FILL,Fill level out of range,52
+B2-0365,SEAL,Crimp/seal defect,47
+B2-0365,STOP,Stopper defect,39
+B2-0365,CRACK,Crack or breakage,11
+B2-0366,PART,Particles,218
+B2-0366,COSM,Cosmetic container defect,174
+B2-0366,FILL,Fill level out of range,55
+B2-0366,SEAL,Crimp/seal defect,39
+B2-0366,STOP,Stopper defect,32
+B2-0366,CRACK,Crack or breakage,23
+B2-0367,PART,Particles,249
+B2-0367,COSM,Cosmetic container defect,123
+B2-0367,FILL,Fill level out of range,64
+B2-0367,SEAL,Crimp/seal defect,42
+B2-0367,STOP,Stopper defect,37
+B2-0367,CRACK,Crack or breakage,17
+B2-0368,PART,Particles,224
+B2-0368,COSM,Cosmetic container defect,191
+B2-0368,FILL,Fill level out of range,44
+B2-0368,SEAL,Crimp/seal defect,57
+B2-0368,STOP,Stopper defect,37
+B2-0368,CRACK,Crack or breakage,23
+B2-0369,PART,Particles,207
+B2-0369,COSM,Cosmetic container defect,130
+B2-0369,FILL,Fill level out of range,66
+B2-0369,SEAL,Crimp/seal defect,40
+B2-0369,STOP,Stopper defect,42
+B2-0369,CRACK,Crack or breakage,10
+B2-0370,PART,Particles,302
+B2-0370,COSM,Cosmetic container defect,238
+B2-0370,FILL,Fill level out of range,91
+B2-0370,SEAL,Crimp/seal defect,69
+B2-0370,STOP,Stopper defect,42
+B2-0370,CRACK,Crack or breakage,21
+B2-0371,PART,Particles,253
+B2-0371,COSM,Cosmetic container defect,207
+B2-0371,FILL,Fill level out of range,76
+B2-0371,SEAL,Crimp/seal defect,45
+B2-0371,STOP,Stopper defect,34
+B2-0371,CRACK,Crack or breakage,14
+B2-0372,PART,Particles,262
+B2-0372,COSM,Cosmetic container defect,178
+B2-0372,FILL,Fill level out of range,81
+B2-0372,SEAL,Crimp/seal defect,40
+B2-0372,STOP,Stopper defect,65
+B2-0372,CRACK,Crack or breakage,25
+B2-0373,PART,Particles,175
+B2-0373,COSM,Cosmetic container defect,138
+B2-0373,FILL,Fill level out of range,43
+B2-0373,SEAL,Crimp/seal defect,38
+B2-0373,STOP,Stopper defect,36
+B2-0373,CRACK,Crack or breakage,15
+B2-0374,PART,Particles,148
+B2-0374,COSM,Cosmetic container defect,97
+B2-0374,FILL,Fill level out of range,34
+B2-0374,SEAL,Crimp/seal defect,44
+B2-0374,STOP,Stopper defect,24
+B2-0374,CRACK,Crack or breakage,14
+B2-0375,PART,Particles,183
+B2-0375,COSM,Cosmetic container defect,106
+B2-0375,FILL,Fill level out of range,52
+B2-0375,SEAL,Crimp/seal defect,40
+B2-0375,STOP,Stopper defect,34
+B2-0375,CRACK,Crack or breakage,15
+B2-0376,PART,Particles,240
+B2-0376,COSM,Cosmetic container defect,184
+B2-0376,FILL,Fill level out of range,81
+B2-0376,SEAL,Crimp/seal defect,50
+B2-0376,STOP,Stopper defect,51
+B2-0376,CRACK,Crack or breakage,23
+B2-0377,PART,Particles,112
+B2-0377,COSM,Cosmetic container defect,72
+B2-0377,FILL,Fill level out of range,24
+B2-0377,SEAL,Crimp/seal defect,23
+B2-0377,STOP,Stopper defect,11
+B2-0377,CRACK,Crack or breakage,6
+B2-0378,PART,Particles,154
+B2-0378,COSM,Cosmetic container defect,116
+B2-0378,FILL,Fill level out of range,50
+B2-0378,SEAL,Crimp/seal defect,36
+B2-0378,STOP,Stopper defect,39
+B2-0378,CRACK,Crack or breakage,8
+B2-0379,PART,Particles,160
+B2-0379,COSM,Cosmetic container defect,120
+B2-0379,FILL,Fill level out of range,54
+B2-0379,SEAL,Crimp/seal defect,42
+B2-0379,STOP,Stopper defect,31
+B2-0379,CRACK,Crack or breakage,8
+B2-0380,PART,Particles,174
+B2-0380,COSM,Cosmetic container defect,178
+B2-0380,FILL,Fill level out of range,47
+B2-0380,SEAL,Crimp/seal defect,40
+B2-0380,STOP,Stopper defect,29
+B2-0380,CRACK,Crack or breakage,13
+B2-0381,PART,Particles,99
+B2-0381,COSM,Cosmetic container defect,105
+B2-0381,FILL,Fill level out of range,42
+B2-0381,SEAL,Crimp/seal defect,37
+B2-0381,STOP,Stopper defect,32
+B2-0381,CRACK,Crack or breakage,14
+B2-0382,PART,Particles,132
+B2-0382,COSM,Cosmetic container defect,98
+B2-0382,FILL,Fill level out of range,38
+B2-0382,SEAL,Crimp/seal defect,26
+B2-0382,STOP,Stopper defect,28
+B2-0382,CRACK,Crack or breakage,11
+B2-0383,PART,Particles,254
+B2-0383,COSM,Cosmetic container defect,150
+B2-0383,FILL,Fill level out of range,75
+B2-0383,SEAL,Crimp/seal defect,52
+B2-0383,STOP,Stopper defect,26
+B2-0383,CRACK,Crack or breakage,23
+B2-0384,PART,Particles,127
+B2-0384,COSM,Cosmetic container defect,123
+B2-0384,FILL,Fill level out of range,36
+B2-0384,SEAL,Crimp/seal defect,28
+B2-0384,STOP,Stopper defect,24
+B2-0384,CRACK,Crack or breakage,9
+B2-0385,PART,Particles,185
+B2-0385,COSM,Cosmetic container defect,130
+B2-0385,FILL,Fill level out of range,48
+B2-0385,SEAL,Crimp/seal defect,40
+B2-0385,STOP,Stopper defect,29
+B2-0385,CRACK,Crack or breakage,8
+B2-0386,PART,Particles,236
+B2-0386,COSM,Cosmetic container defect,157
+B2-0386,FILL,Fill level out of range,51
+B2-0386,SEAL,Crimp/seal defect,57
+B2-0386,STOP,Stopper defect,51
+B2-0386,CRACK,Crack or breakage,17
+B2-0387,PART,Particles,223
+B2-0387,COSM,Cosmetic container defect,179
+B2-0387,FILL,Fill level out of range,61
+B2-0387,SEAL,Crimp/seal defect,52
+B2-0387,STOP,Stopper defect,55
+B2-0387,CRACK,Crack or breakage,26
+B2-0388,PART,Particles,200
+B2-0388,COSM,Cosmetic container defect,130
+B2-0388,FILL,Fill level out of range,72
+B2-0388,SEAL,Crimp/seal defect,51
+B2-0388,STOP,Stopper defect,24
+B2-0388,CRACK,Crack or breakage,23
+B2-0389,PART,Particles,292
+B2-0389,COSM,Cosmetic container defect,141
+B2-0389,FILL,Fill level out of range,75
+B2-0389,SEAL,Crimp/seal defect,68
+B2-0389,STOP,Stopper defect,41
+B2-0389,CRACK,Crack or breakage,26
+B2-0390,PART,Particles,230
+B2-0390,COSM,Cosmetic container defect,235
+B2-0390,FILL,Fill level out of range,79
+B2-0390,SEAL,Crimp/seal defect,71
+B2-0390,STOP,Stopper defect,56
+B2-0390,CRACK,Crack or breakage,18
+B2-0391,PART,Particles,192
+B2-0391,COSM,Cosmetic container defect,163
+B2-0391,FILL,Fill level out of range,25
+B2-0391,SEAL,Crimp/seal defect,34
+B2-0391,STOP,Stopper defect,32
+B2-0391,CRACK,Crack or breakage,18
+B2-0392,PART,Particles,121
+B2-0392,COSM,Cosmetic container defect,149
+B2-0392,FILL,Fill level out of range,56
+B2-0392,SEAL,Crimp/seal defect,30
+B2-0392,STOP,Stopper defect,30
+B2-0392,CRACK,Crack or breakage,13
+B2-0393,PART,Particles,202
+B2-0393,COSM,Cosmetic container defect,153
+B2-0393,FILL,Fill level out of range,45
+B2-0393,SEAL,Crimp/seal defect,36
+B2-0393,STOP,Stopper defect,32
+B2-0393,CRACK,Crack or breakage,8
+B2-0394,PART,Particles,169
+B2-0394,COSM,Cosmetic container defect,173
+B2-0394,FILL,Fill level out of range,51
+B2-0394,SEAL,Crimp/seal defect,39
+B2-0394,STOP,Stopper defect,40
+B2-0394,CRACK,Crack or breakage,18
+B2-0395,PART,Particles,100
+B2-0395,COSM,Cosmetic container defect,74
+B2-0395,FILL,Fill level out of range,31
+B2-0395,SEAL,Crimp/seal defect,24
+B2-0395,STOP,Stopper defect,22
+B2-0395,CRACK,Crack or breakage,13
+B2-0396,PART,Particles,156
+B2-0396,COSM,Cosmetic container defect,90
+B2-0396,FILL,Fill level out of range,59
+B2-0396,SEAL,Crimp/seal defect,42
+B2-0396,STOP,Stopper defect,28
+B2-0396,CRACK,Crack or breakage,21
+B2-0397,PART,Particles,232
+B2-0397,COSM,Cosmetic container defect,192
+B2-0397,FILL,Fill level out of range,42
+B2-0397,SEAL,Crimp/seal defect,60
+B2-0397,STOP,Stopper defect,38
+B2-0397,CRACK,Crack or breakage,22
+B2-0398,PART,Particles,133
+B2-0398,COSM,Cosmetic container defect,103
+B2-0398,FILL,Fill level out of range,40
+B2-0398,SEAL,Crimp/seal defect,27
+B2-0398,STOP,Stopper defect,27
+B2-0398,CRACK,Crack or breakage,9
+B2-0399,PART,Particles,106
+B2-0399,COSM,Cosmetic container defect,165
+B2-0399,FILL,Fill level out of range,40
+B2-0399,SEAL,Crimp/seal defect,28
+B2-0399,STOP,Stopper defect,18
+B2-0399,CRACK,Crack or breakage,19
+B2-0400,PART,Particles,161
+B2-0400,COSM,Cosmetic container defect,128
+B2-0400,FILL,Fill level out of range,40
+B2-0400,SEAL,Crimp/seal defect,38
+B2-0400,STOP,Stopper defect,34
+B2-0400,CRACK,Crack or breakage,32
+B2-0401,PART,Particles,189
+B2-0401,COSM,Cosmetic container defect,139
+B2-0401,FILL,Fill level out of range,47
+B2-0401,SEAL,Crimp/seal defect,39
+B2-0401,STOP,Stopper defect,36
+B2-0401,CRACK,Crack or breakage,26
+B2-0402,PART,Particles,117
+B2-0402,COSM,Cosmetic container defect,137
+B2-0402,FILL,Fill level out of range,43
+B2-0402,SEAL,Crimp/seal defect,30
+B2-0402,STOP,Stopper defect,24
+B2-0402,CRACK,Crack or breakage,13
+B2-0403,PART,Particles,190
+B2-0403,COSM,Cosmetic container defect,146
+B2-0403,FILL,Fill level out of range,70
+B2-0403,SEAL,Crimp/seal defect,31
+B2-0403,STOP,Stopper defect,30
+B2-0403,CRACK,Crack or breakage,13
+B2-0404,PART,Particles,153
+B2-0404,COSM,Cosmetic container defect,206
+B2-0404,FILL,Fill level out of range,88
+B2-0404,SEAL,Crimp/seal defect,60
+B2-0404,STOP,Stopper defect,48
+B2-0404,CRACK,Crack or breakage,14
+B2-0405,PART,Particles,170
+B2-0405,COSM,Cosmetic container defect,112
+B2-0405,FILL,Fill level out of range,59
+B2-0405,SEAL,Crimp/seal defect,38
+B2-0405,STOP,Stopper defect,29
+B2-0405,CRACK,Crack or breakage,10
+B2-0406,PART,Particles,235
+B2-0406,COSM,Cosmetic container defect,167
+B2-0406,FILL,Fill level out of range,64
+B2-0406,SEAL,Crimp/seal defect,68
+B2-0406,STOP,Stopper defect,40
+B2-0406,CRACK,Crack or breakage,18
+B2-0407,PART,Particles,194
+B2-0407,COSM,Cosmetic container defect,111
+B2-0407,FILL,Fill level out of range,53
+B2-0407,SEAL,Crimp/seal defect,51
+B2-0407,STOP,Stopper defect,32
+B2-0407,CRACK,Crack or breakage,14
+B2-0408,PART,Particles,169
+B2-0408,COSM,Cosmetic container defect,149
+B2-0408,FILL,Fill level out of range,48
+B2-0408,SEAL,Crimp/seal defect,28
+B2-0408,STOP,Stopper defect,28
+B2-0408,CRACK,Crack or breakage,18
+B2-0409,PART,Particles,189
+B2-0409,COSM,Cosmetic container defect,176
+B2-0409,FILL,Fill level out of range,50
+B2-0409,SEAL,Crimp/seal defect,49
+B2-0409,STOP,Stopper defect,50
+B2-0409,CRACK,Crack or breakage,13
+B2-0410,PART,Particles,267
+B2-0410,COSM,Cosmetic container defect,239
+B2-0410,FILL,Fill level out of range,111
+B2-0410,SEAL,Crimp/seal defect,51
+B2-0410,STOP,Stopper defect,34
+B2-0410,CRACK,Crack or breakage,33
+B2-0411,PART,Particles,194
+B2-0411,COSM,Cosmetic container defect,138
+B2-0411,FILL,Fill level out of range,53
+B2-0411,SEAL,Crimp/seal defect,40
+B2-0411,STOP,Stopper defect,38
+B2-0411,CRACK,Crack or breakage,19
+B2-0412,PART,Particles,173
+B2-0412,COSM,Cosmetic container defect,131
+B2-0412,FILL,Fill level out of range,34
+B2-0412,SEAL,Crimp/seal defect,43
+B2-0412,STOP,Stopper defect,41
+B2-0412,CRACK,Crack or breakage,31
+B2-0413,PART,Particles,185
+B2-0413,COSM,Cosmetic container defect,124
+B2-0413,FILL,Fill level out of range,44
+B2-0413,SEAL,Crimp/seal defect,32
+B2-0413,STOP,Stopper defect,49
+B2-0413,CRACK,Crack or breakage,11
+B2-0414,PART,Particles,156
+B2-0414,COSM,Cosmetic container defect,142
+B2-0414,FILL,Fill level out of range,43
+B2-0414,SEAL,Crimp/seal defect,39
+B2-0414,STOP,Stopper defect,10
+B2-0414,CRACK,Crack or breakage,10
+B2-0415,PART,Particles,251
+B2-0415,COSM,Cosmetic container defect,127
+B2-0415,FILL,Fill level out of range,68
+B2-0415,SEAL,Crimp/seal defect,44
+B2-0415,STOP,Stopper defect,51
+B2-0415,CRACK,Crack or breakage,14
+B2-0416,PART,Particles,250
+B2-0416,COSM,Cosmetic container defect,223
+B2-0416,FILL,Fill level out of range,66
+B2-0416,SEAL,Crimp/seal defect,67
+B2-0416,STOP,Stopper defect,60
+B2-0416,CRACK,Crack or breakage,30
+B2-0417,PART,Particles,182
+B2-0417,COSM,Cosmetic container defect,172
+B2-0417,FILL,Fill level out of range,50
+B2-0417,SEAL,Crimp/seal defect,51
+B2-0417,STOP,Stopper defect,37
+B2-0417,CRACK,Crack or breakage,18
+B2-0418,PART,Particles,223
+B2-0418,COSM,Cosmetic container defect,175
+B2-0418,FILL,Fill level out of range,39
+B2-0418,SEAL,Crimp/seal defect,33
+B2-0418,STOP,Stopper defect,33
+B2-0418,CRACK,Crack or breakage,18
+B2-0419,PART,Particles,155
+B2-0419,COSM,Cosmetic container defect,124
+B2-0419,FILL,Fill level out of range,58
+B2-0419,SEAL,Crimp/seal defect,50
+B2-0419,STOP,Stopper defect,46
+B2-0419,CRACK,Crack or breakage,14
+B2-0420,PART,Particles,196
+B2-0420,COSM,Cosmetic container defect,162
+B2-0420,FILL,Fill level out of range,58
+B2-0420,SEAL,Crimp/seal defect,35
+B2-0420,STOP,Stopper defect,29
+B2-0420,CRACK,Crack or breakage,10
+B2-0421,PART,Particles,202
+B2-0421,COSM,Cosmetic container defect,195
+B2-0421,FILL,Fill level out of range,68
+B2-0421,SEAL,Crimp/seal defect,48
+B2-0421,STOP,Stopper defect,50
+B2-0421,CRACK,Crack or breakage,31
+B2-0422,PART,Particles,158
+B2-0422,COSM,Cosmetic container defect,135
+B2-0422,FILL,Fill level out of range,57
+B2-0422,SEAL,Crimp/seal defect,32
+B2-0422,STOP,Stopper defect,29
+B2-0422,CRACK,Crack or breakage,13
+B2-0423,PART,Particles,257
+B2-0423,COSM,Cosmetic container defect,132
+B2-0423,FILL,Fill level out of range,71
+B2-0423,SEAL,Crimp/seal defect,44
+B2-0423,STOP,Stopper defect,41
+B2-0423,CRACK,Crack or breakage,19
+B2-0424,PART,Particles,90
+B2-0424,COSM,Cosmetic container defect,130
+B2-0424,FILL,Fill level out of range,41
+B2-0424,SEAL,Crimp/seal defect,38
+B2-0424,STOP,Stopper defect,39
+B2-0424,CRACK,Crack or breakage,24
+B2-0425,PART,Particles,227
+B2-0425,COSM,Cosmetic container defect,132
+B2-0425,FILL,Fill level out of range,55
+B2-0425,SEAL,Crimp/seal defect,37
+B2-0425,STOP,Stopper defect,38
+B2-0425,CRACK,Crack or breakage,29
+B2-0426,PART,Particles,186
+B2-0426,COSM,Cosmetic container defect,152
+B2-0426,FILL,Fill level out of range,65
+B2-0426,SEAL,Crimp/seal defect,57
+B2-0426,STOP,Stopper defect,44
+B2-0426,CRACK,Crack or breakage,25
+B2-0427,PART,Particles,198
+B2-0427,COSM,Cosmetic container defect,244
+B2-0427,FILL,Fill level out of range,50
+B2-0427,SEAL,Crimp/seal defect,46
+B2-0427,STOP,Stopper defect,33
+B2-0427,CRACK,Crack or breakage,24
+B2-0428,PART,Particles,160
+B2-0428,COSM,Cosmetic container defect,151
+B2-0428,FILL,Fill level out of range,63
+B2-0428,SEAL,Crimp/seal defect,49
+B2-0428,STOP,Stopper defect,35
+B2-0428,CRACK,Crack or breakage,16
+B2-0429,PART,Particles,239
+B2-0429,COSM,Cosmetic container defect,206
+B2-0429,FILL,Fill level out of range,80
+B2-0429,SEAL,Crimp/seal defect,59
+B2-0429,STOP,Stopper defect,32
+B2-0429,CRACK,Crack or breakage,32
+B2-0430,PART,Particles,180
+B2-0430,COSM,Cosmetic container defect,194
+B2-0430,FILL,Fill level out of range,75
+B2-0430,SEAL,Crimp/seal defect,38
+B2-0430,STOP,Stopper defect,51
+B2-0430,CRACK,Crack or breakage,17
+B2-0431,PART,Particles,182
+B2-0431,COSM,Cosmetic container defect,141
+B2-0431,FILL,Fill level out of range,45
+B2-0431,SEAL,Crimp/seal defect,44
+B2-0431,STOP,Stopper defect,26
+B2-0431,CRACK,Crack or breakage,12
+B2-0432,PART,Particles,173
+B2-0432,COSM,Cosmetic container defect,250
+B2-0432,FILL,Fill level out of range,70
+B2-0432,SEAL,Crimp/seal defect,48
+B2-0432,STOP,Stopper defect,43
+B2-0432,CRACK,Crack or breakage,8
+B2-0433,PART,Particles,114
+B2-0433,COSM,Cosmetic container defect,143
+B2-0433,FILL,Fill level out of range,31
+B2-0433,SEAL,Crimp/seal defect,36
+B2-0433,STOP,Stopper defect,25
+B2-0433,CRACK,Crack or breakage,12
+B2-0434,PART,Particles,209
+B2-0434,COSM,Cosmetic container defect,122
+B2-0434,FILL,Fill level out of range,30
+B2-0434,SEAL,Crimp/seal defect,40
+B2-0434,STOP,Stopper defect,41
+B2-0434,CRACK,Crack or breakage,13
+B2-0436,PART,Particles,212
+B2-0436,COSM,Cosmetic container defect,109
+B2-0436,FILL,Fill level out of range,31
+B2-0436,SEAL,Crimp/seal defect,41
+B2-0436,STOP,Stopper defect,30
+B2-0436,CRACK,Crack or breakage,12
+B2-0437,PART,Particles,204
+B2-0437,COSM,Cosmetic container defect,120
+B2-0437,FILL,Fill level out of range,53
+B2-0437,SEAL,Crimp/seal defect,62
+B2-0437,STOP,Stopper defect,37
+B2-0437,CRACK,Crack or breakage,22
+B2-0438,PART,Particles,303
+B2-0438,COSM,Cosmetic container defect,177
+B2-0438,FILL,Fill level out of range,66
+B2-0438,SEAL,Crimp/seal defect,48
+B2-0438,STOP,Stopper defect,45
+B2-0438,CRACK,Crack or breakage,25
+B2-0439,PART,Particles,413
+B2-0439,COSM,Cosmetic container defect,256
+B2-0439,FILL,Fill level out of range,103
+B2-0439,SEAL,Crimp/seal defect,43
+B2-0439,STOP,Stopper defect,42
+B2-0439,CRACK,Crack or breakage,27
+B2-0440,PART,Particles,204
+B2-0440,COSM,Cosmetic container defect,114
+B2-0440,FILL,Fill level out of range,46
+B2-0440,SEAL,Crimp/seal defect,43
+B2-0440,STOP,Stopper defect,45
+B2-0440,CRACK,Crack or breakage,14
+B2-0441,PART,Particles,156
+B2-0441,COSM,Cosmetic container defect,123
+B2-0441,FILL,Fill level out of range,41
+B2-0441,SEAL,Crimp/seal defect,38
+B2-0441,STOP,Stopper defect,37
+B2-0441,CRACK,Crack or breakage,22
+B2-0442,PART,Particles,164
+B2-0442,COSM,Cosmetic container defect,135
+B2-0442,FILL,Fill level out of range,35
+B2-0442,SEAL,Crimp/seal defect,35
+B2-0442,STOP,Stopper defect,28
+B2-0442,CRACK,Crack or breakage,9
+B2-0443,PART,Particles,236
+B2-0443,COSM,Cosmetic container defect,193
+B2-0443,FILL,Fill level out of range,42
+B2-0443,SEAL,Crimp/seal defect,37
+B2-0443,STOP,Stopper defect,30
+B2-0443,CRACK,Crack or breakage,20
+B2-0444,PART,Particles,196
+B2-0444,COSM,Cosmetic container defect,115
+B2-0444,FILL,Fill level out of range,50
+B2-0444,SEAL,Crimp/seal defect,27
+B2-0444,STOP,Stopper defect,33
+B2-0444,CRACK,Crack or breakage,18
+B2-0445,PART,Particles,191
+B2-0445,COSM,Cosmetic container defect,158
+B2-0445,FILL,Fill level out of range,43
+B2-0445,SEAL,Crimp/seal defect,27
+B2-0445,STOP,Stopper defect,38
+B2-0445,CRACK,Crack or breakage,19
+B2-0446,PART,Particles,242
+B2-0446,COSM,Cosmetic container defect,156
+B2-0446,FILL,Fill level out of range,70
+B2-0446,SEAL,Crimp/seal defect,59
+B2-0446,STOP,Stopper defect,57
+B2-0446,CRACK,Crack or breakage,26
+B2-0447,PART,Particles,251
+B2-0447,COSM,Cosmetic container defect,114
+B2-0447,FILL,Fill level out of range,39
+B2-0447,SEAL,Crimp/seal defect,57
+B2-0447,STOP,Stopper defect,38
+B2-0447,CRACK,Crack or breakage,23
+B2-0448,PART,Particles,165
+B2-0448,COSM,Cosmetic container defect,122
+B2-0448,FILL,Fill level out of range,39
+B2-0448,SEAL,Crimp/seal defect,41
+B2-0448,STOP,Stopper defect,19
+B2-0448,CRACK,Crack or breakage,14
+B2-0449,PART,Particles,203
+B2-0449,COSM,Cosmetic container defect,172
+B2-0449,FILL,Fill level out of range,76
+B2-0449,SEAL,Crimp/seal defect,53
+B2-0449,STOP,Stopper defect,41
+B2-0449,CRACK,Crack or breakage,23
+B2-0450,PART,Particles,160
+B2-0450,COSM,Cosmetic container defect,150
+B2-0450,FILL,Fill level out of range,52
+B2-0450,SEAL,Crimp/seal defect,45
+B2-0450,STOP,Stopper defect,40
+B2-0450,CRACK,Crack or breakage,14
+B2-0451,PART,Particles,172
+B2-0451,COSM,Cosmetic container defect,126
+B2-0451,FILL,Fill level out of range,42
+B2-0451,SEAL,Crimp/seal defect,24
+B2-0451,STOP,Stopper defect,25
+B2-0451,CRACK,Crack or breakage,13
+B2-0452,PART,Particles,254
+B2-0452,COSM,Cosmetic container defect,174
+B2-0452,FILL,Fill level out of range,69
+B2-0452,SEAL,Crimp/seal defect,69
+B2-0452,STOP,Stopper defect,46
+B2-0452,CRACK,Crack or breakage,18
+B2-0453,PART,Particles,114
+B2-0453,COSM,Cosmetic container defect,133
+B2-0453,FILL,Fill level out of range,38
+B2-0453,SEAL,Crimp/seal defect,25
+B2-0453,STOP,Stopper defect,19
+B2-0453,CRACK,Crack or breakage,12
+B2-0454,PART,Particles,199
+B2-0454,COSM,Cosmetic container defect,148
+B2-0454,FILL,Fill level out of range,59
+B2-0454,SEAL,Crimp/seal defect,37
+B2-0454,STOP,Stopper defect,32
+B2-0454,CRACK,Crack or breakage,14
+B2-0455,PART,Particles,160
+B2-0455,COSM,Cosmetic container defect,133
+B2-0455,FILL,Fill level out of range,59
+B2-0455,SEAL,Crimp/seal defect,38
+B2-0455,STOP,Stopper defect,47
+B2-0455,CRACK,Crack or breakage,18
+B2-0456,PART,Particles,209
+B2-0456,COSM,Cosmetic container defect,153
+B2-0456,FILL,Fill level out of range,59
+B2-0456,SEAL,Crimp/seal defect,50
+B2-0456,STOP,Stopper defect,31
+B2-0456,CRACK,Crack or breakage,13
+B2-0457,PART,Particles,177
+B2-0457,COSM,Cosmetic container defect,212
+B2-0457,FILL,Fill level out of range,50
+B2-0457,SEAL,Crimp/seal defect,44
+B2-0457,STOP,Stopper defect,35
+B2-0457,CRACK,Crack or breakage,26
+B2-0458,PART,Particles,106
+B2-0458,COSM,Cosmetic container defect,91
+B2-0458,FILL,Fill level out of range,47
+B2-0458,SEAL,Crimp/seal defect,28
+B2-0458,STOP,Stopper defect,20
+B2-0458,CRACK,Crack or breakage,16
+B2-0459,PART,Particles,336
+B2-0459,COSM,Cosmetic container defect,271
+B2-0459,FILL,Fill level out of range,82
+B2-0459,SEAL,Crimp/seal defect,74
+B2-0459,STOP,Stopper defect,35
+B2-0459,CRACK,Crack or breakage,49
+B2-0460,PART,Particles,153
+B2-0460,COSM,Cosmetic container defect,118
+B2-0460,FILL,Fill level out of range,39
+B2-0460,SEAL,Crimp/seal defect,19
+B2-0460,STOP,Stopper defect,27
+B2-0460,CRACK,Crack or breakage,12
+B2-0461,PART,Particles,186
+B2-0461,COSM,Cosmetic container defect,147
+B2-0461,FILL,Fill level out of range,56
+B2-0461,SEAL,Crimp/seal defect,42
+B2-0461,STOP,Stopper defect,23
+B2-0461,CRACK,Crack or breakage,21
+B2-0462,PART,Particles,134
+B2-0462,COSM,Cosmetic container defect,93
+B2-0462,FILL,Fill level out of range,37
+B2-0462,SEAL,Crimp/seal defect,28
+B2-0462,STOP,Stopper defect,29
+B2-0462,CRACK,Crack or breakage,11
+B2-0463,PART,Particles,213
+B2-0463,COSM,Cosmetic container defect,177
+B2-0463,FILL,Fill level out of range,59
+B2-0463,SEAL,Crimp/seal defect,60
+B2-0463,STOP,Stopper defect,44
+B2-0463,CRACK,Crack or breakage,16
+B2-0464,PART,Particles,147
+B2-0464,COSM,Cosmetic container defect,101
+B2-0464,FILL,Fill level out of range,52
+B2-0464,SEAL,Crimp/seal defect,45
+B2-0464,STOP,Stopper defect,22
+B2-0464,CRACK,Crack or breakage,14
+B2-0465,PART,Particles,184
+B2-0465,COSM,Cosmetic container defect,146
+B2-0465,FILL,Fill level out of range,52
+B2-0465,SEAL,Crimp/seal defect,33
+B2-0465,STOP,Stopper defect,28
+B2-0465,CRACK,Crack or breakage,12
+B2-0466,PART,Particles,176
+B2-0466,COSM,Cosmetic container defect,182
+B2-0466,FILL,Fill level out of range,41
+B2-0466,SEAL,Crimp/seal defect,67
+B2-0466,STOP,Stopper defect,45
+B2-0466,CRACK,Crack or breakage,20
+B2-0467,PART,Particles,202
+B2-0467,COSM,Cosmetic container defect,137
+B2-0467,FILL,Fill level out of range,67
+B2-0467,SEAL,Crimp/seal defect,43
+B2-0467,STOP,Stopper defect,32
+B2-0467,CRACK,Crack or breakage,12
+B2-0468,PART,Particles,267
+B2-0468,COSM,Cosmetic container defect,258
+B2-0468,FILL,Fill level out of range,75
+B2-0468,SEAL,Crimp/seal defect,79
+B2-0468,STOP,Stopper defect,50
+B2-0468,CRACK,Crack or breakage,27
+B2-0469,PART,Particles,220
+B2-0469,COSM,Cosmetic container defect,159
+B2-0469,FILL,Fill level out of range,84
+B2-0469,SEAL,Crimp/seal defect,72
+B2-0469,STOP,Stopper defect,30
+B2-0469,CRACK,Crack or breakage,16
+B2-0470,PART,Particles,210
+B2-0470,COSM,Cosmetic container defect,164
+B2-0470,FILL,Fill level out of range,41
+B2-0470,SEAL,Crimp/seal defect,49
+B2-0470,STOP,Stopper defect,45
+B2-0470,CRACK,Crack or breakage,21
+B2-0471,PART,Particles,230
+B2-0471,COSM,Cosmetic container defect,155
+B2-0471,FILL,Fill level out of range,40
+B2-0471,SEAL,Crimp/seal defect,30
+B2-0471,STOP,Stopper defect,36
+B2-0471,CRACK,Crack or breakage,25
+B2-0472,PART,Particles,241
+B2-0472,COSM,Cosmetic container defect,194
+B2-0472,FILL,Fill level out of range,87
+B2-0472,SEAL,Crimp/seal defect,43
+B2-0472,STOP,Stopper defect,42
+B2-0472,CRACK,Crack or breakage,26
+B2-0473,PART,Particles,282
+B2-0473,COSM,Cosmetic container defect,179
+B2-0473,FILL,Fill level out of range,71
+B2-0473,SEAL,Crimp/seal defect,79
+B2-0473,STOP,Stopper defect,39
+B2-0473,CRACK,Crack or breakage,16
+B2-0474,PART,Particles,201
+B2-0474,COSM,Cosmetic container defect,155
+B2-0474,FILL,Fill level out of range,58
+B2-0474,SEAL,Crimp/seal defect,44
+B2-0474,STOP,Stopper defect,36
+B2-0474,CRACK,Crack or breakage,16
+B2-0475,PART,Particles,257
+B2-0475,COSM,Cosmetic container defect,218
+B2-0475,FILL,Fill level out of range,74
+B2-0475,SEAL,Crimp/seal defect,39
+B2-0475,STOP,Stopper defect,34
+B2-0475,CRACK,Crack or breakage,17
+B2-0476,PART,Particles,187
+B2-0476,COSM,Cosmetic container defect,89
+B2-0476,FILL,Fill level out of range,52
+B2-0476,SEAL,Crimp/seal defect,46
+B2-0476,STOP,Stopper defect,23
+B2-0476,CRACK,Crack or breakage,11
+B2-0477,PART,Particles,130
+B2-0477,COSM,Cosmetic container defect,151
+B2-0477,FILL,Fill level out of range,69
+B2-0477,SEAL,Crimp/seal defect,39
+B2-0477,STOP,Stopper defect,35
+B2-0477,CRACK,Crack or breakage,11
+B2-0478,PART,Particles,199
+B2-0478,COSM,Cosmetic container defect,154
+B2-0478,FILL,Fill level out of range,52
+B2-0478,SEAL,Crimp/seal defect,25
+B2-0478,STOP,Stopper defect,19
+B2-0478,CRACK,Crack or breakage,13
+B2-0479,PART,Particles,83
+B2-0479,COSM,Cosmetic container defect,56
+B2-0479,FILL,Fill level out of range,18
+B2-0479,SEAL,Crimp/seal defect,19
+B2-0479,STOP,Stopper defect,13
+B2-0479,CRACK,Crack or breakage,6
+B2-0480,PART,Particles,196
+B2-0480,COSM,Cosmetic container defect,159
+B2-0480,FILL,Fill level out of range,38
+B2-0480,SEAL,Crimp/seal defect,36
+B2-0480,STOP,Stopper defect,55
+B2-0480,CRACK,Crack or breakage,17
+B2-0481,PART,Particles,191
+B2-0481,COSM,Cosmetic container defect,189
+B2-0481,FILL,Fill level out of range,49
+B2-0481,SEAL,Crimp/seal defect,36
+B2-0481,STOP,Stopper defect,29
+B2-0481,CRACK,Crack or breakage,7
+B2-0482,PART,Particles,157
+B2-0482,COSM,Cosmetic container defect,102
+B2-0482,FILL,Fill level out of range,38
+B2-0482,SEAL,Crimp/seal defect,33
+B2-0482,STOP,Stopper defect,33
+B2-0482,CRACK,Crack or breakage,14
+B2-0483,PART,Particles,170
+B2-0483,COSM,Cosmetic container defect,101
+B2-0483,FILL,Fill level out of range,43
+B2-0483,SEAL,Crimp/seal defect,38
+B2-0483,STOP,Stopper defect,32
+B2-0483,CRACK,Crack or breakage,19
+B2-0484,PART,Particles,265
+B2-0484,COSM,Cosmetic container defect,127
+B2-0484,FILL,Fill level out of range,48
+B2-0484,SEAL,Crimp/seal defect,73
+B2-0484,STOP,Stopper defect,29
+B2-0484,CRACK,Crack or breakage,15
+B2-0485,PART,Particles,164
+B2-0485,COSM,Cosmetic container defect,98
+B2-0485,FILL,Fill level out of range,47
+B2-0485,SEAL,Crimp/seal defect,43
+B2-0485,STOP,Stopper defect,34
+B2-0485,CRACK,Crack or breakage,16
+B2-0486,PART,Particles,149
+B2-0486,COSM,Cosmetic container defect,141
+B2-0486,FILL,Fill level out of range,53
+B2-0486,SEAL,Crimp/seal defect,42
+B2-0486,STOP,Stopper defect,17
+B2-0486,CRACK,Crack or breakage,16
+B2-0487,PART,Particles,223
+B2-0487,COSM,Cosmetic container defect,235
+B2-0487,FILL,Fill level out of range,63
+B2-0487,SEAL,Crimp/seal defect,81
+B2-0487,STOP,Stopper defect,41
+B2-0487,CRACK,Crack or breakage,21
+B2-0488,PART,Particles,199
+B2-0488,COSM,Cosmetic container defect,175
+B2-0488,FILL,Fill level out of range,67
+B2-0488,SEAL,Crimp/seal defect,46
+B2-0488,STOP,Stopper defect,53
+B2-0488,CRACK,Crack or breakage,24
+B2-0489,PART,Particles,146
+B2-0489,COSM,Cosmetic container defect,89
+B2-0489,FILL,Fill level out of range,18
+B2-0489,SEAL,Crimp/seal defect,30
+B2-0489,STOP,Stopper defect,35
+B2-0489,CRACK,Crack or breakage,8
+B2-0490,PART,Particles,258
+B2-0490,COSM,Cosmetic container defect,239
+B2-0490,FILL,Fill level out of range,70
+B2-0490,SEAL,Crimp/seal defect,67
+B2-0490,STOP,Stopper defect,52
+B2-0490,CRACK,Crack or breakage,17
+B2-0491,PART,Particles,314
+B2-0491,COSM,Cosmetic container defect,214
+B2-0491,FILL,Fill level out of range,73
+B2-0491,SEAL,Crimp/seal defect,57
+B2-0491,STOP,Stopper defect,48
+B2-0491,CRACK,Crack or breakage,21
+B2-0492,PART,Particles,248
+B2-0492,COSM,Cosmetic container defect,225
+B2-0492,FILL,Fill level out of range,83
+B2-0492,SEAL,Crimp/seal defect,63
+B2-0492,STOP,Stopper defect,61
+B2-0492,CRACK,Crack or breakage,22
+B2-0493,PART,Particles,231
+B2-0493,COSM,Cosmetic container defect,152
+B2-0493,FILL,Fill level out of range,90
+B2-0493,SEAL,Crimp/seal defect,73
+B2-0493,STOP,Stopper defect,55
+B2-0493,CRACK,Crack or breakage,33
+B2-0494,PART,Particles,149
+B2-0494,COSM,Cosmetic container defect,125
+B2-0494,FILL,Fill level out of range,48
+B2-0494,SEAL,Crimp/seal defect,32
+B2-0494,STOP,Stopper defect,53
+B2-0494,CRACK,Crack or breakage,17
+B2-0495,PART,Particles,242
+B2-0495,COSM,Cosmetic container defect,130
+B2-0495,FILL,Fill level out of range,60
+B2-0495,SEAL,Crimp/seal defect,60
+B2-0495,STOP,Stopper defect,50
+B2-0495,CRACK,Crack or breakage,20
+B2-0496,PART,Particles,224
+B2-0496,COSM,Cosmetic container defect,132
+B2-0496,FILL,Fill level out of range,64
+B2-0496,SEAL,Crimp/seal defect,47
+B2-0496,STOP,Stopper defect,50
+B2-0496,CRACK,Crack or breakage,21
+B2-0497,PART,Particles,224
+B2-0497,COSM,Cosmetic container defect,131
+B2-0497,FILL,Fill level out of range,68
+B2-0497,SEAL,Crimp/seal defect,61
+B2-0497,STOP,Stopper defect,40
+B2-0497,CRACK,Crack or breakage,21
+B2-0498,PART,Particles,347
+B2-0498,COSM,Cosmetic container defect,261
+B2-0498,FILL,Fill level out of range,101
+B2-0498,SEAL,Crimp/seal defect,99
+B2-0498,STOP,Stopper defect,61
+B2-0498,CRACK,Crack or breakage,40
+B2-0499,PART,Particles,148
+B2-0499,COSM,Cosmetic container defect,110
+B2-0499,FILL,Fill level out of range,61
+B2-0499,SEAL,Crimp/seal defect,37
+B2-0499,STOP,Stopper defect,44
+B2-0499,CRACK,Crack or breakage,14
+B2-0500,PART,Particles,227
+B2-0500,COSM,Cosmetic container defect,143
+B2-0500,FILL,Fill level out of range,56
+B2-0500,SEAL,Crimp/seal defect,51
+B2-0500,STOP,Stopper defect,23
+B2-0500,CRACK,Crack or breakage,13
+B2-0501,PART,Particles,99
+B2-0501,COSM,Cosmetic container defect,134
+B2-0501,FILL,Fill level out of range,38
+B2-0501,SEAL,Crimp/seal defect,52
+B2-0501,STOP,Stopper defect,16
+B2-0501,CRACK,Crack or breakage,19
+B2-0502,PART,Particles,239
+B2-0502,COSM,Cosmetic container defect,171
+B2-0502,FILL,Fill level out of range,59
+B2-0502,SEAL,Crimp/seal defect,55
+B2-0502,STOP,Stopper defect,61
+B2-0502,CRACK,Crack or breakage,18
+B2-0503,PART,Particles,206
+B2-0503,COSM,Cosmetic container defect,125
+B2-0503,FILL,Fill level out of range,46
+B2-0503,SEAL,Crimp/seal defect,49
+B2-0503,STOP,Stopper defect,36
+B2-0503,CRACK,Crack or breakage,18
+B2-0504,PART,Particles,128
+B2-0504,COSM,Cosmetic container defect,88
+B2-0504,FILL,Fill level out of range,61
+B2-0504,SEAL,Crimp/seal defect,28
+B2-0504,STOP,Stopper defect,23
+B2-0504,CRACK,Crack or breakage,19
+B2-0505,PART,Particles,189
+B2-0505,COSM,Cosmetic container defect,150
+B2-0505,FILL,Fill level out of range,48
+B2-0505,SEAL,Crimp/seal defect,40
+B2-0505,STOP,Stopper defect,28
+B2-0505,CRACK,Crack or breakage,23
+B2-0506,PART,Particles,345
+B2-0506,COSM,Cosmetic container defect,221
+B2-0506,FILL,Fill level out of range,47
+B2-0506,SEAL,Crimp/seal defect,42
+B2-0506,STOP,Stopper defect,67
+B2-0506,CRACK,Crack or breakage,17
+B2-0507,PART,Particles,162
+B2-0507,COSM,Cosmetic container defect,126
+B2-0507,FILL,Fill level out of range,54
+B2-0507,SEAL,Crimp/seal defect,43
+B2-0507,STOP,Stopper defect,32
+B2-0507,CRACK,Crack or breakage,15
+B2-0508,PART,Particles,131
+B2-0508,COSM,Cosmetic container defect,133
+B2-0508,FILL,Fill level out of range,32
+B2-0508,SEAL,Crimp/seal defect,39
+B2-0508,STOP,Stopper defect,34
+B2-0508,CRACK,Crack or breakage,21
+B2-0509,PART,Particles,134
+B2-0509,COSM,Cosmetic container defect,116
+B2-0509,FILL,Fill level out of range,31
+B2-0509,SEAL,Crimp/seal defect,24
+B2-0509,STOP,Stopper defect,29
+B2-0509,CRACK,Crack or breakage,17
+B2-0510,PART,Particles,145
+B2-0510,COSM,Cosmetic container defect,127
+B2-0510,FILL,Fill level out of range,58
+B2-0510,SEAL,Crimp/seal defect,28
+B2-0510,STOP,Stopper defect,35
+B2-0510,CRACK,Crack or breakage,21
+B2-0511,PART,Particles,194
+B2-0511,COSM,Cosmetic container defect,111
+B2-0511,FILL,Fill level out of range,47
+B2-0511,SEAL,Crimp/seal defect,44
+B2-0511,STOP,Stopper defect,47
+B2-0511,CRACK,Crack or breakage,15
+B2-0512,PART,Particles,359
+B2-0512,COSM,Cosmetic container defect,175
+B2-0512,FILL,Fill level out of range,74
+B2-0512,SEAL,Crimp/seal defect,55
+B2-0512,STOP,Stopper defect,36
+B2-0512,CRACK,Crack or breakage,33
+B2-0513,PART,Particles,192
+B2-0513,COSM,Cosmetic container defect,170
+B2-0513,FILL,Fill level out of range,58
+B2-0513,SEAL,Crimp/seal defect,28
+B2-0513,STOP,Stopper defect,27
+B2-0513,CRACK,Crack or breakage,13
+B2-0514,PART,Particles,185
+B2-0514,COSM,Cosmetic container defect,154
+B2-0514,FILL,Fill level out of range,42
+B2-0514,SEAL,Crimp/seal defect,19
+B2-0514,STOP,Stopper defect,39
+B2-0514,CRACK,Crack or breakage,9
+B2-0515,PART,Particles,265
+B2-0515,COSM,Cosmetic container defect,173
+B2-0515,FILL,Fill level out of range,89
+B2-0515,SEAL,Crimp/seal defect,71
+B2-0515,STOP,Stopper defect,58
+B2-0515,CRACK,Crack or breakage,44
+B2-0516,PART,Particles,147
+B2-0516,COSM,Cosmetic container defect,204
+B2-0516,FILL,Fill level out of range,52
+B2-0516,SEAL,Crimp/seal defect,64
+B2-0516,STOP,Stopper defect,30
+B2-0516,CRACK,Crack or breakage,20
+B2-0517,PART,Particles,215
+B2-0517,COSM,Cosmetic container defect,206
+B2-0517,FILL,Fill level out of range,54
+B2-0517,SEAL,Crimp/seal defect,57
+B2-0517,STOP,Stopper defect,30
+B2-0517,CRACK,Crack or breakage,8
+B2-0518,PART,Particles,170
+B2-0518,COSM,Cosmetic container defect,138
+B2-0518,FILL,Fill level out of range,46
+B2-0518,SEAL,Crimp/seal defect,31
+B2-0518,STOP,Stopper defect,38
+B2-0518,CRACK,Crack or breakage,20
+B2-0519,PART,Particles,161
+B2-0519,COSM,Cosmetic container defect,115
+B2-0519,FILL,Fill level out of range,40
+B2-0519,SEAL,Crimp/seal defect,44
+B2-0519,STOP,Stopper defect,34
+B2-0519,CRACK,Crack or breakage,16
+B2-0520,PART,Particles,124
+B2-0520,COSM,Cosmetic container defect,99
+B2-0520,FILL,Fill level out of range,35
+B2-0520,SEAL,Crimp/seal defect,33
+B2-0520,STOP,Stopper defect,33
+B2-0520,CRACK,Crack or breakage,15
+B2-0521,PART,Particles,240
+B2-0521,COSM,Cosmetic container defect,187
+B2-0521,FILL,Fill level out of range,64
+B2-0521,SEAL,Crimp/seal defect,45
+B2-0521,STOP,Stopper defect,49
+B2-0521,CRACK,Crack or breakage,27
+B3-0133,PART,Particles,95
+B3-0133,COSM,Cosmetic container defect,53
+B3-0133,AIR,Air bubble,31
+B3-0133,PLNG,Plunger position,44
+B3-0133,STOP,Plunger stopper defect,26
+B3-0133,CRACK,Crack or breakage,8
+B3-0134,PART,Particles,134
+B3-0134,COSM,Cosmetic container defect,87
+B3-0134,AIR,Air bubble,73
+B3-0134,PLNG,Plunger position,57
+B3-0134,STOP,Plunger stopper defect,32
+B3-0134,CRACK,Crack or breakage,14
+B3-0135,PART,Particles,65
+B3-0135,COSM,Cosmetic container defect,68
+B3-0135,AIR,Air bubble,40
+B3-0135,PLNG,Plunger position,32
+B3-0135,STOP,Plunger stopper defect,28
+B3-0135,CRACK,Crack or breakage,3
+B3-0136,PART,Particles,80
+B3-0136,COSM,Cosmetic container defect,51
+B3-0136,AIR,Air bubble,41
+B3-0136,PLNG,Plunger position,30
+B3-0136,STOP,Plunger stopper defect,46
+B3-0136,CRACK,Crack or breakage,7
+B3-0137,PART,Particles,138
+B3-0137,COSM,Cosmetic container defect,101
+B3-0137,AIR,Air bubble,57
+B3-0137,PLNG,Plunger position,59
+B3-0137,STOP,Plunger stopper defect,62
+B3-0137,CRACK,Crack or breakage,10
+B3-0138,PART,Particles,194
+B3-0138,COSM,Cosmetic container defect,100
+B3-0138,AIR,Air bubble,65
+B3-0138,PLNG,Plunger position,69
+B3-0138,STOP,Plunger stopper defect,40
+B3-0138,CRACK,Crack or breakage,17
+B3-0139,PART,Particles,91
+B3-0139,COSM,Cosmetic container defect,63
+B3-0139,AIR,Air bubble,44
+B3-0139,PLNG,Plunger position,41
+B3-0139,STOP,Plunger stopper defect,51
+B3-0139,CRACK,Crack or breakage,10
+B3-0140,PART,Particles,111
+B3-0140,COSM,Cosmetic container defect,80
+B3-0140,AIR,Air bubble,59
+B3-0140,PLNG,Plunger position,42
+B3-0140,STOP,Plunger stopper defect,34
+B3-0140,CRACK,Crack or breakage,8
+B3-0141,PART,Particles,139
+B3-0141,COSM,Cosmetic container defect,73
+B3-0141,AIR,Air bubble,54
+B3-0141,PLNG,Plunger position,32
+B3-0141,STOP,Plunger stopper defect,40
+B3-0141,CRACK,Crack or breakage,13
+B3-0142,PART,Particles,137
+B3-0142,COSM,Cosmetic container defect,97
+B3-0142,AIR,Air bubble,59
+B3-0142,PLNG,Plunger position,57
+B3-0142,STOP,Plunger stopper defect,46
+B3-0142,CRACK,Crack or breakage,7
+B3-0143,PART,Particles,75
+B3-0143,COSM,Cosmetic container defect,76
+B3-0143,AIR,Air bubble,37
+B3-0143,PLNG,Plunger position,18
+B3-0143,STOP,Plunger stopper defect,40
+B3-0143,CRACK,Crack or breakage,6
+B3-0144,PART,Particles,147
+B3-0144,COSM,Cosmetic container defect,135
+B3-0144,AIR,Air bubble,49
+B3-0144,PLNG,Plunger position,47
+B3-0144,STOP,Plunger stopper defect,41
+B3-0144,CRACK,Crack or breakage,12
+B3-0145,PART,Particles,112
+B3-0145,COSM,Cosmetic container defect,98
+B3-0145,AIR,Air bubble,49
+B3-0145,PLNG,Plunger position,64
+B3-0145,STOP,Plunger stopper defect,33
+B3-0145,CRACK,Crack or breakage,15
+B3-0146,PART,Particles,112
+B3-0146,COSM,Cosmetic container defect,86
+B3-0146,AIR,Air bubble,46
+B3-0146,PLNG,Plunger position,49
+B3-0146,STOP,Plunger stopper defect,32
+B3-0146,CRACK,Crack or breakage,9
+B3-0147,PART,Particles,157
+B3-0147,COSM,Cosmetic container defect,161
+B3-0147,AIR,Air bubble,75
+B3-0147,PLNG,Plunger position,51
+B3-0147,STOP,Plunger stopper defect,48
+B3-0147,CRACK,Crack or breakage,22
+B3-0148,PART,Particles,105
+B3-0148,COSM,Cosmetic container defect,81
+B3-0148,AIR,Air bubble,49
+B3-0148,PLNG,Plunger position,51
+B3-0148,STOP,Plunger stopper defect,37
+B3-0148,CRACK,Crack or breakage,12
+B3-0149,PART,Particles,78
+B3-0149,COSM,Cosmetic container defect,52
+B3-0149,AIR,Air bubble,33
+B3-0149,PLNG,Plunger position,36
+B3-0149,STOP,Plunger stopper defect,22
+B3-0149,CRACK,Crack or breakage,14
+B3-0150,PART,Particles,108
+B3-0150,COSM,Cosmetic container defect,61
+B3-0150,AIR,Air bubble,57
+B3-0150,PLNG,Plunger position,33
+B3-0150,STOP,Plunger stopper defect,20
+B3-0150,CRACK,Crack or breakage,11
+B3-0151,PART,Particles,156
+B3-0151,COSM,Cosmetic container defect,73
+B3-0151,AIR,Air bubble,72
+B3-0151,PLNG,Plunger position,58
+B3-0151,STOP,Plunger stopper defect,36
+B3-0151,CRACK,Crack or breakage,15
+B3-0152,PART,Particles,83
+B3-0152,COSM,Cosmetic container defect,84
+B3-0152,AIR,Air bubble,55
+B3-0152,PLNG,Plunger position,40
+B3-0152,STOP,Plunger stopper defect,33
+B3-0152,CRACK,Crack or breakage,6
+B3-0153,PART,Particles,132
+B3-0153,COSM,Cosmetic container defect,88
+B3-0153,AIR,Air bubble,47
+B3-0153,PLNG,Plunger position,51
+B3-0153,STOP,Plunger stopper defect,33
+B3-0153,CRACK,Crack or breakage,10
+B3-0154,PART,Particles,78
+B3-0154,COSM,Cosmetic container defect,73
+B3-0154,AIR,Air bubble,37
+B3-0154,PLNG,Plunger position,42
+B3-0154,STOP,Plunger stopper defect,44
+B3-0154,CRACK,Crack or breakage,11
+B3-0155,PART,Particles,66
+B3-0155,COSM,Cosmetic container defect,51
+B3-0155,AIR,Air bubble,34
+B3-0155,PLNG,Plunger position,43
+B3-0155,STOP,Plunger stopper defect,18
+B3-0155,CRACK,Crack or breakage,11
+B3-0156,PART,Particles,76
+B3-0156,COSM,Cosmetic container defect,41
+B3-0156,AIR,Air bubble,27
+B3-0156,PLNG,Plunger position,29
+B3-0156,STOP,Plunger stopper defect,26
+B3-0156,CRACK,Crack or breakage,9
+B3-0157,PART,Particles,100
+B3-0157,COSM,Cosmetic container defect,73
+B3-0157,AIR,Air bubble,40
+B3-0157,PLNG,Plunger position,35
+B3-0157,STOP,Plunger stopper defect,28
+B3-0157,CRACK,Crack or breakage,11
+B3-0158,PART,Particles,154
+B3-0158,COSM,Cosmetic container defect,78
+B3-0158,AIR,Air bubble,72
+B3-0158,PLNG,Plunger position,63
+B3-0158,STOP,Plunger stopper defect,47
+B3-0158,CRACK,Crack or breakage,21
+B3-0159,PART,Particles,116
+B3-0159,COSM,Cosmetic container defect,49
+B3-0159,AIR,Air bubble,42
+B3-0159,PLNG,Plunger position,43
+B3-0159,STOP,Plunger stopper defect,35
+B3-0159,CRACK,Crack or breakage,9
+B3-0160,PART,Particles,121
+B3-0160,COSM,Cosmetic container defect,70
+B3-0160,AIR,Air bubble,44
+B3-0160,PLNG,Plunger position,56
+B3-0160,STOP,Plunger stopper defect,26
+B3-0160,CRACK,Crack or breakage,11
+B3-0162,PART,Particles,86
+B3-0162,COSM,Cosmetic container defect,46
+B3-0162,AIR,Air bubble,36
+B3-0162,PLNG,Plunger position,31
+B3-0162,STOP,Plunger stopper defect,43
+B3-0162,CRACK,Crack or breakage,15
+B3-0163,PART,Particles,129
+B3-0163,COSM,Cosmetic container defect,91
+B3-0163,AIR,Air bubble,54
+B3-0163,PLNG,Plunger position,46
+B3-0163,STOP,Plunger stopper defect,41
+B3-0163,CRACK,Crack or breakage,9
+B3-0164,PART,Particles,90
+B3-0164,COSM,Cosmetic container defect,78
+B3-0164,AIR,Air bubble,39
+B3-0164,PLNG,Plunger position,42
+B3-0164,STOP,Plunger stopper defect,60
+B3-0164,CRACK,Crack or breakage,11
+B3-0165,PART,Particles,162
+B3-0165,COSM,Cosmetic container defect,69
+B3-0165,AIR,Air bubble,57
+B3-0165,PLNG,Plunger position,48
+B3-0165,STOP,Plunger stopper defect,54
+B3-0165,CRACK,Crack or breakage,9
+B3-0166,PART,Particles,153
+B3-0166,COSM,Cosmetic container defect,97
+B3-0166,AIR,Air bubble,76
+B3-0166,PLNG,Plunger position,50
+B3-0166,STOP,Plunger stopper defect,31
+B3-0166,CRACK,Crack or breakage,17
+B3-0167,PART,Particles,99
+B3-0167,COSM,Cosmetic container defect,76
+B3-0167,AIR,Air bubble,47
+B3-0167,PLNG,Plunger position,44
+B3-0167,STOP,Plunger stopper defect,28
+B3-0167,CRACK,Crack or breakage,12
+B3-0168,PART,Particles,164
+B3-0168,COSM,Cosmetic container defect,177
+B3-0168,AIR,Air bubble,85
+B3-0168,PLNG,Plunger position,94
+B3-0168,STOP,Plunger stopper defect,36
+B3-0168,CRACK,Crack or breakage,12
+B3-0169,PART,Particles,75
+B3-0169,COSM,Cosmetic container defect,34
+B3-0169,AIR,Air bubble,25
+B3-0169,PLNG,Plunger position,23
+B3-0169,STOP,Plunger stopper defect,19
+B3-0169,CRACK,Crack or breakage,7
+B3-0170,PART,Particles,121
+B3-0170,COSM,Cosmetic container defect,70
+B3-0170,AIR,Air bubble,44
+B3-0170,PLNG,Plunger position,50
+B3-0170,STOP,Plunger stopper defect,26
+B3-0170,CRACK,Crack or breakage,7
+B3-0171,PART,Particles,85
+B3-0171,COSM,Cosmetic container defect,80
+B3-0171,AIR,Air bubble,52
+B3-0171,PLNG,Plunger position,39
+B3-0171,STOP,Plunger stopper defect,27
+B3-0171,CRACK,Crack or breakage,6
+B3-0172,PART,Particles,100
+B3-0172,COSM,Cosmetic container defect,70
+B3-0172,AIR,Air bubble,26
+B3-0172,PLNG,Plunger position,37
+B3-0172,STOP,Plunger stopper defect,32
+B3-0172,CRACK,Crack or breakage,7
+B3-0173,PART,Particles,151
+B3-0173,COSM,Cosmetic container defect,89
+B3-0173,AIR,Air bubble,40
+B3-0173,PLNG,Plunger position,50
+B3-0173,STOP,Plunger stopper defect,24
+B3-0173,CRACK,Crack or breakage,12
+B3-0174,PART,Particles,93
+B3-0174,COSM,Cosmetic container defect,49
+B3-0174,AIR,Air bubble,41
+B3-0174,PLNG,Plunger position,21
+B3-0174,STOP,Plunger stopper defect,28
+B3-0174,CRACK,Crack or breakage,6
+B3-0175,PART,Particles,78
+B3-0175,COSM,Cosmetic container defect,72
+B3-0175,AIR,Air bubble,38
+B3-0175,PLNG,Plunger position,31
+B3-0175,STOP,Plunger stopper defect,22
+B3-0175,CRACK,Crack or breakage,11
+B3-0176,PART,Particles,87
+B3-0176,COSM,Cosmetic container defect,63
+B3-0176,AIR,Air bubble,44
+B3-0176,PLNG,Plunger position,26
+B3-0176,STOP,Plunger stopper defect,14
+B3-0176,CRACK,Crack or breakage,8
+B3-0177,PART,Particles,65
+B3-0177,COSM,Cosmetic container defect,58
+B3-0177,AIR,Air bubble,40
+B3-0177,PLNG,Plunger position,37
+B3-0177,STOP,Plunger stopper defect,24
+B3-0177,CRACK,Crack or breakage,10
+B3-0178,PART,Particles,76
+B3-0178,COSM,Cosmetic container defect,93
+B3-0178,AIR,Air bubble,37
+B3-0178,PLNG,Plunger position,47
+B3-0178,STOP,Plunger stopper defect,39
+B3-0178,CRACK,Crack or breakage,12
+B3-0179,PART,Particles,119
+B3-0179,COSM,Cosmetic container defect,87
+B3-0179,AIR,Air bubble,43
+B3-0179,PLNG,Plunger position,54
+B3-0179,STOP,Plunger stopper defect,58
+B3-0179,CRACK,Crack or breakage,12
+B3-0180,PART,Particles,71
+B3-0180,COSM,Cosmetic container defect,66
+B3-0180,AIR,Air bubble,36
+B3-0180,PLNG,Plunger position,30
+B3-0180,STOP,Plunger stopper defect,23
+B3-0180,CRACK,Crack or breakage,5
+B3-0181,PART,Particles,99
+B3-0181,COSM,Cosmetic container defect,84
+B3-0181,AIR,Air bubble,52
+B3-0181,PLNG,Plunger position,31
+B3-0181,STOP,Plunger stopper defect,35
+B3-0181,CRACK,Crack or breakage,15
+B3-0182,PART,Particles,66
+B3-0182,COSM,Cosmetic container defect,39
+B3-0182,AIR,Air bubble,21
+B3-0182,PLNG,Plunger position,19
+B3-0182,STOP,Plunger stopper defect,34
+B3-0182,CRACK,Crack or breakage,5
+B3-0183,PART,Particles,122
+B3-0183,COSM,Cosmetic container defect,65
+B3-0183,AIR,Air bubble,66
+B3-0183,PLNG,Plunger position,53
+B3-0183,STOP,Plunger stopper defect,45
+B3-0183,CRACK,Crack or breakage,11
+B3-0184,PART,Particles,132
+B3-0184,COSM,Cosmetic container defect,107
+B3-0184,AIR,Air bubble,69
+B3-0184,PLNG,Plunger position,42
+B3-0184,STOP,Plunger stopper defect,43
+B3-0184,CRACK,Crack or breakage,11
+B3-0185,PART,Particles,72
+B3-0185,COSM,Cosmetic container defect,82
+B3-0185,AIR,Air bubble,43
+B3-0185,PLNG,Plunger position,35
+B3-0185,STOP,Plunger stopper defect,38
+B3-0185,CRACK,Crack or breakage,9
+B3-0186,PART,Particles,224
+B3-0186,COSM,Cosmetic container defect,103
+B3-0186,AIR,Air bubble,65
+B3-0186,PLNG,Plunger position,78
+B3-0186,STOP,Plunger stopper defect,41
+B3-0186,CRACK,Crack or breakage,11
+B3-0187,PART,Particles,131
+B3-0187,COSM,Cosmetic container defect,87
+B3-0187,AIR,Air bubble,79
+B3-0187,PLNG,Plunger position,48
+B3-0187,STOP,Plunger stopper defect,25
+B3-0187,CRACK,Crack or breakage,16
+B3-0188,PART,Particles,68
+B3-0188,COSM,Cosmetic container defect,46
+B3-0188,AIR,Air bubble,25
+B3-0188,PLNG,Plunger position,15
+B3-0188,STOP,Plunger stopper defect,37
+B3-0188,CRACK,Crack or breakage,8
+B3-0189,PART,Particles,133
+B3-0189,COSM,Cosmetic container defect,111
+B3-0189,AIR,Air bubble,48
+B3-0189,PLNG,Plunger position,40
+B3-0189,STOP,Plunger stopper defect,23
+B3-0189,CRACK,Crack or breakage,15
+B3-0190,PART,Particles,210
+B3-0190,COSM,Cosmetic container defect,148
+B3-0190,AIR,Air bubble,96
+B3-0190,PLNG,Plunger position,84
+B3-0190,STOP,Plunger stopper defect,32
+B3-0190,CRACK,Crack or breakage,24
+B3-0191,PART,Particles,107
+B3-0191,COSM,Cosmetic container defect,119
+B3-0191,AIR,Air bubble,60
+B3-0191,PLNG,Plunger position,68
+B3-0191,STOP,Plunger stopper defect,22
+B3-0191,CRACK,Crack or breakage,16
+B3-0192,PART,Particles,195
+B3-0192,COSM,Cosmetic container defect,90
+B3-0192,AIR,Air bubble,73
+B3-0192,PLNG,Plunger position,55
+B3-0192,STOP,Plunger stopper defect,39
+B3-0192,CRACK,Crack or breakage,8
+B3-0193,PART,Particles,128
+B3-0193,COSM,Cosmetic container defect,58
+B3-0193,AIR,Air bubble,59
+B3-0193,PLNG,Plunger position,44
+B3-0193,STOP,Plunger stopper defect,39
+B3-0193,CRACK,Crack or breakage,19
+B3-0194,PART,Particles,101
+B3-0194,COSM,Cosmetic container defect,64
+B3-0194,AIR,Air bubble,45
+B3-0194,PLNG,Plunger position,30
+B3-0194,STOP,Plunger stopper defect,30
+B3-0194,CRACK,Crack or breakage,10
+B3-0195,PART,Particles,70
+B3-0195,COSM,Cosmetic container defect,70
+B3-0195,AIR,Air bubble,38
+B3-0195,PLNG,Plunger position,34
+B3-0195,STOP,Plunger stopper defect,30
+B3-0195,CRACK,Crack or breakage,10
+B3-0196,PART,Particles,60
+B3-0196,COSM,Cosmetic container defect,30
+B3-0196,AIR,Air bubble,29
+B3-0196,PLNG,Plunger position,32
+B3-0196,STOP,Plunger stopper defect,20
+B3-0196,CRACK,Crack or breakage,3
+B3-0197,PART,Particles,75
+B3-0197,COSM,Cosmetic container defect,48
+B3-0197,AIR,Air bubble,27
+B3-0197,PLNG,Plunger position,19
+B3-0197,STOP,Plunger stopper defect,12
+B3-0197,CRACK,Crack or breakage,7
+B3-0198,PART,Particles,120
+B3-0198,COSM,Cosmetic container defect,56
+B3-0198,AIR,Air bubble,45
+B3-0198,PLNG,Plunger position,19
+B3-0198,STOP,Plunger stopper defect,17
+B3-0198,CRACK,Crack or breakage,6
+B3-0199,PART,Particles,93
+B3-0199,COSM,Cosmetic container defect,51
+B3-0199,AIR,Air bubble,42
+B3-0199,PLNG,Plunger position,43
+B3-0199,STOP,Plunger stopper defect,17
+B3-0199,CRACK,Crack or breakage,12
+B3-0200,PART,Particles,119
+B3-0200,COSM,Cosmetic container defect,63
+B3-0200,AIR,Air bubble,70
+B3-0200,PLNG,Plunger position,58
+B3-0200,STOP,Plunger stopper defect,49
+B3-0200,CRACK,Crack or breakage,19
+B3-0201,PART,Particles,242
+B3-0201,COSM,Cosmetic container defect,119
+B3-0201,AIR,Air bubble,72
+B3-0201,PLNG,Plunger position,89
+B3-0201,STOP,Plunger stopper defect,49
+B3-0201,CRACK,Crack or breakage,17
+B3-0202,PART,Particles,131
+B3-0202,COSM,Cosmetic container defect,66
+B3-0202,AIR,Air bubble,47
+B3-0202,PLNG,Plunger position,33
+B3-0202,STOP,Plunger stopper defect,27
+B3-0202,CRACK,Crack or breakage,13
+B3-0203,PART,Particles,67
+B3-0203,COSM,Cosmetic container defect,41
+B3-0203,AIR,Air bubble,28
+B3-0203,PLNG,Plunger position,35
+B3-0203,STOP,Plunger stopper defect,28
+B3-0203,CRACK,Crack or breakage,3
+B3-0204,PART,Particles,84
+B3-0204,COSM,Cosmetic container defect,63
+B3-0204,AIR,Air bubble,24
+B3-0204,PLNG,Plunger position,47
+B3-0204,STOP,Plunger stopper defect,31
+B3-0204,CRACK,Crack or breakage,8
+B3-0205,PART,Particles,97
+B3-0205,COSM,Cosmetic container defect,83
+B3-0205,AIR,Air bubble,47
+B3-0205,PLNG,Plunger position,58
+B3-0205,STOP,Plunger stopper defect,46
+B3-0205,CRACK,Crack or breakage,13
+B3-0206,PART,Particles,60
+B3-0206,COSM,Cosmetic container defect,56
+B3-0206,AIR,Air bubble,18
+B3-0206,PLNG,Plunger position,31
+B3-0206,STOP,Plunger stopper defect,20
+B3-0206,CRACK,Crack or breakage,6
+B3-0207,PART,Particles,59
+B3-0207,COSM,Cosmetic container defect,52
+B3-0207,AIR,Air bubble,12
+B3-0207,PLNG,Plunger position,27
+B3-0207,STOP,Plunger stopper defect,254
+B3-0207,CRACK,Crack or breakage,7
+B3-0208,PART,Particles,183
+B3-0208,COSM,Cosmetic container defect,115
+B3-0208,AIR,Air bubble,86
+B3-0208,PLNG,Plunger position,67
+B3-0208,STOP,Plunger stopper defect,30
+B3-0208,CRACK,Crack or breakage,17
+B3-0209,PART,Particles,144
+B3-0209,COSM,Cosmetic container defect,100
+B3-0209,AIR,Air bubble,48
+B3-0209,PLNG,Plunger position,46
+B3-0209,STOP,Plunger stopper defect,370
+B3-0209,CRACK,Crack or breakage,10
+B3-0210,PART,Particles,113
+B3-0210,COSM,Cosmetic container defect,80
+B3-0210,AIR,Air bubble,38
+B3-0210,PLNG,Plunger position,36
+B3-0210,STOP,Plunger stopper defect,484
+B3-0210,CRACK,Crack or breakage,7
+B3-0211,PART,Particles,106
+B3-0211,COSM,Cosmetic container defect,57
+B3-0211,AIR,Air bubble,43
+B3-0211,PLNG,Plunger position,54
+B3-0211,STOP,Plunger stopper defect,564
+B3-0211,CRACK,Crack or breakage,16
+B3-0212,PART,Particles,106
+B3-0212,COSM,Cosmetic container defect,73
+B3-0212,AIR,Air bubble,57
+B3-0212,PLNG,Plunger position,38
+B3-0212,STOP,Plunger stopper defect,64
+B3-0212,CRACK,Crack or breakage,13
+B3-0213,PART,Particles,85
+B3-0213,COSM,Cosmetic container defect,71
+B3-0213,AIR,Air bubble,38
+B3-0213,PLNG,Plunger position,25
+B3-0213,STOP,Plunger stopper defect,540
+B3-0213,CRACK,Crack or breakage,6
+B3-0214,PART,Particles,104
+B3-0214,COSM,Cosmetic container defect,70
+B3-0214,AIR,Air bubble,41
+B3-0214,PLNG,Plunger position,46
+B3-0214,STOP,Plunger stopper defect,51
+B3-0214,CRACK,Crack or breakage,14
+B3-0215,PART,Particles,106
+B3-0215,COSM,Cosmetic container defect,62
+B3-0215,AIR,Air bubble,37
+B3-0215,PLNG,Plunger position,22
+B3-0215,STOP,Plunger stopper defect,407
+B3-0215,CRACK,Crack or breakage,13
+B3-0216,PART,Particles,97
+B3-0216,COSM,Cosmetic container defect,117
+B3-0216,AIR,Air bubble,60
+B3-0216,PLNG,Plunger position,37
+B3-0216,STOP,Plunger stopper defect,151
+B3-0216,CRACK,Crack or breakage,12
+B3-0217,PART,Particles,55
+B3-0217,COSM,Cosmetic container defect,34
+B3-0217,AIR,Air bubble,29
+B3-0217,PLNG,Plunger position,19
+B3-0217,STOP,Plunger stopper defect,22
+B3-0217,CRACK,Crack or breakage,1
+B3-0218,PART,Particles,136
+B3-0218,COSM,Cosmetic container defect,122
+B3-0218,AIR,Air bubble,57
+B3-0218,PLNG,Plunger position,67
+B3-0218,STOP,Plunger stopper defect,46
+B3-0218,CRACK,Crack or breakage,11
+B3-0219,PART,Particles,134
+B3-0219,COSM,Cosmetic container defect,129
+B3-0219,AIR,Air bubble,46
+B3-0219,PLNG,Plunger position,37
+B3-0219,STOP,Plunger stopper defect,185
+B3-0219,CRACK,Crack or breakage,7
+B3-0220,PART,Particles,73
+B3-0220,COSM,Cosmetic container defect,56
+B3-0220,AIR,Air bubble,33
+B3-0220,PLNG,Plunger position,47
+B3-0220,STOP,Plunger stopper defect,99
+B3-0220,CRACK,Crack or breakage,6
+B3-0221,PART,Particles,164
+B3-0221,COSM,Cosmetic container defect,70
+B3-0221,AIR,Air bubble,46
+B3-0221,PLNG,Plunger position,66
+B3-0221,STOP,Plunger stopper defect,142
+B3-0221,CRACK,Crack or breakage,14
+B3-0222,PART,Particles,96
+B3-0222,COSM,Cosmetic container defect,89
+B3-0222,AIR,Air bubble,50
+B3-0222,PLNG,Plunger position,44
+B3-0222,STOP,Plunger stopper defect,134
+B3-0222,CRACK,Crack or breakage,12
+B3-0223,PART,Particles,71
+B3-0223,COSM,Cosmetic container defect,52
+B3-0223,AIR,Air bubble,20
+B3-0223,PLNG,Plunger position,19
+B3-0223,STOP,Plunger stopper defect,335
+B3-0223,CRACK,Crack or breakage,8
+B3-0224,PART,Particles,165
+B3-0224,COSM,Cosmetic container defect,124
+B3-0224,AIR,Air bubble,91
+B3-0224,PLNG,Plunger position,56
+B3-0224,STOP,Plunger stopper defect,254
+B3-0224,CRACK,Crack or breakage,22
+B3-0225,PART,Particles,163
+B3-0225,COSM,Cosmetic container defect,125
+B3-0225,AIR,Air bubble,73
+B3-0225,PLNG,Plunger position,49
+B3-0225,STOP,Plunger stopper defect,227
+B3-0225,CRACK,Crack or breakage,17
+B3-0226,PART,Particles,104
+B3-0226,COSM,Cosmetic container defect,54
+B3-0226,AIR,Air bubble,41
+B3-0226,PLNG,Plunger position,33
+B3-0226,STOP,Plunger stopper defect,29
+B3-0226,CRACK,Crack or breakage,6
+B3-0227,PART,Particles,96
+B3-0227,COSM,Cosmetic container defect,38
+B3-0227,AIR,Air bubble,43
+B3-0227,PLNG,Plunger position,22
+B3-0227,STOP,Plunger stopper defect,365
+B3-0227,CRACK,Crack or breakage,13
+B3-0228,PART,Particles,128
+B3-0228,COSM,Cosmetic container defect,86
+B3-0228,AIR,Air bubble,70
+B3-0228,PLNG,Plunger position,52
+B3-0228,STOP,Plunger stopper defect,35
+B3-0228,CRACK,Crack or breakage,9
+B3-0229,PART,Particles,77
+B3-0229,COSM,Cosmetic container defect,33
+B3-0229,AIR,Air bubble,25
+B3-0229,PLNG,Plunger position,19
+B3-0229,STOP,Plunger stopper defect,517
+B3-0229,CRACK,Crack or breakage,6
+B3-0230,PART,Particles,71
+B3-0230,COSM,Cosmetic container defect,55
+B3-0230,AIR,Air bubble,34
+B3-0230,PLNG,Plunger position,31
+B3-0230,STOP,Plunger stopper defect,431
+B3-0230,CRACK,Crack or breakage,8
+B3-0231,PART,Particles,94
+B3-0231,COSM,Cosmetic container defect,77
+B3-0231,AIR,Air bubble,51
+B3-0231,PLNG,Plunger position,47
+B3-0231,STOP,Plunger stopper defect,39
+B3-0231,CRACK,Crack or breakage,17
+B3-0232,PART,Particles,133
+B3-0232,COSM,Cosmetic container defect,87
+B3-0232,AIR,Air bubble,69
+B3-0232,PLNG,Plunger position,74
+B3-0232,STOP,Plunger stopper defect,26
+B3-0232,CRACK,Crack or breakage,21
+B3-0233,PART,Particles,157
+B3-0233,COSM,Cosmetic container defect,129
+B3-0233,AIR,Air bubble,58
+B3-0233,PLNG,Plunger position,67
+B3-0233,STOP,Plunger stopper defect,37
+B3-0233,CRACK,Crack or breakage,24
+B3-0234,PART,Particles,173
+B3-0234,COSM,Cosmetic container defect,78
+B3-0234,AIR,Air bubble,45
+B3-0234,PLNG,Plunger position,61
+B3-0234,STOP,Plunger stopper defect,321
+B3-0234,CRACK,Crack or breakage,11
+B3-0235,PART,Particles,75
+B3-0235,COSM,Cosmetic container defect,42
+B3-0235,AIR,Air bubble,41
+B3-0235,PLNG,Plunger position,36
+B3-0235,STOP,Plunger stopper defect,16
+B3-0235,CRACK,Crack or breakage,9
+B3-0236,PART,Particles,69
+B3-0236,COSM,Cosmetic container defect,34
+B3-0236,AIR,Air bubble,23
+B3-0236,PLNG,Plunger position,27
+B3-0236,STOP,Plunger stopper defect,442
+B3-0236,CRACK,Crack or breakage,8
+B3-0237,PART,Particles,103
+B3-0237,COSM,Cosmetic container defect,92
+B3-0237,AIR,Air bubble,57
+B3-0237,PLNG,Plunger position,28
+B3-0237,STOP,Plunger stopper defect,262
+B3-0237,CRACK,Crack or breakage,14
+B3-0238,PART,Particles,83
+B3-0238,COSM,Cosmetic container defect,90
+B3-0238,AIR,Air bubble,56
+B3-0238,PLNG,Plunger position,45
+B3-0238,STOP,Plunger stopper defect,293
+B3-0238,CRACK,Crack or breakage,10
+B3-0239,PART,Particles,75
+B3-0239,COSM,Cosmetic container defect,77
+B3-0239,AIR,Air bubble,58
+B3-0239,PLNG,Plunger position,44
+B3-0239,STOP,Plunger stopper defect,250
+B3-0239,CRACK,Crack or breakage,15
+B3-0240,PART,Particles,199
+B3-0240,COSM,Cosmetic container defect,105
+B3-0240,AIR,Air bubble,117
+B3-0240,PLNG,Plunger position,87
+B3-0240,STOP,Plunger stopper defect,224
+B3-0240,CRACK,Crack or breakage,28
+B3-0241,PART,Particles,166
+B3-0241,COSM,Cosmetic container defect,98
+B3-0241,AIR,Air bubble,59
+B3-0241,PLNG,Plunger position,52
+B3-0241,STOP,Plunger stopper defect,185
+B3-0241,CRACK,Crack or breakage,9
+B3-0242,PART,Particles,172
+B3-0242,COSM,Cosmetic container defect,116
+B3-0242,AIR,Air bubble,75
+B3-0242,PLNG,Plunger position,65
+B3-0242,STOP,Plunger stopper defect,220
+B3-0242,CRACK,Crack or breakage,20
+B3-0243,PART,Particles,153
+B3-0243,COSM,Cosmetic container defect,102
+B3-0243,AIR,Air bubble,51
+B3-0243,PLNG,Plunger position,26
+B3-0243,STOP,Plunger stopper defect,239
+B3-0243,CRACK,Crack or breakage,15
+B3-0244,PART,Particles,166
+B3-0244,COSM,Cosmetic container defect,123
+B3-0244,AIR,Air bubble,52
+B3-0244,PLNG,Plunger position,75
+B3-0244,STOP,Plunger stopper defect,31
+B3-0244,CRACK,Crack or breakage,15
+B3-0245,PART,Particles,90
+B3-0245,COSM,Cosmetic container defect,52
+B3-0245,AIR,Air bubble,28
+B3-0245,PLNG,Plunger position,20
+B3-0245,STOP,Plunger stopper defect,24
+B3-0245,CRACK,Crack or breakage,5
+B3-0246,PART,Particles,38
+B3-0246,COSM,Cosmetic container defect,23
+B3-0246,AIR,Air bubble,22
+B3-0246,PLNG,Plunger position,14
+B3-0246,STOP,Plunger stopper defect,297
+B3-0246,CRACK,Crack or breakage,5
+B3-0247,PART,Particles,65
+B3-0247,COSM,Cosmetic container defect,68
+B3-0247,AIR,Air bubble,39
+B3-0247,PLNG,Plunger position,39
+B3-0247,STOP,Plunger stopper defect,23
+B3-0247,CRACK,Crack or breakage,9
+B3-0248,PART,Particles,69
+B3-0248,COSM,Cosmetic container defect,41
+B3-0248,AIR,Air bubble,22
+B3-0248,PLNG,Plunger position,31
+B3-0248,STOP,Plunger stopper defect,316
+B3-0248,CRACK,Crack or breakage,4
+B3-0249,PART,Particles,96
+B3-0249,COSM,Cosmetic container defect,77
+B3-0249,AIR,Air bubble,47
+B3-0249,PLNG,Plunger position,42
+B3-0249,STOP,Plunger stopper defect,203
+B3-0249,CRACK,Crack or breakage,8
+B3-0250,PART,Particles,155
+B3-0250,COSM,Cosmetic container defect,59
+B3-0250,AIR,Air bubble,48
+B3-0250,PLNG,Plunger position,43
+B3-0250,STOP,Plunger stopper defect,32
+B3-0250,CRACK,Crack or breakage,15
+B3-0251,PART,Particles,186
+B3-0251,COSM,Cosmetic container defect,140
+B3-0251,AIR,Air bubble,69
+B3-0251,PLNG,Plunger position,73
+B3-0251,STOP,Plunger stopper defect,233
+B3-0251,CRACK,Crack or breakage,11
+B3-0253,PART,Particles,121
+B3-0253,COSM,Cosmetic container defect,80
+B3-0253,AIR,Air bubble,52
+B3-0253,PLNG,Plunger position,46
+B3-0253,STOP,Plunger stopper defect,227
+B3-0253,CRACK,Crack or breakage,18
+B3-0254,PART,Particles,206
+B3-0254,COSM,Cosmetic container defect,60
+B3-0254,AIR,Air bubble,42
+B3-0254,PLNG,Plunger position,56
+B3-0254,STOP,Plunger stopper defect,385
+B3-0254,CRACK,Crack or breakage,11
+B3-0255,PART,Particles,121
+B3-0255,COSM,Cosmetic container defect,73
+B3-0255,AIR,Air bubble,46
+B3-0255,PLNG,Plunger position,46
+B3-0255,STOP,Plunger stopper defect,359
+B3-0255,CRACK,Crack or breakage,10
+B3-0256,PART,Particles,147
+B3-0256,COSM,Cosmetic container defect,95
+B3-0256,AIR,Air bubble,63
+B3-0256,PLNG,Plunger position,55
+B3-0256,STOP,Plunger stopper defect,405
+B3-0256,CRACK,Crack or breakage,17
+B3-0257,PART,Particles,102
+B3-0257,COSM,Cosmetic container defect,67
+B3-0257,AIR,Air bubble,32
+B3-0257,PLNG,Plunger position,38
+B3-0257,STOP,Plunger stopper defect,370
+B3-0257,CRACK,Crack or breakage,4
+B3-0258,PART,Particles,96
+B3-0258,COSM,Cosmetic container defect,56
+B3-0258,AIR,Air bubble,28
+B3-0258,PLNG,Plunger position,35
+B3-0258,STOP,Plunger stopper defect,300
+B3-0258,CRACK,Crack or breakage,8
+B3-0259,PART,Particles,124
+B3-0259,COSM,Cosmetic container defect,74
+B3-0259,AIR,Air bubble,45
+B3-0259,PLNG,Plunger position,23
+B3-0259,STOP,Plunger stopper defect,32
+B3-0259,CRACK,Crack or breakage,4
+B3-0260,PART,Particles,98
+B3-0260,COSM,Cosmetic container defect,63
+B3-0260,AIR,Air bubble,42
+B3-0260,PLNG,Plunger position,38
+B3-0260,STOP,Plunger stopper defect,33
+B3-0260,CRACK,Crack or breakage,5
+B3-0261,PART,Particles,99
+B3-0261,COSM,Cosmetic container defect,64
+B3-0261,AIR,Air bubble,45
+B3-0261,PLNG,Plunger position,38
+B3-0261,STOP,Plunger stopper defect,356
+B3-0261,CRACK,Crack or breakage,4
+B3-0262,PART,Particles,99
+B3-0262,COSM,Cosmetic container defect,59
+B3-0262,AIR,Air bubble,47
+B3-0262,PLNG,Plunger position,43
+B3-0262,STOP,Plunger stopper defect,43
+B3-0262,CRACK,Crack or breakage,11
+B3-0263,PART,Particles,116
+B3-0263,COSM,Cosmetic container defect,72
+B3-0263,AIR,Air bubble,29
+B3-0263,PLNG,Plunger position,28
+B3-0263,STOP,Plunger stopper defect,516
+B3-0263,CRACK,Crack or breakage,8
+B3-0264,PART,Particles,190
+B3-0264,COSM,Cosmetic container defect,110
+B3-0264,AIR,Air bubble,84
+B3-0264,PLNG,Plunger position,69
+B3-0264,STOP,Plunger stopper defect,172
+B3-0264,CRACK,Crack or breakage,17
+B3-0265,PART,Particles,77
+B3-0265,COSM,Cosmetic container defect,100
+B3-0265,AIR,Air bubble,48
+B3-0265,PLNG,Plunger position,35
+B3-0265,STOP,Plunger stopper defect,268
+B3-0265,CRACK,Crack or breakage,8
+B3-0266,PART,Particles,117
+B3-0266,COSM,Cosmetic container defect,79
+B3-0266,AIR,Air bubble,45
+B3-0266,PLNG,Plunger position,44
+B3-0266,STOP,Plunger stopper defect,163
+B3-0266,CRACK,Crack or breakage,10
+B3-0267,PART,Particles,103
+B3-0267,COSM,Cosmetic container defect,84
+B3-0267,AIR,Air bubble,45
+B3-0267,PLNG,Plunger position,29
+B3-0267,STOP,Plunger stopper defect,209
+B3-0267,CRACK,Crack or breakage,5
+B3-0268,PART,Particles,127
+B3-0268,COSM,Cosmetic container defect,91
+B3-0268,AIR,Air bubble,59
+B3-0268,PLNG,Plunger position,59
+B3-0268,STOP,Plunger stopper defect,152
+B3-0268,CRACK,Crack or breakage,8
+B3-0269,PART,Particles,100
+B3-0269,COSM,Cosmetic container defect,64
+B3-0269,AIR,Air bubble,54
+B3-0269,PLNG,Plunger position,44
+B3-0269,STOP,Plunger stopper defect,25
+B3-0269,CRACK,Crack or breakage,13
+B3-0270,PART,Particles,93
+B3-0270,COSM,Cosmetic container defect,108
+B3-0270,AIR,Air bubble,27
+B3-0270,PLNG,Plunger position,27
+B3-0270,STOP,Plunger stopper defect,256
+B3-0270,CRACK,Crack or breakage,10
+B3-0271,PART,Particles,68
+B3-0271,COSM,Cosmetic container defect,55
+B3-0271,AIR,Air bubble,29
+B3-0271,PLNG,Plunger position,29
+B3-0271,STOP,Plunger stopper defect,206
+B3-0271,CRACK,Crack or breakage,12
+B3-0272,PART,Particles,75
+B3-0272,COSM,Cosmetic container defect,35
+B3-0272,AIR,Air bubble,17
+B3-0272,PLNG,Plunger position,16
+B3-0272,STOP,Plunger stopper defect,30
+B3-0272,CRACK,Crack or breakage,9
+B3-0273,PART,Particles,76
+B3-0273,COSM,Cosmetic container defect,41
+B3-0273,AIR,Air bubble,27
+B3-0273,PLNG,Plunger position,31
+B3-0273,STOP,Plunger stopper defect,285
+B3-0273,CRACK,Crack or breakage,8
+B3-0274,PART,Particles,127
+B3-0274,COSM,Cosmetic container defect,52
+B3-0274,AIR,Air bubble,41
+B3-0274,PLNG,Plunger position,31
+B3-0274,STOP,Plunger stopper defect,336
+B3-0274,CRACK,Crack or breakage,8
+B3-0275,PART,Particles,120
+B3-0275,COSM,Cosmetic container defect,70
+B3-0275,AIR,Air bubble,37
+B3-0275,PLNG,Plunger position,31
+B3-0275,STOP,Plunger stopper defect,298
+B3-0275,CRACK,Crack or breakage,13
+B3-0276,PART,Particles,78
+B3-0276,COSM,Cosmetic container defect,60
+B3-0276,AIR,Air bubble,57
+B3-0276,PLNG,Plunger position,43
+B3-0276,STOP,Plunger stopper defect,259
+B3-0276,CRACK,Crack or breakage,12
+B3-0277,PART,Particles,100
+B3-0277,COSM,Cosmetic container defect,84
+B3-0277,AIR,Air bubble,47
+B3-0277,PLNG,Plunger position,33
+B3-0277,STOP,Plunger stopper defect,28
+B3-0277,CRACK,Crack or breakage,17
+B3-0278,PART,Particles,78
+B3-0278,COSM,Cosmetic container defect,41
+B3-0278,AIR,Air bubble,24
+B3-0278,PLNG,Plunger position,28
+B3-0278,STOP,Plunger stopper defect,448
+B3-0278,CRACK,Crack or breakage,8
+B3-0279,PART,Particles,158
+B3-0279,COSM,Cosmetic container defect,80
+B3-0279,AIR,Air bubble,50
+B3-0279,PLNG,Plunger position,72
+B3-0279,STOP,Plunger stopper defect,26
+B3-0279,CRACK,Crack or breakage,11
+B3-0280,PART,Particles,78
+B3-0280,COSM,Cosmetic container defect,77
+B3-0280,AIR,Air bubble,36
+B3-0280,PLNG,Plunger position,24
+B3-0280,STOP,Plunger stopper defect,482
+B3-0280,CRACK,Crack or breakage,8
+B3-0281,PART,Particles,94
+B3-0281,COSM,Cosmetic container defect,66
+B3-0281,AIR,Air bubble,34
+B3-0281,PLNG,Plunger position,34
+B3-0281,STOP,Plunger stopper defect,502
+B3-0281,CRACK,Crack or breakage,8
+B3-0282,PART,Particles,128
+B3-0282,COSM,Cosmetic container defect,82
+B3-0282,AIR,Air bubble,92
+B3-0282,PLNG,Plunger position,39
+B3-0282,STOP,Plunger stopper defect,353
+B3-0282,CRACK,Crack or breakage,12
+B3-0283,PART,Particles,116
+B3-0283,COSM,Cosmetic container defect,48
+B3-0283,AIR,Air bubble,50
+B3-0283,PLNG,Plunger position,43
+B3-0283,STOP,Plunger stopper defect,283
+B3-0283,CRACK,Crack or breakage,10
+B3-0284,PART,Particles,146
+B3-0284,COSM,Cosmetic container defect,83
+B3-0284,AIR,Air bubble,58
+B3-0284,PLNG,Plunger position,52
+B3-0284,STOP,Plunger stopper defect,289
+B3-0284,CRACK,Crack or breakage,7
+B3-0285,PART,Particles,122
+B3-0285,COSM,Cosmetic container defect,72
+B3-0285,AIR,Air bubble,44
+B3-0285,PLNG,Plunger position,53
+B3-0285,STOP,Plunger stopper defect,315
+B3-0285,CRACK,Crack or breakage,17
+B3-0286,PART,Particles,85
+B3-0286,COSM,Cosmetic container defect,53
+B3-0286,AIR,Air bubble,33
+B3-0286,PLNG,Plunger position,30
+B3-0286,STOP,Plunger stopper defect,171
+B3-0286,CRACK,Crack or breakage,7
+B3-0287,PART,Particles,97
+B3-0287,COSM,Cosmetic container defect,55
+B3-0287,AIR,Air bubble,47
+B3-0287,PLNG,Plunger position,59
+B3-0287,STOP,Plunger stopper defect,23
+B3-0287,CRACK,Crack or breakage,14
+B3-0288,PART,Particles,192
+B3-0288,COSM,Cosmetic container defect,67
+B3-0288,AIR,Air bubble,78
+B3-0288,PLNG,Plunger position,58
+B3-0288,STOP,Plunger stopper defect,36
+B3-0288,CRACK,Crack or breakage,9
+B3-0289,PART,Particles,100
+B3-0289,COSM,Cosmetic container defect,54
+B3-0289,AIR,Air bubble,41
+B3-0289,PLNG,Plunger position,44
+B3-0289,STOP,Plunger stopper defect,38
+B3-0289,CRACK,Crack or breakage,6
+B3-0290,PART,Particles,85
+B3-0290,COSM,Cosmetic container defect,64
+B3-0290,AIR,Air bubble,48
+B3-0290,PLNG,Plunger position,41
+B3-0290,STOP,Plunger stopper defect,355
+B3-0290,CRACK,Crack or breakage,6
+B3-0291,PART,Particles,82
+B3-0291,COSM,Cosmetic container defect,35
+B3-0291,AIR,Air bubble,22
+B3-0291,PLNG,Plunger position,19
+B3-0291,STOP,Plunger stopper defect,20
+B3-0291,CRACK,Crack or breakage,4
+B3-0292,PART,Particles,98
+B3-0292,COSM,Cosmetic container defect,64
+B3-0292,AIR,Air bubble,31
+B3-0292,PLNG,Plunger position,41
+B3-0292,STOP,Plunger stopper defect,231
+B3-0292,CRACK,Crack or breakage,7
+B3-0293,PART,Particles,49
+B3-0293,COSM,Cosmetic container defect,52
+B3-0293,AIR,Air bubble,24
+B3-0293,PLNG,Plunger position,34
+B3-0293,STOP,Plunger stopper defect,304
+B3-0293,CRACK,Crack or breakage,5
+B3-0294,PART,Particles,94
+B3-0294,COSM,Cosmetic container defect,60
+B3-0294,AIR,Air bubble,49
+B3-0294,PLNG,Plunger position,31
+B3-0294,STOP,Plunger stopper defect,292
+B3-0294,CRACK,Crack or breakage,15
+B3-0295,PART,Particles,118
+B3-0295,COSM,Cosmetic container defect,119
+B3-0295,AIR,Air bubble,40
+B3-0295,PLNG,Plunger position,47
+B3-0295,STOP,Plunger stopper defect,307
+B3-0295,CRACK,Crack or breakage,17
+B3-0296,PART,Particles,42
+B3-0296,COSM,Cosmetic container defect,45
+B3-0296,AIR,Air bubble,21
+B3-0296,PLNG,Plunger position,22
+B3-0296,STOP,Plunger stopper defect,380
+B3-0296,CRACK,Crack or breakage,9
+B3-0297,PART,Particles,87
+B3-0297,COSM,Cosmetic container defect,70
+B3-0297,AIR,Air bubble,37
+B3-0297,PLNG,Plunger position,27
+B3-0297,STOP,Plunger stopper defect,50
+B3-0297,CRACK,Crack or breakage,15
+B3-0298,PART,Particles,107
+B3-0298,COSM,Cosmetic container defect,48
+B3-0298,AIR,Air bubble,76
+B3-0298,PLNG,Plunger position,37
+B3-0298,STOP,Plunger stopper defect,441
+B3-0298,CRACK,Crack or breakage,15
+B3-0299,PART,Particles,93
+B3-0299,COSM,Cosmetic container defect,79
+B3-0299,AIR,Air bubble,53
+B3-0299,PLNG,Plunger position,42
+B3-0299,STOP,Plunger stopper defect,417
+B3-0299,CRACK,Crack or breakage,11
+B3-0300,PART,Particles,80
+B3-0300,COSM,Cosmetic container defect,51
+B3-0300,AIR,Air bubble,38
+B3-0300,PLNG,Plunger position,59
+B3-0300,STOP,Plunger stopper defect,19
+B3-0300,CRACK,Crack or breakage,7
+B3-0301,PART,Particles,84
+B3-0301,COSM,Cosmetic container defect,50
+B3-0301,AIR,Air bubble,29
+B3-0301,PLNG,Plunger position,24
+B3-0301,STOP,Plunger stopper defect,505
+B3-0301,CRACK,Crack or breakage,3
+B3-0302,PART,Particles,69
+B3-0302,COSM,Cosmetic container defect,48
+B3-0302,AIR,Air bubble,37
+B3-0302,PLNG,Plunger position,41
+B3-0302,STOP,Plunger stopper defect,387
+B3-0302,CRACK,Crack or breakage,8
+B3-0303,PART,Particles,38
+B3-0303,COSM,Cosmetic container defect,35
+B3-0303,AIR,Air bubble,14
+B3-0303,PLNG,Plunger position,24
+B3-0303,STOP,Plunger stopper defect,409
+B3-0303,CRACK,Crack or breakage,8
+B3-0304,PART,Particles,131
+B3-0304,COSM,Cosmetic container defect,103
+B3-0304,AIR,Air bubble,37
+B3-0304,PLNG,Plunger position,58
+B3-0304,STOP,Plunger stopper defect,363
+B3-0304,CRACK,Crack or breakage,14
+B3-0305,PART,Particles,119
+B3-0305,COSM,Cosmetic container defect,68
+B3-0305,AIR,Air bubble,46
+B3-0305,PLNG,Plunger position,54
+B3-0305,STOP,Plunger stopper defect,143
+B3-0305,CRACK,Crack or breakage,6
+B3-0306,PART,Particles,102
+B3-0306,COSM,Cosmetic container defect,75
+B3-0306,AIR,Air bubble,30
+B3-0306,PLNG,Plunger position,25
+B3-0306,STOP,Plunger stopper defect,35
+B3-0306,CRACK,Crack or breakage,6
+B3-0307,PART,Particles,125
+B3-0307,COSM,Cosmetic container defect,100
+B3-0307,AIR,Air bubble,69
+B3-0307,PLNG,Plunger position,47
+B3-0307,STOP,Plunger stopper defect,167
+B3-0307,CRACK,Crack or breakage,10
+B3-0308,PART,Particles,62
+B3-0308,COSM,Cosmetic container defect,39
+B3-0308,AIR,Air bubble,36
+B3-0308,PLNG,Plunger position,23
+B3-0308,STOP,Plunger stopper defect,232
+B3-0308,CRACK,Crack or breakage,10
+B3-0309,PART,Particles,58
+B3-0309,COSM,Cosmetic container defect,56
+B3-0309,AIR,Air bubble,17
+B3-0309,PLNG,Plunger position,43
+B3-0309,STOP,Plunger stopper defect,154
+B3-0309,CRACK,Crack or breakage,10
+B3-0310,PART,Particles,78
+B3-0310,COSM,Cosmetic container defect,55
+B3-0310,AIR,Air bubble,32
+B3-0310,PLNG,Plunger position,21
+B3-0310,STOP,Plunger stopper defect,17
+B3-0310,CRACK,Crack or breakage,5
+B3-0311,PART,Particles,95
+B3-0311,COSM,Cosmetic container defect,86
+B3-0311,AIR,Air bubble,60
+B3-0311,PLNG,Plunger position,43
+B3-0311,STOP,Plunger stopper defect,33
+B3-0311,CRACK,Crack or breakage,18
+B3-0312,PART,Particles,99
+B3-0312,COSM,Cosmetic container defect,74
+B3-0312,AIR,Air bubble,42
+B3-0312,PLNG,Plunger position,25
+B3-0312,STOP,Plunger stopper defect,123
+B3-0312,CRACK,Crack or breakage,11
+B3-0313,PART,Particles,92
+B3-0313,COSM,Cosmetic container defect,62
+B3-0313,AIR,Air bubble,61
+B3-0313,PLNG,Plunger position,54
+B3-0313,STOP,Plunger stopper defect,31
+B3-0313,CRACK,Crack or breakage,8
+B3-0314,PART,Particles,189
+B3-0314,COSM,Cosmetic container defect,124
+B3-0314,AIR,Air bubble,68
+B3-0314,PLNG,Plunger position,85
+B3-0314,STOP,Plunger stopper defect,48
+B3-0314,CRACK,Crack or breakage,31
+B3-0315,PART,Particles,111
+B3-0315,COSM,Cosmetic container defect,81
+B3-0315,AIR,Air bubble,57
+B3-0315,PLNG,Plunger position,34
+B3-0315,STOP,Plunger stopper defect,47
+B3-0315,CRACK,Crack or breakage,7
+B3-0316,PART,Particles,125
+B3-0316,COSM,Cosmetic container defect,104
+B3-0316,AIR,Air bubble,67
+B3-0316,PLNG,Plunger position,55
+B3-0316,STOP,Plunger stopper defect,36
+B3-0316,CRACK,Crack or breakage,14
+B3-0317,PART,Particles,147
+B3-0317,COSM,Cosmetic container defect,104
+B3-0317,AIR,Air bubble,93
+B3-0317,PLNG,Plunger position,55
+B3-0317,STOP,Plunger stopper defect,186
+B3-0317,CRACK,Crack or breakage,17
+B3-0318,PART,Particles,132
+B3-0318,COSM,Cosmetic container defect,133
+B3-0318,AIR,Air bubble,57
+B3-0318,PLNG,Plunger position,61
+B3-0318,STOP,Plunger stopper defect,35
+B3-0318,CRACK,Crack or breakage,10
+B3-0319,PART,Particles,133
+B3-0319,COSM,Cosmetic container defect,64
+B3-0319,AIR,Air bubble,19
+B3-0319,PLNG,Plunger position,25
+B3-0319,STOP,Plunger stopper defect,21
+B3-0319,CRACK,Crack or breakage,4
+B3-0320,PART,Particles,180
+B3-0320,COSM,Cosmetic container defect,150
+B3-0320,AIR,Air bubble,77
+B3-0320,PLNG,Plunger position,60
+B3-0320,STOP,Plunger stopper defect,180
+B3-0320,CRACK,Crack or breakage,17
+B3-0321,PART,Particles,183
+B3-0321,COSM,Cosmetic container defect,157
+B3-0321,AIR,Air bubble,78
+B3-0321,PLNG,Plunger position,70
+B3-0321,STOP,Plunger stopper defect,48
+B3-0321,CRACK,Crack or breakage,13
+B3-0322,PART,Particles,114
+B3-0322,COSM,Cosmetic container defect,84
+B3-0322,AIR,Air bubble,67
+B3-0322,PLNG,Plunger position,48
+B3-0322,STOP,Plunger stopper defect,161
+B3-0322,CRACK,Crack or breakage,6
+B3-0323,PART,Particles,190
+B3-0323,COSM,Cosmetic container defect,149
+B3-0323,AIR,Air bubble,74
+B3-0323,PLNG,Plunger position,80
+B3-0323,STOP,Plunger stopper defect,138
+B3-0323,CRACK,Crack or breakage,11
+B3-0324,PART,Particles,109
+B3-0324,COSM,Cosmetic container defect,85
+B3-0324,AIR,Air bubble,44
+B3-0324,PLNG,Plunger position,35
+B3-0324,STOP,Plunger stopper defect,211
+B3-0324,CRACK,Crack or breakage,12
+B3-0325,PART,Particles,100
+B3-0325,COSM,Cosmetic container defect,67
+B3-0325,AIR,Air bubble,40
+B3-0325,PLNG,Plunger position,55
+B3-0325,STOP,Plunger stopper defect,364
+B3-0325,CRACK,Crack or breakage,8
+B3-0326,PART,Particles,96
+B3-0326,COSM,Cosmetic container defect,51
+B3-0326,AIR,Air bubble,55
+B3-0326,PLNG,Plunger position,28
+B3-0326,STOP,Plunger stopper defect,395
+B3-0326,CRACK,Crack or breakage,4
+B3-0327,PART,Particles,137
+B3-0327,COSM,Cosmetic container defect,141
+B3-0327,AIR,Air bubble,71
+B3-0327,PLNG,Plunger position,73
+B3-0327,STOP,Plunger stopper defect,296
+B3-0327,CRACK,Crack or breakage,19
+B3-0328,PART,Particles,148
+B3-0328,COSM,Cosmetic container defect,94
+B3-0328,AIR,Air bubble,52
+B3-0328,PLNG,Plunger position,54
+B3-0328,STOP,Plunger stopper defect,47
+B3-0328,CRACK,Crack or breakage,9
+B3-0329,PART,Particles,68
+B3-0329,COSM,Cosmetic container defect,69
+B3-0329,AIR,Air bubble,30
+B3-0329,PLNG,Plunger position,37
+B3-0329,STOP,Plunger stopper defect,229
+B3-0329,CRACK,Crack or breakage,4
+B3-0330,PART,Particles,192
+B3-0330,COSM,Cosmetic container defect,114
+B3-0330,AIR,Air bubble,107
+B3-0330,PLNG,Plunger position,70
+B3-0330,STOP,Plunger stopper defect,70
+B3-0330,CRACK,Crack or breakage,21
+B3-0331,PART,Particles,131
+B3-0331,COSM,Cosmetic container defect,93
+B3-0331,AIR,Air bubble,71
+B3-0331,PLNG,Plunger position,84
+B3-0331,STOP,Plunger stopper defect,32
+B3-0331,CRACK,Crack or breakage,22
+B3-0332,PART,Particles,102
+B3-0332,COSM,Cosmetic container defect,98
+B3-0332,AIR,Air bubble,69
+B3-0332,PLNG,Plunger position,69
+B3-0332,STOP,Plunger stopper defect,326
+B3-0332,CRACK,Crack or breakage,17
+B3-0333,PART,Particles,99
+B3-0333,COSM,Cosmetic container defect,91
+B3-0333,AIR,Air bubble,26
+B3-0333,PLNG,Plunger position,38
+B3-0333,STOP,Plunger stopper defect,85
+B3-0333,CRACK,Crack or breakage,10
+B3-0334,PART,Particles,66
+B3-0334,COSM,Cosmetic container defect,52
+B3-0334,AIR,Air bubble,63
+B3-0334,PLNG,Plunger position,46
+B3-0334,STOP,Plunger stopper defect,16
+B3-0334,CRACK,Crack or breakage,5
+B3-0335,PART,Particles,116
+B3-0335,COSM,Cosmetic container defect,77
+B3-0335,AIR,Air bubble,39
+B3-0335,PLNG,Plunger position,47
+B3-0335,STOP,Plunger stopper defect,161
+B3-0335,CRACK,Crack or breakage,11
+B3-0336,PART,Particles,166
+B3-0336,COSM,Cosmetic container defect,125
+B3-0336,AIR,Air bubble,70
+B3-0336,PLNG,Plunger position,59
+B3-0336,STOP,Plunger stopper defect,145
+B3-0336,CRACK,Crack or breakage,13
+B3-0337,PART,Particles,147
+B3-0337,COSM,Cosmetic container defect,110
+B3-0337,AIR,Air bubble,55
+B3-0337,PLNG,Plunger position,59
+B3-0337,STOP,Plunger stopper defect,185
+B3-0337,CRACK,Crack or breakage,12
+B3-0338,PART,Particles,84
+B3-0338,COSM,Cosmetic container defect,55
+B3-0338,AIR,Air bubble,53
+B3-0338,PLNG,Plunger position,46
+B3-0338,STOP,Plunger stopper defect,206
+B3-0338,CRACK,Crack or breakage,10
+B3-0339,PART,Particles,157
+B3-0339,COSM,Cosmetic container defect,95
+B3-0339,AIR,Air bubble,77
+B3-0339,PLNG,Plunger position,80
+B3-0339,STOP,Plunger stopper defect,31
+B3-0339,CRACK,Crack or breakage,19
+B3-0340,PART,Particles,131
+B3-0340,COSM,Cosmetic container defect,88
+B3-0340,AIR,Air bubble,60
+B3-0340,PLNG,Plunger position,63
+B3-0340,STOP,Plunger stopper defect,42
+B3-0340,CRACK,Crack or breakage,11
+B3-0341,PART,Particles,121
+B3-0341,COSM,Cosmetic container defect,80
+B3-0341,AIR,Air bubble,63
+B3-0341,PLNG,Plunger position,42
+B3-0341,STOP,Plunger stopper defect,72
+B3-0341,CRACK,Crack or breakage,11
+B3-0342,PART,Particles,85
+B3-0342,COSM,Cosmetic container defect,59
+B3-0342,AIR,Air bubble,47
+B3-0342,PLNG,Plunger position,21
+B3-0342,STOP,Plunger stopper defect,88
+B3-0342,CRACK,Crack or breakage,8
+B3-0343,PART,Particles,51
+B3-0343,COSM,Cosmetic container defect,45
+B3-0343,AIR,Air bubble,28
+B3-0343,PLNG,Plunger position,16
+B3-0343,STOP,Plunger stopper defect,29
+B3-0343,CRACK,Crack or breakage,4

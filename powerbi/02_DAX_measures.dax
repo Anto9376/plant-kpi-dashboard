@@ -1,0 +1,386 @@
+// Paste this whole file into DAX query view, then click "Update model with changes"
+// (the CodeLens link above DEFINE). Every measure is created in the '_Measures' table.
+// Then press Run: the ROW() at the bottom returns the year totals to check against the guide.
+DEFINE
+    // ---------------------------------------------------------------- Base: batch units
+    MEASURE '_Measures'[Batches] =
+        CALCULATE ( COUNTROWS ( FactBatch ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Theoretical Units] =
+        CALCULATE ( SUM ( FactBatch[theoretical_units] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Filled Units] =
+        CALCULATE ( SUM ( FactBatch[units_filled] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Good Units] =
+        CALCULATE ( SUM ( FactBatch[units_good] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Released Good Units] =
+        CALCULATE ( SUM ( FactBatch[units_good_released] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[QC Sample Units] =
+        CALCULATE ( SUM ( FactBatch[qc_sample_units] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Inspection Rejects] =
+        CALCULATE ( SUM ( FactBatch[units_rejected_inspection] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Line Loss Units] =
+        CALCULATE ( SUM ( FactBatch[line_loss_units] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Unfilled Bulk Units] =
+        CALCULATE ( SUM ( FactBatch[unfilled_bulk_units] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Rejected Batch Units] =
+        CALCULATE ( SUM ( FactBatch[rejected_batch_units] ), FactBatch[is_commercial] = TRUE () )
+
+    // ---------------------------------------------------------------- 1. Yield
+    MEASURE '_Measures'[Yield %] =
+        DIVIDE ( [Released Good Units], [Theoretical Units] )
+    MEASURE '_Measures'[Yield % (good / filled)] =
+        DIVIDE ( [Good Units], [Filled Units] )
+    MEASURE '_Measures'[Yield % (good + QC / theoretical)] =
+        DIVIDE ( [Good Units] + [QC Sample Units], [Theoretical Units] )
+
+    // ---------------------------------------------------------------- 2. First-pass quality
+    MEASURE '_Measures'[First-Pass Batches] =
+        CALCULATE ( [Batches], FactBatch[is_first_pass] = TRUE () )
+    MEASURE '_Measures'[FPQ %] =
+        DIVIDE ( [First-Pass Batches], [Batches] )
+    MEASURE '_Measures'[FPQ % (strict)] =
+        DIVIDE ( CALCULATE ( [Batches], FactBatch[is_first_pass_strict] = TRUE () ), [Batches] )
+    MEASURE '_Measures'[Re-inspected Batches] =
+        CALCULATE ( [Batches], FactBatch[reinspection_flag] = "Y" )
+    MEASURE '_Measures'[Batches with Major/Critical Deviation] =
+        CALCULATE ( [Batches], FactBatch[n_major_critical] > 0 )
+    MEASURE '_Measures'[Reject Rate %] =
+        DIVIDE ( [Inspection Rejects], [Filled Units] )
+    MEASURE '_Measures'[Defect Units] =
+        SUM ( FactRejects[units_rejected] )
+    MEASURE '_Measures'[Defect Rate %] =
+        DIVIDE ( [Defect Units], [Filled Units] )
+
+    // ---------------------------------------------------------------- 3. Scrap
+    MEASURE '_Measures'[Scrap Units] =
+        CALCULATE ( SUM ( FactBatch[scrap_units] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Scrap %] =
+        DIVIDE ( [Scrap Units], [Theoretical Units] )
+    MEASURE '_Measures'[Scrap EUR] =
+        CALCULATE ( SUM ( FactBatch[scrap_eur] ), FactBatch[is_commercial] = TRUE () )
+    MEASURE '_Measures'[Scrap % (all unit losses)] =
+        DIVIDE ( [Theoretical Units] - [Released Good Units] - [QC Sample Units], [Theoretical Units] )
+
+    // ---------------------------------------------------------------- 4. Unplanned downtime
+    MEASURE '_Measures'[Filling Minutes] =
+        SUM ( FactBatch[filling_min] )
+    MEASURE '_Measures'[Filling Hours] =
+        DIVIDE ( [Filling Minutes], 60 )
+    MEASURE '_Measures'[Unplanned Stop Minutes] =
+        CALCULATE ( SUM ( FactDowntime[duration_clean_min] ), FactDowntime[stop_type] = "Unplanned" )
+    MEASURE '_Measures'[Unplanned Stop Minutes (Filling)] =
+        CALCULATE ( [Unplanned Stop Minutes], FactDowntime[phase] = "Filling" )
+    MEASURE '_Measures'[Unplanned Downtime %] =
+        DIVIDE ( [Unplanned Stop Minutes (Filling)], [Filling Minutes] )
+    MEASURE '_Measures'[Planned Stop Minutes] =
+        CALCULATE ( SUM ( FactDowntime[duration_clean_min] ), FactDowntime[stop_type] = "Planned" )
+    MEASURE '_Measures'[Scheduled Hours] =
+        SUM ( FactSchedule[scheduled_hours] )
+    MEASURE '_Measures'[Unplanned Downtime % (of scheduled time)] =
+        DIVIDE ( [Unplanned Stop Minutes] / 60, [Scheduled Hours] )
+    MEASURE '_Measures'[Stops] =
+        CALCULATE ( COUNTROWS ( FactDowntime ), FactDowntime[is_duplicate] = FALSE () )
+    MEASURE '_Measures'[Unplanned Stops (Filling)] =
+        CALCULATE ( [Stops], FactDowntime[stop_type] = "Unplanned", FactDowntime[phase] = "Filling" )
+    MEASURE '_Measures'[Stops per 100 Filling Hours] =
+        DIVIDE ( [Unplanned Stops (Filling)], [Filling Hours] ) * 100
+
+    // ---------------------------------------------------------------- 5. Throughput
+    MEASURE '_Measures'[Throughput Target Units] =
+        SUM ( FactSchedule[target_units] )
+    MEASURE '_Measures'[Throughput vs Target %] =
+        DIVIDE ( [Good Units], [Throughput Target Units] )
+    MEASURE '_Measures'[Released Units (by release date)] =
+        CALCULATE (
+            SUM ( FactBatch[units_good_released] ),
+            FactBatch[is_commercial] = TRUE (),
+            FactBatch[disposition] = "Released",
+            USERELATIONSHIP ( FactBatch[decision_date], DimDate[Date] )
+        )
+    MEASURE '_Measures'[Throughput vs Target % (released units)] =
+        DIVIDE ( [Released Units (by release date)], [Throughput Target Units] )
+
+    // ---------------------------------------------------------------- 6. On-time delivery
+    MEASURE '_Measures'[Orders Due] =
+        CALCULATE ( COUNTROWS ( FactOrder ), FactOrder[in_scope_committed] = TRUE () )
+    MEASURE '_Measures'[Orders On Time] =
+        CALCULATE (
+            COUNTROWS ( FactOrder ),
+            FactOrder[in_scope_committed] = TRUE (),
+            FactOrder[on_time_committed] = TRUE ()
+        )
+    MEASURE '_Measures'[Orders Late] =
+        [Orders Due] - [Orders On Time]
+    MEASURE '_Measures'[OTD %] =
+        DIVIDE ( [Orders On Time], [Orders Due] )
+    MEASURE '_Measures'[OTD % (ERP current due date)] =
+        VAR _due =
+            CALCULATE (
+                COUNTROWS ( FactOrder ),
+                USERELATIONSHIP ( FactOrder[current_due_date], DimDate[Date] ),
+                FactOrder[in_scope_current] = TRUE ()
+            )
+        VAR _ok =
+            CALCULATE (
+                COUNTROWS ( FactOrder ),
+                USERELATIONSHIP ( FactOrder[current_due_date], DimDate[Date] ),
+                FactOrder[in_scope_current] = TRUE (),
+                FactOrder[on_time_current] = TRUE ()
+            )
+        RETURN
+            DIVIDE ( _ok, _due )
+    MEASURE '_Measures'[OTD % (first confirmed date)] =
+        VAR _due =
+            CALCULATE (
+                COUNTROWS ( FactOrder ),
+                USERELATIONSHIP ( FactOrder[first_confirmed_date], DimDate[Date] ),
+                FactOrder[in_scope_first] = TRUE ()
+            )
+        VAR _ok =
+            CALCULATE (
+                COUNTROWS ( FactOrder ),
+                USERELATIONSHIP ( FactOrder[first_confirmed_date], DimDate[Date] ),
+                FactOrder[in_scope_first] = TRUE (),
+                FactOrder[on_time_first] = TRUE ()
+            )
+        RETURN
+            DIVIDE ( _ok, _due )
+    MEASURE '_Measures'[OTD % (customer view)] =
+        VAR _due =
+            CALCULATE (
+                COUNTROWS ( FactOrder ),
+                USERELATIONSHIP ( FactOrder[customer_date], DimDate[Date] ),
+                FactOrder[in_scope_customer] = TRUE ()
+            )
+        VAR _ok =
+            CALCULATE (
+                COUNTROWS ( FactOrder ),
+                USERELATIONSHIP ( FactOrder[customer_date], DimDate[Date] ),
+                FactOrder[in_scope_customer] = TRUE (),
+                FactOrder[on_time_customer] = TRUE ()
+            )
+        RETURN
+            DIVIDE ( _ok, _due )
+    MEASURE '_Measures'[Orders Re-dated After Due] =
+        CALCULATE (
+            [Orders Due],
+            FactOrder[changed_after_original_date] = TRUE (),
+            FactOrder[customer_requested_change] = FALSE ()
+        )
+
+    // ---------------------------------------------------------------- Flow time, QA, maintenance, historian
+    MEASURE '_Measures'[Median Step Hours] =
+        MEDIAN ( FactStep[hours] )
+    MEASURE '_Measures'[QA Queue Days (median)] =
+        MEDIAN ( FactBatch[qa_queue_days] )
+    MEASURE '_Measures'[QA Review Days (median)] =
+        MEDIAN ( FactBatch[qa_review_days] )
+    MEASURE '_Measures'[PM Compliance %] =
+        DIVIDE (
+            CALCULATE ( COUNTROWS ( FactWorkOrder ), FactWorkOrder[wo_type] = "PM", FactWorkOrder[pm_on_time] = TRUE () ),
+            CALCULATE ( COUNTROWS ( FactWorkOrder ), FactWorkOrder[wo_type] = "PM" )
+        )
+    MEASURE '_Measures'[Corrective Work Orders] =
+        CALCULATE ( COUNTROWS ( FactWorkOrder ), FactWorkOrder[wo_type] = "Corrective" )
+    MEASURE '_Measures'[Alarms per Running Hour] =
+        DIVIDE (
+            CALCULATE ( SUM ( FactHistorian[alarm_count] ), FactHistorian[is_running] = TRUE () ),
+            CALCULATE ( COUNTROWS ( FactHistorian ), FactHistorian[is_running] = TRUE () )
+        )
+
+    // ---------------------------------------------------------------- Targets (Targets table is not related to anything)
+    MEASURE '_Measures'[Target Month] =
+        VAR _d = MAX ( DimDate[Date] )
+        VAR _c = MIN ( MAX ( _d, DATE ( 2025, 10, 1 ) ), DATE ( 2026, 9, 30 ) )
+        RETURN
+            DATE ( YEAR ( _c ), MONTH ( _c ), 1 )
+    MEASURE '_Measures'[Target Yield %] =
+        VAR _m = [Target Month]
+        RETURN
+            AVERAGEX (
+                VALUES ( DimLine[line_id] ),
+                VAR _l = DimLine[line_id]
+                RETURN
+                    CALCULATE (
+                        MAX ( Targets[target_value] ),
+                        Targets[kpi] = "Yield",
+                        Targets[scope] = _l,
+                        Targets[month_start] = _m
+                    )
+            )
+    MEASURE '_Measures'[Target FPQ %] =
+        VAR _m = [Target Month]
+        RETURN
+            CALCULATE (
+                MAX ( Targets[target_value] ),
+                Targets[kpi] = "First-pass quality",
+                Targets[scope] = "Site",
+                Targets[month_start] = _m
+            )
+    MEASURE '_Measures'[Target Scrap %] =
+        VAR _m = [Target Month]
+        VAR _weighted =
+            SUMX (
+                VALUES ( DimLine[line_id] ),
+                VAR _l = DimLine[line_id]
+                VAR _t =
+                    CALCULATE (
+                        MAX ( Targets[target_value] ),
+                        Targets[kpi] = "Scrap rate",
+                        Targets[scope] = _l,
+                        Targets[month_start] = _m
+                    )
+                RETURN
+                    _t * [Theoretical Units]
+            )
+        RETURN
+            DIVIDE ( _weighted, [Theoretical Units] )
+    MEASURE '_Measures'[Target Unplanned Downtime %] =
+        VAR _m = [Target Month]
+        VAR _weighted =
+            SUMX (
+                VALUES ( DimLine[line_id] ),
+                VAR _l = DimLine[line_id]
+                VAR _t =
+                    CALCULATE (
+                        MAX ( Targets[target_value] ),
+                        Targets[kpi] = "Unplanned downtime",
+                        Targets[scope] = _l,
+                        Targets[month_start] = _m
+                    )
+                RETURN
+                    _t * [Filling Minutes]
+            )
+        RETURN
+            DIVIDE ( _weighted, [Filling Minutes] )
+    MEASURE '_Measures'[Target OTD %] =
+        VAR _m = [Target Month]
+        RETURN
+            CALCULATE (
+                MAX ( Targets[target_value] ),
+                Targets[kpi] = "On-time delivery (supply chain)",
+                Targets[scope] = "Site",
+                Targets[month_start] = _m
+            )
+    MEASURE '_Measures'[Target OTD % (customer view)] =
+        VAR _m = [Target Month]
+        RETURN
+            CALCULATE (
+                MAX ( Targets[target_value] ),
+                Targets[kpi] = "On-time delivery (customer view)",
+                Targets[scope] = "Site",
+                Targets[month_start] = _m
+            )
+
+    // ---------------------------------------------------------------- Scorecard (rows come from KPI_List)
+    MEASURE '_Measures'[KPI Actual] =
+        SWITCH (
+            SELECTEDVALUE ( KPI_List[kpi] ),
+            "Throughput (good units)", [Good Units],
+            "Yield", [Yield %],
+            "First-pass quality", [FPQ %],
+            "Scrap rate", [Scrap %],
+            "Unplanned downtime", [Unplanned Downtime %],
+            "On-time delivery", [OTD %]
+        )
+    MEASURE '_Measures'[KPI Target] =
+        SWITCH (
+            SELECTEDVALUE ( KPI_List[kpi] ),
+            "Throughput (good units)", [Throughput Target Units],
+            "Yield", [Target Yield %],
+            "First-pass quality", [Target FPQ %],
+            "Scrap rate", [Target Scrap %],
+            "Unplanned downtime", [Target Unplanned Downtime %],
+            "On-time delivery", [Target OTD %]
+        )
+    MEASURE '_Measures'[KPI Status] =
+        VAR _a = [KPI Actual]
+        VAR _t = [KPI Target]
+        VAR _lowerIsBetter = SELECTEDVALUE ( KPI_List[kpi] ) IN { "Scrap rate", "Unplanned downtime" }
+        RETURN
+            IF (
+                ISBLANK ( _a ) || ISBLANK ( _t ),
+                BLANK (),
+                IF ( _lowerIsBetter, IF ( _a <= _t, 1, -1 ), IF ( _a >= _t, 1, -1 ) )
+            )
+    MEASURE '_Measures'[KPI Actual (text)] =
+        VAR _k = SELECTEDVALUE ( KPI_List[kpi] )
+        VAR _a = [KPI Actual]
+        RETURN
+            IF (
+                ISBLANK ( _a ),
+                "-",
+                SWITCH ( _k, "Throughput (good units)", FORMAT ( _a, "#,0" ), "Scrap rate", FORMAT ( _a, "0.00%" ), FORMAT ( _a, "0.0%" ) )
+            )
+    MEASURE '_Measures'[KPI Target (text)] =
+        VAR _k = SELECTEDVALUE ( KPI_List[kpi] )
+        VAR _t = [KPI Target]
+        RETURN
+            IF (
+                ISBLANK ( _t ),
+                "-",
+                SWITCH ( _k, "Throughput (good units)", FORMAT ( _t, "#,0" ), "Scrap rate", FORMAT ( _t, "0.00%" ), FORMAT ( _t, "0.0%" ) )
+            )
+    MEASURE '_Measures'[KPI Gap (text)] =
+        VAR _k = SELECTEDVALUE ( KPI_List[kpi] )
+        VAR _a = [KPI Actual]
+        VAR _t = [KPI Target]
+        RETURN
+            IF (
+                ISBLANK ( _a ) || ISBLANK ( _t ),
+                "-",
+                IF (
+                    _k = "Throughput (good units)",
+                    FORMAT ( DIVIDE ( _a, _t ) - 1, "+0.0%;-0.0%;0.0%" ),
+                    FORMAT ( ( _a - _t ) * 100, "+0.00;-0.00;0.00" ) & " pp"
+                )
+            )
+
+    // ---------------------------------------------------------------- KPI conflicts page (rows come from KPI_Conflicts)
+    MEASURE '_Measures'[Conflict Value A] =
+        SWITCH (
+            SELECTEDVALUE ( KPI_Conflicts[kpi] ),
+            "Yield", FORMAT ( [Yield %], "0.0%" ),
+            "First-pass quality", FORMAT ( [FPQ %], "0.0%" ),
+            "Scrap", FORMAT ( [Scrap %], "0.00%" ),
+            "Unplanned downtime", FORMAT ( [Unplanned Downtime %], "0.0%" ),
+            "Throughput", FORMAT ( [Throughput vs Target %], "0.0%" ),
+            "On-time delivery", FORMAT ( [OTD %], "0.0%" )
+        )
+    MEASURE '_Measures'[Conflict Value B] =
+        SWITCH (
+            SELECTEDVALUE ( KPI_Conflicts[kpi] ),
+            "Yield", FORMAT ( [Yield % (good / filled)], "0.0%" ),
+            "First-pass quality", FORMAT ( [FPQ % (strict)], "0.0%" ),
+            "Scrap", FORMAT ( [Scrap % (all unit losses)], "0.00%" ),
+            "Unplanned downtime", FORMAT ( [Unplanned Downtime % (of scheduled time)], "0.0%" ),
+            "Throughput", FORMAT ( [Throughput vs Target % (released units)], "0.0%" ),
+            "On-time delivery", FORMAT ( [OTD % (ERP current due date)], "0.0%" )
+        )
+
+    // ---------------------------------------------------------------- Validation page
+    MEASURE '_Measures'[Checks With Findings] =
+        CALCULATE ( COUNTROWS ( Validation ), Validation[failing_rows] > 0, Validation[decision] <> "None needed" )
+    MEASURE '_Measures'[Check Colour] =
+        SWITCH (
+            SELECTEDVALUE ( Validation[status] ),
+            "Pass", "#E8F5E9",
+            "Fix", "#E3F2FD",
+            "Exclude", "#FFF3E0",
+            "Flag", "#FDECEA",
+            "#F2F2F2"
+        )
+    MEASURE '_Measures'[KPI Status Colour] =
+        SWITCH ( [KPI Status], 1, "#1B7F3B", -1, "#C0392B", "#7F7F7F" )
+
+EVALUATE
+ROW (
+    "Batches", [Batches],
+    "Yield %", [Yield %],
+    "FPQ %", [FPQ %],
+    "Scrap %", [Scrap %],
+    "Scrap EUR", [Scrap EUR],
+    "Unplanned Downtime %", [Unplanned Downtime %],
+    "Throughput vs Target %", [Throughput vs Target %],
+    "OTD %", [OTD %],
+    "OTD % (ERP current due date)", [OTD % (ERP current due date)]
+)

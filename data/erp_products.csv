@@ -1,0 +1,12 @@
+product_id,product_name,client_id,product_type,container,fill_volume_ml,target_fill_weight_g,approved_lines,std_cost_eur_per_unit
+PRD-101,mAb A 100 mg/4 mL vial,CL-01,Commercial,Vial 10R,4.0,4.244,FL-1,41.0
+PRD-102,mAb B 50 mg/2 mL vial,CL-02,Commercial,Vial 6R,2.0,2.122,FL-1;FL-2,27.0
+PRD-103,Enzyme C 10 mL vial,CL-03,Commercial,Vial 20R,10.0,10.609,FL-1,63.0
+PRD-104,Peptide D 1 mL vial,CL-02,Commercial,Vial 2R,1.0,1.061,FL-2,18.0
+PRD-105,mAb E 5 mL vial,CL-04,Commercial,Vial 10R,5.0,5.305,FL-1,46.0
+PRD-106,Fusion protein F 4 mL vial,CL-05,Commercial,Vial 10R,4.0,4.244,FL-2,52.0
+PRD-201,mAb G 1 mL prefilled syringe,CL-01,Commercial,Syringe 1 mL long,1.0,1.061,FL-3,35.0
+PRD-202,mAb H 2 mL prefilled syringe,CL-03,Commercial,Syringe 2.25 mL,2.0,2.122,FL-3,44.0
+PRD-203,Peptide J 0.5 mL prefilled syringe,CL-05,Commercial,Syringe 1 mL long,0.5,0.53,FL-3,22.0
+APS-V,"Media fill (aseptic process simulation), vials",,Media fill,Vial 10R,4.0,4.244,FL-1;FL-2,0.0
+APS-S,"Media fill (aseptic process simulation), syringes",,Media fill,Syringe 1 mL long,1.0,1.061,FL-3,0.0

@@ -1,0 +1,52 @@
+// Paste into a new DAX query view tab and press Run. Each EVALUATE returns its own result tab.
+// Compare the numbers with "Reference numbers" at the end of the guide.
+
+// 1. Year by line (no date filter)
+EVALUATE
+SUMMARIZECOLUMNS (
+    DimLine[line_id],
+    "Batches", [Batches],
+    "Good Units", [Good Units],
+    "Throughput vs Target %", [Throughput vs Target %],
+    "Yield %", [Yield %],
+    "FPQ %", [FPQ %],
+    "Scrap %", [Scrap %],
+    "Scrap EUR", [Scrap EUR],
+    "Unplanned Downtime %", [Unplanned Downtime %]
+)
+
+// 2. Week 39 (21-27 Sep 2026) by line
+EVALUATE
+SUMMARIZECOLUMNS (
+    DimLine[line_id],
+    TREATAS ( { DATE ( 2026, 9, 21 ) }, DimDate[WeekStart] ),
+    "Good Units", [Good Units],
+    "Target Units", [Throughput Target Units],
+    "Yield %", [Yield %],
+    "FPQ %", [FPQ %],
+    "Scrap %", [Scrap %],
+    "Unplanned Downtime %", [Unplanned Downtime %]
+)
+
+// 3. Week 39 on-time delivery (site)
+EVALUATE
+CALCULATETABLE (
+    ROW ( "Orders Due", [Orders Due], "Orders On Time", [Orders On Time], "OTD %", [OTD %] ),
+    DimDate[WeekStart] = DATE ( 2026, 9, 21 )
+)
+
+// 4. The conflict pairs for the whole year
+EVALUATE
+ROW (
+    "Yield A", [Yield %], "Yield B", [Yield % (good / filled)],
+    "FPQ A", [FPQ %], "FPQ B", [FPQ % (strict)],
+    "Scrap A", [Scrap %], "Scrap B", [Scrap % (all unit losses)],
+    "Downtime A", [Unplanned Downtime %], "Downtime B", [Unplanned Downtime % (of scheduled time)],
+    "Throughput A", [Throughput vs Target %], "Throughput B", [Throughput vs Target % (released units)],
+    "OTD A", [OTD %], "OTD B", [OTD % (ERP current due date)], "OTD customer view", [OTD % (customer view)]
+)
+
+// 5. Validation checks
+EVALUATE
+Validation
+ORDER BY Validation[check_id]

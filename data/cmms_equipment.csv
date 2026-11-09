@@ -1,0 +1,22 @@
+equipment_id,equipment_name,line_id,equipment_type,install_year,criticality
+FL-1-TUN,Depyrogenation tunnel,FL-1,TUN,2019,B
+FL-1-FIL,Filling machine,FL-1,FIL,2019,A
+FL-1-STP,Stoppering unit,FL-1,STP,2019,A
+FL-1-CAP,Capping machine,FL-1,CAP,2019,B
+FL-1-ISO,Isolator,FL-1,ISO,2019,A
+FL-1-LINE,Line level (no specific equipment),FL-1,LINE,2019,
+FL-2-TUN,Depyrogenation tunnel,FL-2,TUN,2011,B
+FL-2-FIL,Filling machine,FL-2,FIL,2011,A
+FL-2-STP,Stoppering unit,FL-2,STP,2011,A
+FL-2-CAP,Capping machine,FL-2,CAP,2011,B
+FL-2-ISO,Isolator,FL-2,ISO,2011,A
+FL-2-LINE,Line level (no specific equipment),FL-2,LINE,2011,
+FL-3-DNS,Tub denester,FL-3,DNS,2021,B
+FL-3-FIL,Filling machine,FL-3,FIL,2021,A
+FL-3-STP,Plunger stoppering unit,FL-3,STP,2021,A
+FL-3-ISO,Isolator,FL-3,ISO,2021,A
+FL-3-LINE,Line level (no specific equipment),FL-3,LINE,2021,
+AVI-1,Automated visual inspection 1 (vials),,AVI,2018,B
+AVI-2,Automated visual inspection 2 (syringes),,AVI,2018,B
+PK-1,Labelling and packaging line 1 (vials),,PKG,2018,B
+PK-2,Labelling and packaging line 2 (syringes),,PKG,2018,B

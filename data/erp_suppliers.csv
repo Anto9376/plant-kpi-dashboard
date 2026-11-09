@@ -1,0 +1,7 @@
+supplier_id,supplier_name,supplies,country
+SUP-G1,Supplier G1,Glass vials,DE
+SUP-G2,Supplier G2,Syringe barrels,CH
+SUP-S1,Supplier S1,Vial stoppers,US
+SUP-B,Supplier B,Plunger stoppers,DE
+SUP-C,Supplier C,Plunger stoppers,PL
+SUP-K,Supplier K,Aluminium caps,IT

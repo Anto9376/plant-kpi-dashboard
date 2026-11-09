@@ -1,0 +1,224 @@
+deviation_id,batch_id,line_id,opened_date,category,severity,status,closed_date,root_cause_category,capa_required
+DEV-25-0611,B3-0133,FL-3,2025-10-02,Line clearance finding,Minor,Closed,2025-10-18,Procedure,N
+DEV-25-0612,B1-0401,FL-1,2025-10-02,Documentation error,Minor,Closed,2025-10-18,Human error,N
+DEV-25-0613,B3-0134,FL-3,2025-10-06,Documentation error,Minor,Closed,2025-10-27,Human error,N
+DEV-25-0614,B1-0404,FL-1,2025-10-07,EM excursion (Grade B/C),Minor,Closed,2025-10-14,Environment,N
+DEV-25-0615,B1-0404,FL-1,2025-10-07,Process parameter excursion,Minor,Closed,2025-10-16,Equipment,N
+DEV-25-0616,B2-0292,FL-2,2025-10-08,EM excursion (Grade B/C),Minor,Closed,2025-10-18,Environment,N
+DEV-25-0617,B1-0407,FL-1,2025-10-11,EM excursion (Grade B/C),Minor,Closed,2025-10-23,Environment,Y
+DEV-25-0618,B1-0408,FL-1,2025-10-13,Process parameter excursion,Major,Closed,2025-11-08,Equipment,Y
+DEV-25-0619,B1-0408,FL-1,2025-10-14,Process parameter excursion,Major,Closed,2025-11-14,Equipment,Y
+DEV-25-0620,B1-0411,FL-1,2025-10-16,Process parameter excursion,Minor,Closed,2025-10-25,Equipment,N
+DEV-25-0621,B3-0141,FL-3,2025-10-16,EM excursion (Grade A),Major,Closed,2025-11-16,Environment,Y
+DEV-25-0622,B2-0296,FL-2,2025-10-18,Process parameter excursion,Minor,Closed,2025-10-28,Equipment,N
+DEV-25-0623,B2-0297,FL-2,2025-10-21,Process parameter excursion,Major,Closed,2025-11-16,Equipment,Y
+DEV-25-0624,B3-0143,FL-3,2025-10-21,Documentation error,Minor,Closed,2025-10-31,Human error,N
+DEV-25-0625,B2-0301,FL-2,2025-10-27,Process parameter excursion,Major,Closed,2025-11-30,Equipment,Y
+DEV-25-0626,B3-0146,FL-3,2025-10-29,Documentation error,Minor,Closed,2025-11-16,Human error,N
+DEV-25-0627,B3-0146,FL-3,2025-10-30,Documentation error,Minor,Closed,2025-11-11,Human error,N
+DEV-25-0628,B1-0422,FL-1,2025-10-30,Process parameter excursion,Minor,Closed,2025-11-09,Equipment,Y
+DEV-25-0629,B1-0422,FL-1,2025-10-31,Process parameter excursion,Minor,Closed,2025-11-14,Equipment,Y
+DEV-25-0630,B2-0305,FL-2,2025-11-04,Process parameter excursion,Minor,Closed,2025-11-23,Equipment,N
+DEV-25-0631,B1-0426,FL-1,2025-11-05,Line clearance finding,Minor,Closed,2025-11-25,Procedure,N
+DEV-25-0632,B1-0426,FL-1,2025-11-05,EM excursion (Grade B/C),Minor,Closed,2025-11-22,Environment,Y
+DEV-25-0633,B1-0427,FL-1,2025-11-05,Line clearance finding,Minor,Closed,2025-11-23,Procedure,N
+DEV-25-0634,B1-0427,FL-1,2025-11-05,Documentation error,Minor,Closed,2025-11-17,Human error,N
+DEV-25-0635,B1-0427,FL-1,2025-11-06,Documentation error,Minor,Closed,2025-11-18,Human error,N
+DEV-25-0636,B2-0307,FL-2,2025-11-06,Documentation error,Minor,Closed,2025-12-09,Human error,N
+DEV-25-0637,B2-0307,FL-2,2025-11-06,Other,Minor,Closed,2025-11-16,Unknown,N
+DEV-25-0638,B2-0308,FL-2,2025-11-07,Documentation error,Minor,Closed,2025-11-23,Human error,N
+DEV-25-0639,B3-0152,FL-3,2025-11-11,Aseptic filling interrupted > 3 h,Major,Closed,2025-12-22,Equipment,Y
+DEV-25-0640,B2-0311,FL-2,2025-11-12,Documentation error,Minor,Closed,2025-11-24,Human error,N
+DEV-25-0641,B3-0153,FL-3,2025-11-12,Documentation error,Minor,Closed,2025-11-20,Human error,Y
+DEV-25-0642,B3-0154,FL-3,2025-11-13,Process parameter excursion,Major,Closed,2025-12-07,Equipment,Y
+DEV-25-0643,B2-0312,FL-2,2025-11-13,Process parameter excursion,Minor,Closed,2025-11-29,Equipment,N
+DEV-25-0644,B1-0433,FL-1,2025-11-14,Process parameter excursion,Major,Closed,2025-12-16,Equipment,Y
+DEV-25-0645,B1-0433,FL-1,2025-11-15,Line clearance finding,Minor,Closed,2025-11-29,Procedure,N
+DEV-25-0646,B3-0156,FL-3,2025-11-18,Documentation error,Minor,Closed,2025-12-10,Human error,N
+DEV-25-0647,B2-0318,FL-2,2025-11-20,Documentation error,Minor,Closed,2025-11-29,Human error,N
+DEV-25-0648,B3-0159,FL-3,2025-11-25,Process parameter excursion,Minor,Closed,2025-12-13,Equipment,N
+DEV-25-0649,B1-0437,FL-1,2025-11-25,Other,Minor,Closed,2025-12-18,Unknown,N
+DEV-25-0650,B3-0160,FL-3,2025-11-26,Line clearance finding,Minor,Closed,2025-12-10,Procedure,N
+DEV-25-0651,B1-0439,FL-1,2025-11-27,Documentation error,Minor,Closed,2025-12-14,Human error,N
+DEV-25-0652,B2-0324,FL-2,2025-11-28,Process parameter excursion,Minor,Closed,2025-12-12,Equipment,Y
+DEV-25-0653,B2-0324,FL-2,2025-11-28,Process parameter excursion,Major,Closed,2025-12-19,Equipment,Y
+DEV-25-0654,B1-0443,FL-1,2025-12-02,EM excursion (Grade A),Major,Closed,2025-12-27,Environment,Y
+DEV-25-0655,B1-0447,FL-1,2025-12-09,Line clearance finding,Minor,Closed,2025-12-26,Procedure,Y
+DEV-25-0656,B1-0449,FL-1,2025-12-10,Documentation error,Minor,Closed,2025-12-30,Human error,N
+DEV-25-0657,B1-0450,FL-1,2025-12-11,EM excursion (Grade B/C),Minor,Closed,2026-01-03,Environment,N
+DEV-25-0658,B2-0336,FL-2,2025-12-13,Documentation error,Minor,Closed,2025-12-21,Human error,N
+DEV-25-0659,B1-0452,FL-1,2025-12-13,EM excursion (Grade B/C),Minor,Closed,2025-12-26,Environment,N
+DEV-25-0660,B1-0453,FL-1,2025-12-16,Process parameter excursion,Major,Closed,2026-01-21,Equipment,Y
+DEV-25-0661,B1-0455,FL-1,2025-12-18,Process parameter excursion,Minor,Closed,2025-12-31,Equipment,N
+DEV-25-0662,B2-0340,FL-2,2025-12-18,Documentation error,Minor,Closed,2025-12-26,Human error,Y
+DEV-26-0001,B2-0347,FL-2,2026-01-10,Documentation error,Minor,Closed,2026-01-19,Human error,N
+DEV-26-0002,B2-0347,FL-2,2026-01-10,Documentation error,Minor,Closed,2026-01-20,Human error,N
+DEV-26-0003,B1-0463,FL-1,2026-01-12,Process parameter excursion,Major,Closed,2026-02-07,Equipment,Y
+DEV-26-0004,B1-0463,FL-1,2026-01-12,EM excursion (Grade B/C),Minor,Closed,2026-01-19,Environment,Y
+DEV-26-0005,B1-0463,FL-1,2026-01-13,Process parameter excursion,Minor,Closed,2026-01-18,Equipment,N
+DEV-26-0006,B1-0465,FL-1,2026-01-14,Documentation error,Minor,Closed,2026-02-18,Human error,N
+DEV-26-0007,B2-0351,FL-2,2026-01-15,Other,Minor,Closed,2026-01-30,Unknown,Y
+DEV-26-0008,B2-0352,FL-2,2026-01-17,Other,Minor,Closed,2026-01-28,Unknown,N
+DEV-26-0009,B2-0355,FL-2,2026-01-20,Process parameter excursion,Major,Closed,2026-02-21,Equipment,Y
+DEV-26-0010,B2-0357,FL-2,2026-01-22,Aseptic filling interrupted > 3 h,Major,Closed,2026-02-19,Equipment,Y
+DEV-26-0011,B1-0471,FL-1,2026-01-23,EM excursion (Grade A),Major,Closed,2026-02-13,Environment,Y
+DEV-26-0012,B2-0359,FL-2,2026-01-24,Aseptic filling interrupted > 3 h,Major,Closed,2026-02-16,Equipment,Y
+DEV-26-0013,B2-0361,FL-2,2026-01-28,Process parameter excursion,Major,Closed,2026-02-12,Equipment,Y
+DEV-26-0014,B1-0473,FL-1,2026-01-28,"EM excursion (Grade A), sterility assurance not demonstrated",Critical,Closed,2026-03-15,Environment,Y
+DEV-26-0015,B1-0475,FL-1,2026-01-29,Other,Minor,Closed,2026-02-08,Unknown,Y
+DEV-26-0016,B3-0183,FL-3,2026-01-30,Line clearance finding,Minor,Closed,2026-02-08,Procedure,N
+DEV-26-0017,B3-0187,FL-3,2026-02-06,Documentation error,Minor,Closed,2026-02-19,Human error,N
+DEV-26-0018,B2-0369,FL-2,2026-02-06,EM excursion (Grade B/C),Minor,Closed,2026-02-21,Environment,N
+DEV-26-0019,B1-0481,FL-1,2026-02-10,Documentation error,Minor,Closed,2026-03-03,Human error,N
+DEV-26-0020,B2-0373,FL-2,2026-02-12,Process parameter excursion,Major,Closed,2026-03-18,Equipment,Y
+DEV-26-0021,B1-0484,FL-1,2026-02-12,Documentation error,Minor,Closed,2026-02-23,Human error,N
+DEV-26-0022,B3-0189,FL-3,2026-02-12,Process parameter excursion,Minor,Closed,2026-02-23,Equipment,N
+DEV-26-0023,B1-0483,FL-1,2026-02-12,Line clearance finding,Minor,Closed,2026-02-25,Procedure,N
+DEV-26-0024,B2-0374,FL-2,2026-02-13,Aseptic filling interrupted > 3 h,Major,Closed,2026-03-26,Equipment,Y
+DEV-26-0025,B3-0190,FL-3,2026-02-13,Other,Minor,Closed,2026-03-03,Unknown,N
+DEV-26-0026,B1-0484,FL-1,2026-02-13,Documentation error,Minor,Closed,2026-02-21,Human error,N
+DEV-26-0027,B1-0486,FL-1,2026-02-14,Documentation error,Minor,Closed,2026-03-06,Human error,N
+DEV-26-0028,B3-0193,FL-3,2026-02-19,Line clearance finding,Minor,Closed,2026-03-06,Procedure,N
+DEV-26-0029,B1-0489,FL-1,2026-02-19,EM excursion (Grade B/C),Minor,Closed,2026-02-28,Environment,N
+DEV-26-0030,B2-0378,FL-2,2026-02-20,Line clearance finding,Minor,Closed,2026-03-02,Procedure,N
+DEV-26-0031,B1-0493,FL-1,2026-02-24,Process parameter excursion,Minor,Closed,2026-03-10,Equipment,N
+DEV-26-0032,B2-0381,FL-2,2026-02-25,Documentation error,Minor,Closed,2026-03-07,Human error,N
+DEV-26-0033,B3-0196,FL-3,2026-02-27,Documentation error,Minor,Closed,2026-03-13,Human error,N
+DEV-26-0034,B3-0198,FL-3,2026-03-04,Line clearance finding,Minor,Closed,2026-03-12,Procedure,N
+DEV-26-0035,B1-0500,FL-1,2026-03-06,Documentation error,Minor,Closed,2026-03-12,Human error,N
+DEV-26-0036,B2-0388,FL-2,2026-03-07,Documentation error,Minor,Closed,2026-03-20,Human error,N
+DEV-26-0037,B2-0389,FL-2,2026-03-09,Aseptic filling interrupted > 3 h,Major,Closed,2026-04-04,Equipment,Y
+DEV-26-0038,B1-0501,FL-1,2026-03-09,Other,Minor,Closed,2026-03-21,Unknown,N
+DEV-26-0039,B3-0203,FL-3,2026-03-11,Documentation error,Minor,Closed,2026-03-23,Human error,N
+DEV-26-0040,B1-0503,FL-1,2026-03-11,Documentation error,Minor,Closed,2026-03-21,Human error,N
+DEV-26-0041,B1-0503,FL-1,2026-03-11,EM excursion (Grade B/C),Minor,Closed,2026-04-02,Environment,N
+DEV-26-0042,B2-0392,FL-2,2026-03-12,Documentation error,Minor,Closed,2026-03-28,Human error,N
+DEV-26-0043,B3-0206,FL-3,2026-03-14,EM excursion (Grade B/C),Minor,Closed,2026-03-28,Environment,N
+DEV-26-0044,B2-0394,FL-2,2026-03-16,Aseptic filling interrupted > 3 h,Major,Closed,2026-05-10,Equipment,Y
+DEV-26-0045,B3-0207,FL-3,2026-03-17,Inspection reject rate above alert limit,Minor,Closed,2026-03-24,Material/component,N
+DEV-26-0046,B2-0395,FL-2,2026-03-18,Other,Minor,Closed,2026-03-28,Unknown,N
+DEV-26-0047,B1-0507,FL-1,2026-03-18,EM excursion (Grade B/C),Minor,Closed,2026-03-27,Environment,N
+DEV-26-0048,B1-0507,FL-1,2026-03-19,EM excursion (Grade B/C),Minor,Closed,2026-03-27,Environment,N
+DEV-26-0049,B3-0209,FL-3,2026-03-19,Inspection reject rate above alert limit,Minor,Closed,2026-04-10,Material/component,N
+DEV-26-0050,B3-0210,FL-3,2026-03-20,Inspection reject rate above alert limit,Minor,Closed,2026-04-03,Material/component,N
+DEV-26-0051,B3-0211,FL-3,2026-03-23,Inspection reject rate above alert limit,Minor,Closed,2026-04-03,Material/component,N
+DEV-26-0052,B2-0400,FL-2,2026-03-24,Aseptic filling interrupted > 3 h,Major,Closed,2026-04-23,Equipment,Y
+DEV-26-0053,B3-0212,FL-3,2026-03-24,Process parameter excursion,Major,Closed,2026-05-11,Equipment,Y
+DEV-26-0054,B3-0213,FL-3,2026-03-25,Inspection reject rate above alert limit,Minor,Closed,2026-04-02,Material/component,N
+DEV-26-0055,B3-214,FL-3,2026-03-25,Process parameter excursion,Major,Closed,2026-06-09,Equipment,Y
+DEV-26-0056,B3-0215,FL-3,2026-03-26,Inspection reject rate above alert limit,Minor,Closed,2026-05-05,Material/component,Y
+DEV-26-0057,B2-0403,FL-2,2026-03-26,EM excursion (Grade B/C),Minor,Closed,2026-04-17,Environment,N
+DEV-26-0058,B2-0403,FL-2,2026-03-27,Line clearance finding,Minor,Closed,2026-04-17,Procedure,N
+DEV-26-0059,B2-0404,FL-2,2026-03-27,Aseptic filling interrupted > 3 h,Major,Closed,2026-05-16,Equipment,Y
+DEV-26-0060,B3-0223,FL-3,2026-04-10,Inspection reject rate above alert limit,Minor,Closed,2026-04-19,Material/component,N
+DEV-26-0061,B1-0520,FL-1,2026-04-10,Documentation error,Minor,Closed,2026-04-19,Human error,Y
+DEV-26-0062,B2-0410,FL-2,2026-04-10,Line clearance finding,Minor,Closed,2026-04-26,Procedure,N
+DEV-26-0063,B2-0412,FL-2,2026-04-14,Documentation error,Minor,Closed,2026-04-25,Human error,N
+DEV-26-0064,B3-0225,FL-3,2026-04-14,EM excursion (Grade B/C),Minor,Closed,2026-04-30,Environment,N
+DEV-26-0065,B3-0227,FL-3,2026-04-16,Documentation error,Minor,Closed,2026-04-29,Human error,Y
+DEV-26-0066,B3-0227,FL-3,2026-04-16,Inspection reject rate above alert limit,Minor,Closed,2026-04-23,Material/component,N
+DEV-26-0067,B3-0229,FL-3,2026-04-17,Inspection reject rate above alert limit,Minor,Closed,2026-05-06,Material/component,Y
+DEV-26-0068,B1-0525,FL-1,2026-04-18,Process parameter excursion,Minor,Closed,2026-05-07,Equipment,Y
+DEV-26-0069,B3-0230,FL-3,2026-04-21,Inspection reject rate above alert limit,Minor,Closed,2026-05-02,Material/component,N
+DEV-26-0070,B3-0231,FL-3,2026-04-21,EM excursion (Grade B/C),Minor,Closed,2026-05-05,Environment,Y
+DEV-26-0071,B2-0419,FL-2,2026-04-22,EM excursion (Grade A),Major,Closed,2026-05-18,Environment,Y
+DEV-26-0072,B1-0529,FL-1,2026-04-23,Process parameter excursion,Minor,Closed,2026-05-04,Equipment,Y
+DEV-26-0073,B2-0422,FL-2,2026-04-24,EM excursion (Grade B/C),Minor,Closed,2026-05-05,Environment,N
+DEV-26-0074,B2-0422,FL-2,2026-04-24,Process parameter excursion,Major,Closed,2026-06-09,Equipment,Y
+DEV-26-0075,B3-0234,FL-3,2026-04-24,Documentation error,Minor,Closed,2026-05-16,Human error,N
+DEV-26-0076,B3-0236,FL-3,2026-04-28,Inspection reject rate above alert limit,Minor,Closed,2026-05-05,Material/component,N
+DEV-26-0077,B1-0536,FL-1,2026-05-01,Process parameter excursion,Major,Closed,2026-06-03,Equipment,Y
+DEV-26-0078,B2-0426,FL-2,2026-05-02,Container closure integrity failure (stopper seating),Critical,Closed,2026-06-17,Equipment,Y
+DEV-26-0079,B1-0538,FL-1,2026-05-06,Documentation error,Minor,Closed,2026-05-15,Human error,N
+DEV-26-0080,B3-0244,FL-3,2026-05-07,Documentation error,Minor,Closed,2026-05-27,Human error,N
+DEV-26-0081,B2-0433,FL-2,2026-05-11,Documentation error,Minor,Closed,2026-05-21,Human error,N
+DEV-26-0082,B3-0246,FL-3,2026-05-12,Inspection reject rate above alert limit,Minor,Closed,2026-05-31,Material/component,N
+DEV-26-0083,B3-0248,FL-3,2026-05-12,Documentation error,Minor,Closed,2026-05-27,Human error,Y
+DEV-26-0084,B2-0434,FL-2,2026-05-12,EM excursion (Grade B/C),Minor,Closed,2026-05-24,Environment,N
+DEV-26-0085,B2-0434,FL-2,2026-05-13,Documentation error,Minor,Closed,2026-05-27,Human error,N
+DEV-26-0086,B3-0248,FL-3,2026-05-13,Inspection reject rate above alert limit,Minor,Closed,2026-05-22,Material/component,N
+DEV-26-0087,B3-0249,FL-3,2026-05-14,Documentation error,Minor,Closed,2026-05-27,Human error,N
+DEV-26-0088,B3-0250,FL-3,2026-05-15,Process parameter excursion,Minor,Closed,2026-05-28,Equipment,N
+DEV-26-0089,B3-0251,FL-3,2026-05-18,Process parameter excursion,Major,Closed,2026-06-16,Equipment,Y
+DEV-26-0090,B2-0436,FL-2,2026-05-19,Aseptic filling interrupted > 3 h,Major,Closed,2026-06-13,Equipment,Y
+DEV-26-0091,B3-0253,FL-3,2026-05-21,Other,Minor,Closed,2026-05-29,Unknown,Y
+DEV-26-0092,B2-0438,FL-2,2026-05-22,Documentation error,Minor,Closed,2026-06-10,Human error,Y
+DEV-26-0093,B2-0438,FL-2,2026-05-22,Documentation error,Minor,Closed,2026-06-01,Human error,N
+DEV-26-0094,B3-0254,FL-3,2026-05-26,Inspection reject rate above alert limit,Minor,Closed,2026-06-10,Material/component,Y
+DEV-26-0095,B3-0255,FL-3,2026-05-26,Documentation error,Minor,Closed,2026-06-06,Human error,N
+DEV-26-0096,B3-0255,FL-3,2026-05-27,Inspection reject rate above alert limit,Minor,Closed,2026-06-11,Material/component,Y
+DEV-26-0097,B3-0256,FL-3,2026-05-27,Inspection reject rate above alert limit,Minor,Closed,2026-06-11,Material/component,Y
+DEV-26-0098,B3-0256,FL-3,2026-05-28,Documentation error,Minor,Closed,2026-06-12,Human error,N
+DEV-26-0099,B1-0551,FL-1,2026-05-29,EM excursion (Grade B/C),Minor,Closed,2026-06-10,Environment,N
+DEV-26-0100,B1-0550,FL-1,2026-05-29,Process parameter excursion,Minor,Closed,2026-06-11,Equipment,N
+DEV-26-0101,B3-0257,FL-3,2026-05-29,Inspection reject rate above alert limit,Minor,Closed,2026-06-17,Material/component,N
+DEV-26-0102,B3-0258,FL-3,2026-05-29,Inspection reject rate above alert limit,Minor,Closed,2026-06-12,Material/component,N
+DEV-26-0103,B1-0553,FL-1,2026-06-01,Documentation error,Minor,Closed,2026-06-14,Human error,N
+DEV-26-0104,B2-0445,FL-2,2026-06-03,Process parameter excursion,Minor,Closed,2026-06-12,Equipment,N
+DEV-26-0105,B3-0261,FL-3,2026-06-04,Inspection reject rate above alert limit,Minor,Closed,2026-06-22,Material/component,N
+DEV-26-0106,B2-0450,FL-2,2026-06-10,EM excursion (Grade A),Major,Closed,2026-07-31,Environment,Y
+DEV-26-0107,B2-0451,FL-2,2026-06-10,Documentation error,Minor,Closed,2026-06-22,Human error,N
+DEV-26-0108,B2-452,FL-2,2026-06-11,EM excursion (Grade B/C),Minor,Closed,2026-06-28,Environment,N
+DEV-26-0109,B3-0271,FL-3,2026-06-16,Inspection reject rate above alert limit,Minor,Closed,2026-06-27,Material/component,N
+DEV-26-0110,B3-0273,FL-3,2026-06-18,Inspection reject rate above alert limit,Minor,Closed,2026-06-27,Material/component,N
+DEV-26-0111,B3-0274,FL-3,2026-06-19,Inspection reject rate above alert limit,Minor,Closed,2026-06-26,Material/component,N
+DEV-26-0112,B3-0275,FL-3,2026-06-19,Inspection reject rate above alert limit,Minor,Closed,2026-07-02,Material/component,N
+DEV-26-0113,B2-0460,FL-2,2026-06-22,Aseptic filling interrupted > 3 h,Major,Closed,2026-07-27,Equipment,Y
+DEV-26-0114,B3-0278,FL-3,2026-06-24,EM excursion (Grade A),Major,Closed,2026-08-03,Environment,Y
+DEV-26-0115,B2-0462,FL-2,2026-06-24,Aseptic filling interrupted > 3 h,Major,Closed,2026-07-27,Equipment,Y
+DEV-26-0116,B3-0278,FL-3,2026-06-25,Inspection reject rate above alert limit,Minor,Closed,2026-07-07,Material/component,N
+DEV-26-0117,B3-0280,FL-3,2026-06-25,Inspection reject rate above alert limit,Minor,Closed,2026-07-13,Material/component,N
+DEV-26-0118,B2-0463,FL-2,2026-06-26,Process parameter excursion,Minor,Closed,2026-07-09,Equipment,Y
+DEV-26-0119,B3-0281,FL-3,2026-06-26,Documentation error,Minor,Closed,2026-07-15,Human error,N
+DEV-26-0120,B3-0281,FL-3,2026-06-26,Inspection reject rate above alert limit,Minor,Closed,2026-07-03,Material/component,N
+DEV-26-0121,B2-0464,FL-2,2026-06-27,Documentation error,Minor,Closed,2026-07-15,Human error,N
+DEV-26-0122,B3-0283,FL-3,2026-06-30,EM excursion (Grade B/C),Minor,Closed,2026-07-12,Environment,Y
+DEV-26-0123,B3-0286,FL-3,2026-07-03,Inspection reject rate above alert limit,Minor,Closed,2026-07-17,Material/component,N
+DEV-26-0124,B1-0579,FL-1,2026-07-07,EM excursion (Grade B/C),Minor,Closed,2026-07-23,Environment,N
+DEV-26-0125,B3-0290,FL-3,2026-07-08,Inspection reject rate above alert limit,Minor,Closed,2026-07-19,Material/component,N
+DEV-26-0126,B2-0470,FL-2,2026-07-08,Documentation error,Minor,Closed,2026-07-19,Human error,N
+DEV-26-0127,B2-0471,FL-2,2026-07-09,Process parameter excursion,Minor,Closed,2026-07-29,Equipment,N
+DEV-26-0128,B3-0293,FL-3,2026-07-10,Inspection reject rate above alert limit,Minor,Closed,2026-07-31,Material/component,N
+DEV-26-0129,B3-0294,FL-3,2026-07-27,Inspection reject rate above alert limit,Minor,Closed,2026-08-06,Material/component,N
+DEV-26-0130,B3-0295,FL-3,2026-07-28,EM excursion (Grade B/C),Minor,Closed,2026-08-11,Environment,Y
+DEV-26-0131,B2-0475,FL-2,2026-07-28,EM excursion (Grade B/C),Minor,Closed,2026-08-07,Environment,N
+DEV-26-0132,B2-0478,FL-2,2026-07-30,Documentation error,Minor,Closed,2026-08-09,Human error,N
+DEV-26-0133,B3-0299,FL-3,2026-07-31,Line clearance finding,Minor,Closed,2026-08-15,Procedure,Y
+DEV-26-0134,B3-0301,FL-3,2026-08-04,Process parameter excursion,Major,Closed,2026-09-03,Equipment,Y
+DEV-26-0135,B3-0301,FL-3,2026-08-04,Inspection reject rate above action limit,Major,Closed,2026-08-20,Material/component,Y
+DEV-26-0136,B3-0302,FL-3,2026-08-05,Inspection reject rate above alert limit,Minor,Closed,2026-08-27,Material/component,N
+DEV-26-0137,B3-0302,FL-3,2026-08-05,Process parameter excursion,Minor,Closed,2026-08-19,Equipment,N
+DEV-26-0138,B3-0303,FL-3,2026-08-06,Inspection reject rate above alert limit,Minor,Closed,2026-08-15,Material/component,N
+DEV-26-0139,B1-0592,FL-1,2026-08-06,Other,Minor,Closed,2026-08-15,Unknown,N
+DEV-26-0140,B2-0482,FL-2,2026-08-07,Process parameter excursion,Minor,Closed,2026-09-03,Equipment,N
+DEV-26-0141,B2-0486,FL-2,2026-08-12,Process parameter excursion,Minor,Closed,2026-08-29,Equipment,N
+DEV-26-0142,B1-0596,FL-1,2026-08-13,EM excursion (Grade B/C),Minor,Closed,2026-08-29,Environment,N
+DEV-26-0143,B3-0309,FL-3,2026-08-13,Process parameter excursion,Minor,Closed,2026-08-30,Equipment,N
+DEV-26-0144,B3-0312,FL-3,2026-08-14,Other,Minor,Closed,2026-08-23,Unknown,N
+DEV-26-0145,B1-0599,FL-1,2026-08-15,Documentation error,Minor,Closed,2026-08-24,Human error,N
+DEV-26-0146,B1-0602,FL-1,2026-08-20,Process parameter excursion,Minor,Closed,2026-08-27,Equipment,N
+DEV-26-0147,B1-0602,FL-1,2026-08-21,Process parameter excursion,Major,Closed,2026-09-23,Equipment,Y
+DEV-26-0148,B1-0603,FL-1,2026-08-22,EM excursion (Grade A),Major,Closed,2026-09-12,Environment,Y
+DEV-26-0149,B1-0604,FL-1,2026-08-24,Line clearance finding,Minor,Closed,2026-09-01,Procedure,N
+DEV-26-0150,B2-0495,FL-2,2026-08-25,Aseptic filling interrupted > 3 h,Major,Closed,2026-09-28,Equipment,Y
+DEV-26-0151,B2-0496,FL-2,2026-08-26,Documentation error,Minor,Closed,2026-09-07,Human error,Y
+DEV-26-0152,B2-0496,FL-2,2026-08-26,Documentation error,Minor,Closed,2026-09-05,Human error,N
+DEV-26-0153,B3-0320,FL-3,2026-08-27,Other,Minor,Closed,2026-09-06,Unknown,N
+DEV-26-0154,B1-0609,FL-1,2026-08-31,EM excursion (Grade A),Major,Open,,,Y
+DEV-26-0155,B2-0502,FL-2,2026-09-02,Other,Minor,Closed,2026-09-22,Unknown,N
+DEV-26-0156,B2-0502,FL-2,2026-09-02,Aseptic filling interrupted > 3 h,Major,Open,,,Y
+DEV-26-0157,B2-0502,FL-2,2026-09-03,EM excursion (Grade B/C),Minor,Closed,2026-09-10,Environment,N
+DEV-26-0158,B2-504,FL-2,2026-09-04,EM excursion (Grade B/C),Minor,Closed,2026-09-21,Environment,N
+DEV-26-0159,B2-0509,FL-2,2026-09-11,Line clearance finding,Minor,Closed,2026-09-30,Procedure,N
+DEV-26-0160,B3-0333,FL-3,2026-09-12,EM excursion (Grade B/C),Minor,Closed,2026-09-23,Environment,N
+DEV-26-0161,B1-0618,FL-1,2026-09-15,Documentation error,Minor,Closed,2026-09-26,Human error,N
+DEV-26-0162,B2-0511,FL-2,2026-09-16,EM excursion (Grade B/C),Minor,Open,,,Y
+DEV-26-0163,B1-0621,FL-1,2026-09-18,Line clearance finding,Minor,Closed,2026-09-29,Procedure,N
+DEV-26-0164,B3-0338,FL-3,2026-09-19,EM excursion (Grade B/C),Minor,Closed,2026-10-04,Environment,N
+DEV-26-0165,B2-0514,FL-2,2026-09-20,Documentation error,Minor,Open,,,N
+DEV-26-0166,B1-0622,FL-1,2026-09-21,Other,Minor,Open,,,Y
+DEV-26-0167,B1-0622,FL-1,2026-09-22,Documentation error,Minor,Closed,2026-10-04,Human error,N
+DEV-26-0168,B2-0516,FL-2,2026-09-24,Documentation error,Minor,Closed,2026-10-03,Human error,Y
+DEV-26-0169,B1-0625,FL-1,2026-09-24,Other,Minor,Closed,2026-10-03,Unknown,N
+DEV-26-0170,B3-0342,FL-3,2026-10-01,Documentation error,Minor,Open,,,N
+DEV-26-0171,B3-0343,FL-3,2026-10-01,Documentation error,Minor,Open,,,N
